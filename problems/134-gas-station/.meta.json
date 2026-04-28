@@ -1,0 +1,37 @@
+{
+  "difficulty": "Medium",
+  "dislikes": 1394,
+  "isPaidOnly": false,
+  "likes": 13534,
+  "questionFrontendId": "134",
+  "questionId": "134",
+  "similarQuestions": "[{\"title\": \"Maximize the Topmost Element After K Moves\", \"titleSlug\": \"maximize-the-topmost-element-after-k-moves\", \"difficulty\": \"Medium\", \"translatedTitle\": null}]",
+  "similar_parsed": [
+    {
+      "difficulty": "Medium",
+      "title": "Maximize the Topmost Element After K Moves",
+      "titleSlug": "maximize-the-topmost-element-after-k-moves",
+      "translatedTitle": null
+    }
+  ],
+  "stats": "{\"totalAccepted\": \"1.3M\", \"totalSubmission\": \"2.8M\", \"totalAcceptedRaw\": 1346451, \"totalSubmissionRaw\": 2812441, \"acRate\": \"47.9%\"}",
+  "stats_parsed": {
+    "acRate": "47.9%",
+    "totalAccepted": "1.3M",
+    "totalAcceptedRaw": 1346451,
+    "totalSubmission": "2.8M",
+    "totalSubmissionRaw": 2812441
+  },
+  "title": "Gas Station",
+  "titleSlug": "gas-station",
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "Greedy",
+      "slug": "greedy"
+    }
+  ]
+}

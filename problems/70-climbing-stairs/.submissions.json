@@ -1,0 +1,14 @@
+{
+  "slug": "climbing-stairs",
+  "submissions": [
+    {
+      "date_formatted": "2022-01-12 15:33:33",
+      "id": 618225677,
+      "lang": "cpp",
+      "memory": "5.9MB",
+      "runtime": "0ms",
+      "status_display": "Accepted",
+      "timestamp": 1641976413
+    }
+  ]
+}

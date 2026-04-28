@@ -1,0 +1,24 @@
+/**
+ * Example:
+ * var ti = TreeNode(5)
+ * var v = ti.`val`
+ * Definition for a binary tree node.
+ * class TreeNode(var `val`: Int) {
+ *     var left: TreeNode? = null
+ *     var right: TreeNode? = null
+ * }
+ */
+class Solution {
+    fun isSameTree(p: TreeNode?, q: TreeNode?): Boolean {
+
+        if(p != null && q != null) {
+            val l = isSameTree(p.left, q.left)
+            val r = isSameTree(p.right, q.right)
+            
+            return (p.`val` == q.`val` && l && r)
+        }
+
+        return p == null && q == null
+        
+    }
+}

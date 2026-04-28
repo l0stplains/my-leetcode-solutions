@@ -1,0 +1,101 @@
+{
+  "difficulty": "Medium",
+  "dislikes": 2217,
+  "isPaidOnly": false,
+  "likes": 45046,
+  "questionFrontendId": "3",
+  "questionId": "3",
+  "similarQuestions": "[{\"title\": \"Longest Substring with At Most Two Distinct Characters\", \"titleSlug\": \"longest-substring-with-at-most-two-distinct-characters\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Longest Substring with At Most K Distinct Characters\", \"titleSlug\": \"longest-substring-with-at-most-k-distinct-characters\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Subarrays with K Different Integers\", \"titleSlug\": \"subarrays-with-k-different-integers\", \"difficulty\": \"Hard\", \"translatedTitle\": null}, {\"title\": \"Maximum Erasure Value\", \"titleSlug\": \"maximum-erasure-value\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Number of Equal Count Substrings\", \"titleSlug\": \"number-of-equal-count-substrings\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Minimum Consecutive Cards to Pick Up\", \"titleSlug\": \"minimum-consecutive-cards-to-pick-up\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Longest Nice Subarray\", \"titleSlug\": \"longest-nice-subarray\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Optimal Partition of String\", \"titleSlug\": \"optimal-partition-of-string\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Count Complete Subarrays in an Array\", \"titleSlug\": \"count-complete-subarrays-in-an-array\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Find Longest Special Substring That Occurs Thrice II\", \"titleSlug\": \"find-longest-special-substring-that-occurs-thrice-ii\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Find Longest Special Substring That Occurs Thrice I\", \"titleSlug\": \"find-longest-special-substring-that-occurs-thrice-i\", \"difficulty\": \"Medium\", \"translatedTitle\": null}]",
+  "similar_parsed": [
+    {
+      "difficulty": "Medium",
+      "title": "Longest Substring with At Most Two Distinct Characters",
+      "titleSlug": "longest-substring-with-at-most-two-distinct-characters",
+      "translatedTitle": null
+    },
+    {
+      "difficulty": "Medium",
+      "title": "Longest Substring with At Most K Distinct Characters",
+      "titleSlug": "longest-substring-with-at-most-k-distinct-characters",
+      "translatedTitle": null
+    },
+    {
+      "difficulty": "Hard",
+      "title": "Subarrays with K Different Integers",
+      "titleSlug": "subarrays-with-k-different-integers",
+      "translatedTitle": null
+    },
+    {
+      "difficulty": "Medium",
+      "title": "Maximum Erasure Value",
+      "titleSlug": "maximum-erasure-value",
+      "translatedTitle": null
+    },
+    {
+      "difficulty": "Medium",
+      "title": "Number of Equal Count Substrings",
+      "titleSlug": "number-of-equal-count-substrings",
+      "translatedTitle": null
+    },
+    {
+      "difficulty": "Medium",
+      "title": "Minimum Consecutive Cards to Pick Up",
+      "titleSlug": "minimum-consecutive-cards-to-pick-up",
+      "translatedTitle": null
+    },
+    {
+      "difficulty": "Medium",
+      "title": "Longest Nice Subarray",
+      "titleSlug": "longest-nice-subarray",
+      "translatedTitle": null
+    },
+    {
+      "difficulty": "Medium",
+      "title": "Optimal Partition of String",
+      "titleSlug": "optimal-partition-of-string",
+      "translatedTitle": null
+    },
+    {
+      "difficulty": "Medium",
+      "title": "Count Complete Subarrays in an Array",
+      "titleSlug": "count-complete-subarrays-in-an-array",
+      "translatedTitle": null
+    },
+    {
+      "difficulty": "Medium",
+      "title": "Find Longest Special Substring That Occurs Thrice II",
+      "titleSlug": "find-longest-special-substring-that-occurs-thrice-ii",
+      "translatedTitle": null
+    },
+    {
+      "difficulty": "Medium",
+      "title": "Find Longest Special Substring That Occurs Thrice I",
+      "titleSlug": "find-longest-special-substring-that-occurs-thrice-i",
+      "translatedTitle": null
+    }
+  ],
+  "stats": "{\"totalAccepted\": \"9.4M\", \"totalSubmission\": \"24.1M\", \"totalAcceptedRaw\": 9391146, \"totalSubmissionRaw\": 24122628, \"acRate\": \"38.9%\"}",
+  "stats_parsed": {
+    "acRate": "38.9%",
+    "totalAccepted": "9.4M",
+    "totalAcceptedRaw": 9391146,
+    "totalSubmission": "24.1M",
+    "totalSubmissionRaw": 24122628
+  },
+  "title": "Longest Substring Without Repeating Characters",
+  "titleSlug": "longest-substring-without-repeating-characters",
+  "topicTags": [
+    {
+      "name": "Hash Table",
+      "slug": "hash-table"
+    },
+    {
+      "name": "String",
+      "slug": "string"
+    },
+    {
+      "name": "Sliding Window",
+      "slug": "sliding-window"
+    }
+  ]
+}

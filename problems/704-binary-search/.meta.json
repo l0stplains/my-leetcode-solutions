@@ -1,0 +1,43 @@
+{
+  "difficulty": "Easy",
+  "dislikes": 303,
+  "isPaidOnly": false,
+  "likes": 13521,
+  "questionFrontendId": "704",
+  "questionId": "792",
+  "similarQuestions": "[{\"title\": \"Search in a Sorted Array of Unknown Size\", \"titleSlug\": \"search-in-a-sorted-array-of-unknown-size\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Maximum Count of Positive Integer and Negative Integer\", \"titleSlug\": \"maximum-count-of-positive-integer-and-negative-integer\", \"difficulty\": \"Easy\", \"translatedTitle\": null}]",
+  "similar_parsed": [
+    {
+      "difficulty": "Medium",
+      "title": "Search in a Sorted Array of Unknown Size",
+      "titleSlug": "search-in-a-sorted-array-of-unknown-size",
+      "translatedTitle": null
+    },
+    {
+      "difficulty": "Easy",
+      "title": "Maximum Count of Positive Integer and Negative Integer",
+      "titleSlug": "maximum-count-of-positive-integer-and-negative-integer",
+      "translatedTitle": null
+    }
+  ],
+  "stats": "{\"totalAccepted\": \"3.9M\", \"totalSubmission\": \"6.4M\", \"totalAcceptedRaw\": 3891329, \"totalSubmissionRaw\": 6403544, \"acRate\": \"60.8%\"}",
+  "stats_parsed": {
+    "acRate": "60.8%",
+    "totalAccepted": "3.9M",
+    "totalAcceptedRaw": 3891329,
+    "totalSubmission": "6.4M",
+    "totalSubmissionRaw": 6403544
+  },
+  "title": "Binary Search",
+  "titleSlug": "binary-search",
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "Binary Search",
+      "slug": "binary-search"
+    }
+  ]
+}

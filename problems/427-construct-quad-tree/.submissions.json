@@ -1,0 +1,14 @@
+{
+  "slug": "construct-quad-tree",
+  "submissions": [
+    {
+      "date_formatted": "2026-03-08 19:15:33",
+      "id": 1941924785,
+      "lang": "kotlin",
+      "memory": "50.2MB",
+      "runtime": "162ms",
+      "status_display": "Accepted",
+      "timestamp": 1772972133
+    }
+  ]
+}

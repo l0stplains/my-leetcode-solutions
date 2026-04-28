@@ -1,0 +1,85 @@
+{
+  "difficulty": "Hard",
+  "dislikes": 1983,
+  "isPaidOnly": false,
+  "likes": 18430,
+  "questionFrontendId": "41",
+  "questionId": "41",
+  "similarQuestions": "[{\"title\": \"Missing Number\", \"titleSlug\": \"missing-number\", \"difficulty\": \"Easy\", \"translatedTitle\": null}, {\"title\": \"Find the Duplicate Number\", \"titleSlug\": \"find-the-duplicate-number\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Find All Numbers Disappeared in an Array\", \"titleSlug\": \"find-all-numbers-disappeared-in-an-array\", \"difficulty\": \"Easy\", \"translatedTitle\": null}, {\"title\": \"Couples Holding Hands\", \"titleSlug\": \"couples-holding-hands\", \"difficulty\": \"Hard\", \"translatedTitle\": null}, {\"title\": \"Smallest Number in Infinite Set\", \"titleSlug\": \"smallest-number-in-infinite-set\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Maximum Number of Integers to Choose From a Range I\", \"titleSlug\": \"maximum-number-of-integers-to-choose-from-a-range-i\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Smallest Missing Non-negative Integer After Operations\", \"titleSlug\": \"smallest-missing-non-negative-integer-after-operations\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Maximum Number of Integers to Choose From a Range II\", \"titleSlug\": \"maximum-number-of-integers-to-choose-from-a-range-ii\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Smallest Missing Integer Greater Than Sequential Prefix Sum\", \"titleSlug\": \"smallest-missing-integer-greater-than-sequential-prefix-sum\", \"difficulty\": \"Easy\", \"translatedTitle\": null}]",
+  "similar_parsed": [
+    {
+      "difficulty": "Easy",
+      "title": "Missing Number",
+      "titleSlug": "missing-number",
+      "translatedTitle": null
+    },
+    {
+      "difficulty": "Medium",
+      "title": "Find the Duplicate Number",
+      "titleSlug": "find-the-duplicate-number",
+      "translatedTitle": null
+    },
+    {
+      "difficulty": "Easy",
+      "title": "Find All Numbers Disappeared in an Array",
+      "titleSlug": "find-all-numbers-disappeared-in-an-array",
+      "translatedTitle": null
+    },
+    {
+      "difficulty": "Hard",
+      "title": "Couples Holding Hands",
+      "titleSlug": "couples-holding-hands",
+      "translatedTitle": null
+    },
+    {
+      "difficulty": "Medium",
+      "title": "Smallest Number in Infinite Set",
+      "titleSlug": "smallest-number-in-infinite-set",
+      "translatedTitle": null
+    },
+    {
+      "difficulty": "Medium",
+      "title": "Maximum Number of Integers to Choose From a Range I",
+      "titleSlug": "maximum-number-of-integers-to-choose-from-a-range-i",
+      "translatedTitle": null
+    },
+    {
+      "difficulty": "Medium",
+      "title": "Smallest Missing Non-negative Integer After Operations",
+      "titleSlug": "smallest-missing-non-negative-integer-after-operations",
+      "translatedTitle": null
+    },
+    {
+      "difficulty": "Medium",
+      "title": "Maximum Number of Integers to Choose From a Range II",
+      "titleSlug": "maximum-number-of-integers-to-choose-from-a-range-ii",
+      "translatedTitle": null
+    },
+    {
+      "difficulty": "Easy",
+      "title": "Smallest Missing Integer Greater Than Sequential Prefix Sum",
+      "titleSlug": "smallest-missing-integer-greater-than-sequential-prefix-sum",
+      "translatedTitle": null
+    }
+  ],
+  "stats": "{\"totalAccepted\": \"1.7M\", \"totalSubmission\": \"4.1M\", \"totalAcceptedRaw\": 1749264, \"totalSubmissionRaw\": 4086045, \"acRate\": \"42.8%\"}",
+  "stats_parsed": {
+    "acRate": "42.8%",
+    "totalAccepted": "1.7M",
+    "totalAcceptedRaw": 1749264,
+    "totalSubmission": "4.1M",
+    "totalSubmissionRaw": 4086045
+  },
+  "title": "First Missing Positive",
+  "titleSlug": "first-missing-positive",
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "Hash Table",
+      "slug": "hash-table"
+    }
+  ]
+}

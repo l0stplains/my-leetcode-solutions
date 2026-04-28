@@ -1,0 +1,14 @@
+{
+  "slug": "search-a-2d-matrix",
+  "submissions": [
+    {
+      "date_formatted": "2026-01-16 11:23:56",
+      "id": 1886427454,
+      "lang": "kotlin",
+      "memory": "42.1MB",
+      "runtime": "0ms",
+      "status_display": "Accepted",
+      "timestamp": 1768537436
+    }
+  ]
+}

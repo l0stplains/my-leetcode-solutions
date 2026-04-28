@@ -1,0 +1,14 @@
+{
+  "slug": "kth-largest-element-in-an-array",
+  "submissions": [
+    {
+      "date_formatted": "2026-01-21 14:45:13",
+      "id": 1891887428,
+      "lang": "kotlin",
+      "memory": "60.7MB",
+      "runtime": "38ms",
+      "status_display": "Accepted",
+      "timestamp": 1768981513
+    }
+  ]
+}

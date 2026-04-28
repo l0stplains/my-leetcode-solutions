@@ -1,0 +1,23 @@
+{
+  "slug": "maximum-subarray",
+  "submissions": [
+    {
+      "date_formatted": "2026-01-22 18:05:19",
+      "id": 1893172799,
+      "lang": "kotlin",
+      "memory": "64.9MB",
+      "runtime": "3ms",
+      "status_display": "Accepted",
+      "timestamp": 1769079919
+    },
+    {
+      "date_formatted": "2024-05-15 08:19:10",
+      "id": 1258290571,
+      "lang": "cpp",
+      "memory": "70MB",
+      "runtime": "70ms",
+      "status_display": "Accepted",
+      "timestamp": 1715735950
+    }
+  ]
+}

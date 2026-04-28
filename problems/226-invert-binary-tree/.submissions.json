@@ -1,0 +1,14 @@
+{
+  "slug": "invert-binary-tree",
+  "submissions": [
+    {
+      "date_formatted": "2026-01-19 15:51:34",
+      "id": 1889670860,
+      "lang": "kotlin",
+      "memory": "46.1MB",
+      "runtime": "15ms",
+      "status_display": "Accepted",
+      "timestamp": 1768812694
+    }
+  ]
+}

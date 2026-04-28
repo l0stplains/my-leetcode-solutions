@@ -1,0 +1,14 @@
+{
+  "slug": "koko-eating-bananas",
+  "submissions": [
+    {
+      "date_formatted": "2026-01-16 21:44:16",
+      "id": 1886889935,
+      "lang": "kotlin",
+      "memory": "50.3MB",
+      "runtime": "31ms",
+      "status_display": "Accepted",
+      "timestamp": 1768574656
+    }
+  ]
+}

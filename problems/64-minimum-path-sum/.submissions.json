@@ -1,0 +1,14 @@
+{
+  "slug": "minimum-path-sum",
+  "submissions": [
+    {
+      "date_formatted": "2022-01-15 06:18:29",
+      "id": 619943785,
+      "lang": "cpp",
+      "memory": "9.7MB",
+      "runtime": "8ms",
+      "status_display": "Accepted",
+      "timestamp": 1642202309
+    }
+  ]
+}

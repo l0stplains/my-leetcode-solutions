@@ -1,0 +1,119 @@
+{
+  "difficulty": "Medium",
+  "dislikes": 1613,
+  "isPaidOnly": false,
+  "likes": 37878,
+  "questionFrontendId": "53",
+  "questionId": "53",
+  "similarQuestions": "[{\"title\": \"Best Time to Buy and Sell Stock\", \"titleSlug\": \"best-time-to-buy-and-sell-stock\", \"difficulty\": \"Easy\", \"translatedTitle\": null}, {\"title\": \"Maximum Product Subarray\", \"titleSlug\": \"maximum-product-subarray\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Degree of an Array\", \"titleSlug\": \"degree-of-an-array\", \"difficulty\": \"Easy\", \"translatedTitle\": null}, {\"title\": \"Longest Turbulent Subarray\", \"titleSlug\": \"longest-turbulent-subarray\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Maximum Score Of Spliced Array\", \"titleSlug\": \"maximum-score-of-spliced-array\", \"difficulty\": \"Hard\", \"translatedTitle\": null}, {\"title\": \"Maximum Absolute Sum of Any Subarray\", \"titleSlug\": \"maximum-absolute-sum-of-any-subarray\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Maximum Subarray Sum After One Operation\", \"titleSlug\": \"maximum-subarray-sum-after-one-operation\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Substring With Largest Variance\", \"titleSlug\": \"substring-with-largest-variance\", \"difficulty\": \"Hard\", \"translatedTitle\": null}, {\"title\": \"Count Subarrays With Score Less Than K\", \"titleSlug\": \"count-subarrays-with-score-less-than-k\", \"difficulty\": \"Hard\", \"translatedTitle\": null}, {\"title\": \"Maximum Value of a String in an Array\", \"titleSlug\": \"maximum-value-of-a-string-in-an-array\", \"difficulty\": \"Easy\", \"translatedTitle\": null}, {\"title\": \"Find the Substring With Maximum Cost\", \"titleSlug\": \"find-the-substring-with-maximum-cost\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"K Items With the Maximum Sum\", \"titleSlug\": \"k-items-with-the-maximum-sum\", \"difficulty\": \"Easy\", \"translatedTitle\": null}, {\"title\": \"Maximum Good Subarray Sum\", \"titleSlug\": \"maximum-good-subarray-sum\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Maximize Subarray Sum After Removing All Occurrences of One Element\", \"titleSlug\": \"maximize-subarray-sum-after-removing-all-occurrences-of-one-element\", \"difficulty\": \"Hard\", \"translatedTitle\": null}]",
+  "similar_parsed": [
+    {
+      "difficulty": "Easy",
+      "title": "Best Time to Buy and Sell Stock",
+      "titleSlug": "best-time-to-buy-and-sell-stock",
+      "translatedTitle": null
+    },
+    {
+      "difficulty": "Medium",
+      "title": "Maximum Product Subarray",
+      "titleSlug": "maximum-product-subarray",
+      "translatedTitle": null
+    },
+    {
+      "difficulty": "Easy",
+      "title": "Degree of an Array",
+      "titleSlug": "degree-of-an-array",
+      "translatedTitle": null
+    },
+    {
+      "difficulty": "Medium",
+      "title": "Longest Turbulent Subarray",
+      "titleSlug": "longest-turbulent-subarray",
+      "translatedTitle": null
+    },
+    {
+      "difficulty": "Hard",
+      "title": "Maximum Score Of Spliced Array",
+      "titleSlug": "maximum-score-of-spliced-array",
+      "translatedTitle": null
+    },
+    {
+      "difficulty": "Medium",
+      "title": "Maximum Absolute Sum of Any Subarray",
+      "titleSlug": "maximum-absolute-sum-of-any-subarray",
+      "translatedTitle": null
+    },
+    {
+      "difficulty": "Medium",
+      "title": "Maximum Subarray Sum After One Operation",
+      "titleSlug": "maximum-subarray-sum-after-one-operation",
+      "translatedTitle": null
+    },
+    {
+      "difficulty": "Hard",
+      "title": "Substring With Largest Variance",
+      "titleSlug": "substring-with-largest-variance",
+      "translatedTitle": null
+    },
+    {
+      "difficulty": "Hard",
+      "title": "Count Subarrays With Score Less Than K",
+      "titleSlug": "count-subarrays-with-score-less-than-k",
+      "translatedTitle": null
+    },
+    {
+      "difficulty": "Easy",
+      "title": "Maximum Value of a String in an Array",
+      "titleSlug": "maximum-value-of-a-string-in-an-array",
+      "translatedTitle": null
+    },
+    {
+      "difficulty": "Medium",
+      "title": "Find the Substring With Maximum Cost",
+      "titleSlug": "find-the-substring-with-maximum-cost",
+      "translatedTitle": null
+    },
+    {
+      "difficulty": "Easy",
+      "title": "K Items With the Maximum Sum",
+      "titleSlug": "k-items-with-the-maximum-sum",
+      "translatedTitle": null
+    },
+    {
+      "difficulty": "Medium",
+      "title": "Maximum Good Subarray Sum",
+      "titleSlug": "maximum-good-subarray-sum",
+      "translatedTitle": null
+    },
+    {
+      "difficulty": "Hard",
+      "title": "Maximize Subarray Sum After Removing All Occurrences of One Element",
+      "titleSlug": "maximize-subarray-sum-after-removing-all-occurrences-of-one-element",
+      "translatedTitle": null
+    }
+  ],
+  "stats": "{\"totalAccepted\": \"6.1M\", \"totalSubmission\": \"11.4M\", \"totalAcceptedRaw\": 6067490, \"totalSubmissionRaw\": 11397102, \"acRate\": \"53.2%\"}",
+  "stats_parsed": {
+    "acRate": "53.2%",
+    "totalAccepted": "6.1M",
+    "totalAcceptedRaw": 6067490,
+    "totalSubmission": "11.4M",
+    "totalSubmissionRaw": 11397102
+  },
+  "title": "Maximum Subarray",
+  "titleSlug": "maximum-subarray",
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "Divide and Conquer",
+      "slug": "divide-and-conquer"
+    },
+    {
+      "name": "Dynamic Programming",
+      "slug": "dynamic-programming"
+    }
+  ]
+}

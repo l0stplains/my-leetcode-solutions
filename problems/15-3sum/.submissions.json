@@ -1,0 +1,14 @@
+{
+  "slug": "3sum",
+  "submissions": [
+    {
+      "date_formatted": "2024-08-04 13:24:46",
+      "id": 1343926069,
+      "lang": "cpp",
+      "memory": "97.9MB",
+      "runtime": "1015ms",
+      "status_display": "Accepted",
+      "timestamp": 1722752686
+    }
+  ]
+}

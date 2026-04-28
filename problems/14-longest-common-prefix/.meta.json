@@ -1,0 +1,59 @@
+{
+  "difficulty": "Easy",
+  "dislikes": 4939,
+  "isPaidOnly": false,
+  "likes": 21424,
+  "questionFrontendId": "14",
+  "questionId": "14",
+  "similarQuestions": "[{\"title\": \"Smallest Missing Integer Greater Than Sequential Prefix Sum\", \"titleSlug\": \"smallest-missing-integer-greater-than-sequential-prefix-sum\", \"difficulty\": \"Easy\", \"translatedTitle\": null}, {\"title\": \"Find the Length of the Longest Common Prefix\", \"titleSlug\": \"find-the-length-of-the-longest-common-prefix\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Longest Common Suffix Queries\", \"titleSlug\": \"longest-common-suffix-queries\", \"difficulty\": \"Hard\", \"translatedTitle\": null}, {\"title\": \"Longest Common Prefix After at Most One Removal\", \"titleSlug\": \"longest-common-prefix-after-at-most-one-removal\", \"difficulty\": \"Medium\", \"translatedTitle\": null}]",
+  "similar_parsed": [
+    {
+      "difficulty": "Easy",
+      "title": "Smallest Missing Integer Greater Than Sequential Prefix Sum",
+      "titleSlug": "smallest-missing-integer-greater-than-sequential-prefix-sum",
+      "translatedTitle": null
+    },
+    {
+      "difficulty": "Medium",
+      "title": "Find the Length of the Longest Common Prefix",
+      "titleSlug": "find-the-length-of-the-longest-common-prefix",
+      "translatedTitle": null
+    },
+    {
+      "difficulty": "Hard",
+      "title": "Longest Common Suffix Queries",
+      "titleSlug": "longest-common-suffix-queries",
+      "translatedTitle": null
+    },
+    {
+      "difficulty": "Medium",
+      "title": "Longest Common Prefix After at Most One Removal",
+      "titleSlug": "longest-common-prefix-after-at-most-one-removal",
+      "translatedTitle": null
+    }
+  ],
+  "stats": "{\"totalAccepted\": \"5.7M\", \"totalSubmission\": \"12.1M\", \"totalAcceptedRaw\": 5727768, \"totalSubmissionRaw\": 12068132, \"acRate\": \"47.5%\"}",
+  "stats_parsed": {
+    "acRate": "47.5%",
+    "totalAccepted": "5.7M",
+    "totalAcceptedRaw": 5727768,
+    "totalSubmission": "12.1M",
+    "totalSubmissionRaw": 12068132
+  },
+  "title": "Longest Common Prefix",
+  "titleSlug": "longest-common-prefix",
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "String",
+      "slug": "string"
+    },
+    {
+      "name": "Trie",
+      "slug": "trie"
+    }
+  ]
+}

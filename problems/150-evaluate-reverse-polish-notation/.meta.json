@@ -1,0 +1,47 @@
+{
+  "difficulty": "Medium",
+  "dislikes": 1195,
+  "isPaidOnly": false,
+  "likes": 8747,
+  "questionFrontendId": "150",
+  "questionId": "150",
+  "similarQuestions": "[{\"title\": \"Basic Calculator\", \"titleSlug\": \"basic-calculator\", \"difficulty\": \"Hard\", \"translatedTitle\": null}, {\"title\": \"Expression Add Operators\", \"titleSlug\": \"expression-add-operators\", \"difficulty\": \"Hard\", \"translatedTitle\": null}]",
+  "similar_parsed": [
+    {
+      "difficulty": "Hard",
+      "title": "Basic Calculator",
+      "titleSlug": "basic-calculator",
+      "translatedTitle": null
+    },
+    {
+      "difficulty": "Hard",
+      "title": "Expression Add Operators",
+      "titleSlug": "expression-add-operators",
+      "translatedTitle": null
+    }
+  ],
+  "stats": "{\"totalAccepted\": \"1.7M\", \"totalSubmission\": \"3M\", \"totalAcceptedRaw\": 1742932, \"totalSubmissionRaw\": 3027199, \"acRate\": \"57.6%\"}",
+  "stats_parsed": {
+    "acRate": "57.6%",
+    "totalAccepted": "1.7M",
+    "totalAcceptedRaw": 1742932,
+    "totalSubmission": "3M",
+    "totalSubmissionRaw": 3027199
+  },
+  "title": "Evaluate Reverse Polish Notation",
+  "titleSlug": "evaluate-reverse-polish-notation",
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "Math",
+      "slug": "math"
+    },
+    {
+      "name": "Stack",
+      "slug": "stack"
+    }
+  ]
+}

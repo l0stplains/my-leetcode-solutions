@@ -1,0 +1,14 @@
+{
+  "slug": "car-fleet",
+  "submissions": [
+    {
+      "date_formatted": "2026-01-15 21:41:54",
+      "id": 1885898180,
+      "lang": "kotlin",
+      "memory": "67.4MB",
+      "runtime": "153ms",
+      "status_display": "Accepted",
+      "timestamp": 1768488114
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "difficulty": "Medium",
+  "dislikes": 998,
+  "isPaidOnly": false,
+  "likes": 16021,
+  "questionFrontendId": "155",
+  "questionId": "155",
+  "similarQuestions": "[{\"title\": \"Sliding Window Maximum\", \"titleSlug\": \"sliding-window-maximum\", \"difficulty\": \"Hard\", \"translatedTitle\": null}, {\"title\": \"Max Stack\", \"titleSlug\": \"max-stack\", \"difficulty\": \"Hard\", \"translatedTitle\": null}]",
+  "similar_parsed": [
+    {
+      "difficulty": "Hard",
+      "title": "Sliding Window Maximum",
+      "titleSlug": "sliding-window-maximum",
+      "translatedTitle": null
+    },
+    {
+      "difficulty": "Hard",
+      "title": "Max Stack",
+      "titleSlug": "max-stack",
+      "translatedTitle": null
+    }
+  ],
+  "stats": "{\"totalAccepted\": \"2.7M\", \"totalSubmission\": \"4.7M\", \"totalAcceptedRaw\": 2702674, \"totalSubmissionRaw\": 4656569, \"acRate\": \"58.0%\"}",
+  "stats_parsed": {
+    "acRate": "58.0%",
+    "totalAccepted": "2.7M",
+    "totalAcceptedRaw": 2702674,
+    "totalSubmission": "4.7M",
+    "totalSubmissionRaw": 4656569
+  },
+  "title": "Min Stack",
+  "titleSlug": "min-stack",
+  "topicTags": [
+    {
+      "name": "Stack",
+      "slug": "stack"
+    },
+    {
+      "name": "Design",
+      "slug": "design"
+    }
+  ]
+}

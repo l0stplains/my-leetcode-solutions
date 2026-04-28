@@ -1,0 +1,14 @@
+{
+  "slug": "binary-tree-right-side-view",
+  "submissions": [
+    {
+      "date_formatted": "2026-02-03 20:05:07",
+      "id": 1906704498,
+      "lang": "kotlin",
+      "memory": "46.3MB",
+      "runtime": "16ms",
+      "status_display": "Accepted",
+      "timestamp": 1770123907
+    }
+  ]
+}

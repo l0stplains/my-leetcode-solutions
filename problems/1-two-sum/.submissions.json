@@ -1,0 +1,14 @@
+{
+  "slug": "two-sum",
+  "submissions": [
+    {
+      "date_formatted": "2024-08-02 19:45:08",
+      "id": 1341837850,
+      "lang": "cpp",
+      "memory": "13.6MB",
+      "runtime": "7ms",
+      "status_display": "Accepted",
+      "timestamp": 1722602708
+    }
+  ]
+}

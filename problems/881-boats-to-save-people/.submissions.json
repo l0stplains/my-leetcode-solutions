@@ -1,0 +1,14 @@
+{
+  "slug": "boats-to-save-people",
+  "submissions": [
+    {
+      "date_formatted": "2026-03-07 10:40:40",
+      "id": 1940382690,
+      "lang": "kotlin",
+      "memory": "62.7MB",
+      "runtime": "32ms",
+      "status_display": "Accepted",
+      "timestamp": 1772854840
+    }
+  ]
+}

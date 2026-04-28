@@ -1,0 +1,63 @@
+{
+  "difficulty": "Easy",
+  "dislikes": 2937,
+  "isPaidOnly": false,
+  "likes": 15987,
+  "questionFrontendId": "9",
+  "questionId": "9",
+  "similarQuestions": "[{\"title\": \"Palindrome Linked List\", \"titleSlug\": \"palindrome-linked-list\", \"difficulty\": \"Easy\", \"translatedTitle\": null}, {\"title\": \"Find Palindrome With Fixed Length\", \"titleSlug\": \"find-palindrome-with-fixed-length\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Strictly Palindromic Number\", \"titleSlug\": \"strictly-palindromic-number\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"  Count Symmetric Integers\", \"titleSlug\": \"count-symmetric-integers\", \"difficulty\": \"Easy\", \"translatedTitle\": null}, {\"title\": \"Find the Count of Good Integers\", \"titleSlug\": \"find-the-count-of-good-integers\", \"difficulty\": \"Hard\", \"translatedTitle\": null}, {\"title\": \"Find the Largest Palindrome Divisible by K\", \"titleSlug\": \"find-the-largest-palindrome-divisible-by-k\", \"difficulty\": \"Hard\", \"translatedTitle\": null}]",
+  "similar_parsed": [
+    {
+      "difficulty": "Easy",
+      "title": "Palindrome Linked List",
+      "titleSlug": "palindrome-linked-list",
+      "translatedTitle": null
+    },
+    {
+      "difficulty": "Medium",
+      "title": "Find Palindrome With Fixed Length",
+      "titleSlug": "find-palindrome-with-fixed-length",
+      "translatedTitle": null
+    },
+    {
+      "difficulty": "Medium",
+      "title": "Strictly Palindromic Number",
+      "titleSlug": "strictly-palindromic-number",
+      "translatedTitle": null
+    },
+    {
+      "difficulty": "Easy",
+      "title": "  Count Symmetric Integers",
+      "titleSlug": "count-symmetric-integers",
+      "translatedTitle": null
+    },
+    {
+      "difficulty": "Hard",
+      "title": "Find the Count of Good Integers",
+      "titleSlug": "find-the-count-of-good-integers",
+      "translatedTitle": null
+    },
+    {
+      "difficulty": "Hard",
+      "title": "Find the Largest Palindrome Divisible by K",
+      "titleSlug": "find-the-largest-palindrome-divisible-by-k",
+      "translatedTitle": null
+    }
+  ],
+  "stats": "{\"totalAccepted\": \"8.1M\", \"totalSubmission\": \"13.3M\", \"totalAcceptedRaw\": 8064958, \"totalSubmissionRaw\": 13331012, \"acRate\": \"60.5%\"}",
+  "stats_parsed": {
+    "acRate": "60.5%",
+    "totalAccepted": "8.1M",
+    "totalAcceptedRaw": 8064958,
+    "totalSubmission": "13.3M",
+    "totalSubmissionRaw": 13331012
+  },
+  "title": "Palindrome Number",
+  "titleSlug": "palindrome-number",
+  "topicTags": [
+    {
+      "name": "Math",
+      "slug": "math"
+    }
+  ]
+}

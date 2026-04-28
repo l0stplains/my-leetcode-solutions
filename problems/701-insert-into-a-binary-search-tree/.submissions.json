@@ -1,0 +1,14 @@
+{
+  "slug": "insert-into-a-binary-search-tree",
+  "submissions": [
+    {
+      "date_formatted": "2026-03-08 18:31:03",
+      "id": 1941893522,
+      "lang": "kotlin",
+      "memory": "48.9MB",
+      "runtime": "0ms",
+      "status_display": "Accepted",
+      "timestamp": 1772969463
+    }
+  ]
+}

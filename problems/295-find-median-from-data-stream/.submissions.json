@@ -1,0 +1,14 @@
+{
+  "slug": "find-median-from-data-stream",
+  "submissions": [
+    {
+      "date_formatted": "2026-01-22 13:54:15",
+      "id": 1892971394,
+      "lang": "kotlin",
+      "memory": "100.5MB",
+      "runtime": "179ms",
+      "status_display": "Accepted",
+      "timestamp": 1769064855
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "difficulty": "Medium",
+  "dislikes": 1492,
+  "isPaidOnly": false,
+  "likes": 21775,
+  "questionFrontendId": "55",
+  "questionId": "55",
+  "similarQuestions": "[{\"title\": \"Jump Game II\", \"titleSlug\": \"jump-game-ii\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Jump Game III\", \"titleSlug\": \"jump-game-iii\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Jump Game VII\", \"titleSlug\": \"jump-game-vii\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Jump Game VIII\", \"titleSlug\": \"jump-game-viii\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Minimum Number of Visited Cells in a Grid\", \"titleSlug\": \"minimum-number-of-visited-cells-in-a-grid\", \"difficulty\": \"Hard\", \"translatedTitle\": null}, {\"title\": \"Largest Element in an Array after Merge Operations\", \"titleSlug\": \"largest-element-in-an-array-after-merge-operations\", \"difficulty\": \"Medium\", \"translatedTitle\": null}]",
+  "similar_parsed": [
+    {
+      "difficulty": "Medium",
+      "title": "Jump Game II",
+      "titleSlug": "jump-game-ii",
+      "translatedTitle": null
+    },
+    {
+      "difficulty": "Medium",
+      "title": "Jump Game III",
+      "titleSlug": "jump-game-iii",
+      "translatedTitle": null
+    },
+    {
+      "difficulty": "Medium",
+      "title": "Jump Game VII",
+      "titleSlug": "jump-game-vii",
+      "translatedTitle": null
+    },
+    {
+      "difficulty": "Medium",
+      "title": "Jump Game VIII",
+      "titleSlug": "jump-game-viii",
+      "translatedTitle": null
+    },
+    {
+      "difficulty": "Hard",
+      "title": "Minimum Number of Visited Cells in a Grid",
+      "titleSlug": "minimum-number-of-visited-cells-in-a-grid",
+      "translatedTitle": null
+    },
+    {
+      "difficulty": "Medium",
+      "title": "Largest Element in an Array after Merge Operations",
+      "titleSlug": "largest-element-in-an-array-after-merge-operations",
+      "translatedTitle": null
+    }
+  ],
+  "stats": "{\"totalAccepted\": \"3.2M\", \"totalSubmission\": \"7.8M\", \"totalAcceptedRaw\": 3178077, \"totalSubmissionRaw\": 7791570, \"acRate\": \"40.8%\"}",
+  "stats_parsed": {
+    "acRate": "40.8%",
+    "totalAccepted": "3.2M",
+    "totalAcceptedRaw": 3178077,
+    "totalSubmission": "7.8M",
+    "totalSubmissionRaw": 7791570
+  },
+  "title": "Jump Game",
+  "titleSlug": "jump-game",
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "Dynamic Programming",
+      "slug": "dynamic-programming"
+    },
+    {
+      "name": "Greedy",
+      "slug": "greedy"
+    }
+  ]
+}

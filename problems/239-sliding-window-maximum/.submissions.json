@@ -1,0 +1,14 @@
+{
+  "slug": "sliding-window-maximum",
+  "submissions": [
+    {
+      "date_formatted": "2026-01-18 17:02:51",
+      "id": 1888757388,
+      "lang": "kotlin",
+      "memory": "68.7MB",
+      "runtime": "80ms",
+      "status_display": "Accepted",
+      "timestamp": 1768730571
+    }
+  ]
+}

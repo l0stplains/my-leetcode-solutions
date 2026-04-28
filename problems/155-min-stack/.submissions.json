@@ -1,0 +1,14 @@
+{
+  "slug": "min-stack",
+  "submissions": [
+    {
+      "date_formatted": "2026-01-15 14:22:35",
+      "id": 1885565073,
+      "lang": "kotlin",
+      "memory": "55.6MB",
+      "runtime": "36ms",
+      "status_display": "Accepted",
+      "timestamp": 1768461755
+    }
+  ]
+}

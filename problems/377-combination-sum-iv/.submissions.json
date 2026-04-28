@@ -1,0 +1,14 @@
+{
+  "slug": "combination-sum-iv",
+  "submissions": [
+    {
+      "date_formatted": "2022-01-15 13:35:56",
+      "id": 620111568,
+      "lang": "cpp",
+      "memory": "6.6MB",
+      "runtime": "5ms",
+      "status_display": "Accepted",
+      "timestamp": 1642228556
+    }
+  ]
+}

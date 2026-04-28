@@ -1,0 +1,45 @@
+{
+  "difficulty": "Medium",
+  "dislikes": 660,
+  "isPaidOnly": false,
+  "likes": 4711,
+  "questionFrontendId": "355",
+  "questionId": "355",
+  "similarQuestions": "[{\"title\": \"Design a File Sharing System\", \"titleSlug\": \"design-a-file-sharing-system\", \"difficulty\": \"Medium\", \"translatedTitle\": null}]",
+  "similar_parsed": [
+    {
+      "difficulty": "Medium",
+      "title": "Design a File Sharing System",
+      "titleSlug": "design-a-file-sharing-system",
+      "translatedTitle": null
+    }
+  ],
+  "stats": "{\"totalAccepted\": \"341.6K\", \"totalSubmission\": \"766.6K\", \"totalAcceptedRaw\": 341569, \"totalSubmissionRaw\": 766607, \"acRate\": \"44.6%\"}",
+  "stats_parsed": {
+    "acRate": "44.6%",
+    "totalAccepted": "341.6K",
+    "totalAcceptedRaw": 341569,
+    "totalSubmission": "766.6K",
+    "totalSubmissionRaw": 766607
+  },
+  "title": "Design Twitter",
+  "titleSlug": "design-twitter",
+  "topicTags": [
+    {
+      "name": "Hash Table",
+      "slug": "hash-table"
+    },
+    {
+      "name": "Linked List",
+      "slug": "linked-list"
+    },
+    {
+      "name": "Design",
+      "slug": "design"
+    },
+    {
+      "name": "Heap (Priority Queue)",
+      "slug": "heap-priority-queue"
+    }
+  ]
+}

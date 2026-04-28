@@ -1,0 +1,14 @@
+{
+  "slug": "delete-leaves-with-a-given-value",
+  "submissions": [
+    {
+      "date_formatted": "2026-03-12 13:03:38",
+      "id": 1945715096,
+      "lang": "kotlin",
+      "memory": "44.6MB",
+      "runtime": "0ms",
+      "status_display": "Accepted",
+      "timestamp": 1773295418
+    }
+  ]
+}

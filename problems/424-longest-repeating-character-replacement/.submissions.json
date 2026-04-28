@@ -1,0 +1,14 @@
+{
+  "slug": "longest-repeating-character-replacement",
+  "submissions": [
+    {
+      "date_formatted": "2026-01-18 10:18:13",
+      "id": 1888438998,
+      "lang": "cpp",
+      "memory": "10.9MB",
+      "runtime": "4ms",
+      "status_display": "Accepted",
+      "timestamp": 1768706293
+    }
+  ]
+}

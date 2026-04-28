@@ -1,0 +1,34 @@
+{
+  "difficulty": "Medium",
+  "dislikes": 59,
+  "isPaidOnly": false,
+  "likes": 2909,
+  "questionFrontendId": "1325",
+  "questionId": "1450",
+  "similarQuestions": "[]",
+  "similar_parsed": [],
+  "stats": "{\"totalAccepted\": \"257.1K\", \"totalSubmission\": \"332.8K\", \"totalAcceptedRaw\": 257091, \"totalSubmissionRaw\": 332800, \"acRate\": \"77.3%\"}",
+  "stats_parsed": {
+    "acRate": "77.3%",
+    "totalAccepted": "257.1K",
+    "totalAcceptedRaw": 257091,
+    "totalSubmission": "332.8K",
+    "totalSubmissionRaw": 332800
+  },
+  "title": "Delete Leaves With a Given Value",
+  "titleSlug": "delete-leaves-with-a-given-value",
+  "topicTags": [
+    {
+      "name": "Tree",
+      "slug": "tree"
+    },
+    {
+      "name": "Depth-First Search",
+      "slug": "depth-first-search"
+    },
+    {
+      "name": "Binary Tree",
+      "slug": "binary-tree"
+    }
+  ]
+}

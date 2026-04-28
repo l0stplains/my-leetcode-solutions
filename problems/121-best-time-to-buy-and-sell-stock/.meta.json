@@ -1,0 +1,85 @@
+{
+  "difficulty": "Easy",
+  "dislikes": 1423,
+  "isPaidOnly": false,
+  "likes": 35774,
+  "questionFrontendId": "121",
+  "questionId": "121",
+  "similarQuestions": "[{\"title\": \"Maximum Subarray\", \"titleSlug\": \"maximum-subarray\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Best Time to Buy and Sell Stock II\", \"titleSlug\": \"best-time-to-buy-and-sell-stock-ii\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Best Time to Buy and Sell Stock III\", \"titleSlug\": \"best-time-to-buy-and-sell-stock-iii\", \"difficulty\": \"Hard\", \"translatedTitle\": null}, {\"title\": \"Best Time to Buy and Sell Stock IV\", \"titleSlug\": \"best-time-to-buy-and-sell-stock-iv\", \"difficulty\": \"Hard\", \"translatedTitle\": null}, {\"title\": \"Best Time to Buy and Sell Stock with Cooldown\", \"titleSlug\": \"best-time-to-buy-and-sell-stock-with-cooldown\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Sum of Beauty in the Array\", \"titleSlug\": \"sum-of-beauty-in-the-array\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Maximum Difference Between Increasing Elements\", \"titleSlug\": \"maximum-difference-between-increasing-elements\", \"difficulty\": \"Easy\", \"translatedTitle\": null}, {\"title\": \"Maximum Profit From Trading Stocks\", \"titleSlug\": \"maximum-profit-from-trading-stocks\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Best Time to Buy and Sell Stock V\", \"titleSlug\": \"best-time-to-buy-and-sell-stock-v\", \"difficulty\": \"Medium\", \"translatedTitle\": null}]",
+  "similar_parsed": [
+    {
+      "difficulty": "Medium",
+      "title": "Maximum Subarray",
+      "titleSlug": "maximum-subarray",
+      "translatedTitle": null
+    },
+    {
+      "difficulty": "Medium",
+      "title": "Best Time to Buy and Sell Stock II",
+      "titleSlug": "best-time-to-buy-and-sell-stock-ii",
+      "translatedTitle": null
+    },
+    {
+      "difficulty": "Hard",
+      "title": "Best Time to Buy and Sell Stock III",
+      "titleSlug": "best-time-to-buy-and-sell-stock-iii",
+      "translatedTitle": null
+    },
+    {
+      "difficulty": "Hard",
+      "title": "Best Time to Buy and Sell Stock IV",
+      "titleSlug": "best-time-to-buy-and-sell-stock-iv",
+      "translatedTitle": null
+    },
+    {
+      "difficulty": "Medium",
+      "title": "Best Time to Buy and Sell Stock with Cooldown",
+      "titleSlug": "best-time-to-buy-and-sell-stock-with-cooldown",
+      "translatedTitle": null
+    },
+    {
+      "difficulty": "Medium",
+      "title": "Sum of Beauty in the Array",
+      "titleSlug": "sum-of-beauty-in-the-array",
+      "translatedTitle": null
+    },
+    {
+      "difficulty": "Easy",
+      "title": "Maximum Difference Between Increasing Elements",
+      "titleSlug": "maximum-difference-between-increasing-elements",
+      "translatedTitle": null
+    },
+    {
+      "difficulty": "Medium",
+      "title": "Maximum Profit From Trading Stocks",
+      "titleSlug": "maximum-profit-from-trading-stocks",
+      "translatedTitle": null
+    },
+    {
+      "difficulty": "Medium",
+      "title": "Best Time to Buy and Sell Stock V",
+      "titleSlug": "best-time-to-buy-and-sell-stock-v",
+      "translatedTitle": null
+    }
+  ],
+  "stats": "{\"totalAccepted\": \"7.9M\", \"totalSubmission\": \"14M\", \"totalAcceptedRaw\": 7921901, \"totalSubmissionRaw\": 13973877, \"acRate\": \"56.7%\"}",
+  "stats_parsed": {
+    "acRate": "56.7%",
+    "totalAccepted": "7.9M",
+    "totalAcceptedRaw": 7921901,
+    "totalSubmission": "14M",
+    "totalSubmissionRaw": 13973877
+  },
+  "title": "Best Time to Buy and Sell Stock",
+  "titleSlug": "best-time-to-buy-and-sell-stock",
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "Dynamic Programming",
+      "slug": "dynamic-programming"
+    }
+  ]
+}

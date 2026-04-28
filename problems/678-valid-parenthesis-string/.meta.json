@@ -1,0 +1,51 @@
+{
+  "difficulty": "Medium",
+  "dislikes": 223,
+  "isPaidOnly": false,
+  "likes": 7015,
+  "questionFrontendId": "678",
+  "questionId": "678",
+  "similarQuestions": "[{\"title\": \"Special Binary String\", \"titleSlug\": \"special-binary-string\", \"difficulty\": \"Hard\", \"translatedTitle\": null}, {\"title\": \"Check if a Parentheses String Can Be Valid\", \"titleSlug\": \"check-if-a-parentheses-string-can-be-valid\", \"difficulty\": \"Medium\", \"translatedTitle\": null}]",
+  "similar_parsed": [
+    {
+      "difficulty": "Hard",
+      "title": "Special Binary String",
+      "titleSlug": "special-binary-string",
+      "translatedTitle": null
+    },
+    {
+      "difficulty": "Medium",
+      "title": "Check if a Parentheses String Can Be Valid",
+      "titleSlug": "check-if-a-parentheses-string-can-be-valid",
+      "translatedTitle": null
+    }
+  ],
+  "stats": "{\"totalAccepted\": \"590.5K\", \"totalSubmission\": \"1.5M\", \"totalAcceptedRaw\": 590548, \"totalSubmissionRaw\": 1475737, \"acRate\": \"40.0%\"}",
+  "stats_parsed": {
+    "acRate": "40.0%",
+    "totalAccepted": "590.5K",
+    "totalAcceptedRaw": 590548,
+    "totalSubmission": "1.5M",
+    "totalSubmissionRaw": 1475737
+  },
+  "title": "Valid Parenthesis String",
+  "titleSlug": "valid-parenthesis-string",
+  "topicTags": [
+    {
+      "name": "String",
+      "slug": "string"
+    },
+    {
+      "name": "Dynamic Programming",
+      "slug": "dynamic-programming"
+    },
+    {
+      "name": "Stack",
+      "slug": "stack"
+    },
+    {
+      "name": "Greedy",
+      "slug": "greedy"
+    }
+  ]
+}

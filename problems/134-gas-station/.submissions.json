@@ -1,0 +1,14 @@
+{
+  "slug": "gas-station",
+  "submissions": [
+    {
+      "date_formatted": "2026-01-24 12:46:54",
+      "id": 1894980516,
+      "lang": "kotlin",
+      "memory": "59.3MB",
+      "runtime": "5ms",
+      "status_display": "Accepted",
+      "timestamp": 1769233614
+    }
+  ]
+}

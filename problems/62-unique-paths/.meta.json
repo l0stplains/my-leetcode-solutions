@@ -1,0 +1,77 @@
+{
+  "difficulty": "Medium",
+  "dislikes": 496,
+  "isPaidOnly": false,
+  "likes": 18402,
+  "questionFrontendId": "62",
+  "questionId": "62",
+  "similarQuestions": "[{\"title\": \"Unique Paths II\", \"titleSlug\": \"unique-paths-ii\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Minimum Path Sum\", \"titleSlug\": \"minimum-path-sum\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Dungeon Game\", \"titleSlug\": \"dungeon-game\", \"difficulty\": \"Hard\", \"translatedTitle\": null}, {\"title\": \"Minimum Path Cost in a Grid\", \"titleSlug\": \"minimum-path-cost-in-a-grid\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Minimum Cost Homecoming of a Robot in a Grid\", \"titleSlug\": \"minimum-cost-homecoming-of-a-robot-in-a-grid\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Number of Ways to Reach a Position After Exactly k Steps\", \"titleSlug\": \"number-of-ways-to-reach-a-position-after-exactly-k-steps\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Paths in Matrix Whose Sum Is Divisible by K\", \"titleSlug\": \"paths-in-matrix-whose-sum-is-divisible-by-k\", \"difficulty\": \"Hard\", \"translatedTitle\": null}]",
+  "similar_parsed": [
+    {
+      "difficulty": "Medium",
+      "title": "Unique Paths II",
+      "titleSlug": "unique-paths-ii",
+      "translatedTitle": null
+    },
+    {
+      "difficulty": "Medium",
+      "title": "Minimum Path Sum",
+      "titleSlug": "minimum-path-sum",
+      "translatedTitle": null
+    },
+    {
+      "difficulty": "Hard",
+      "title": "Dungeon Game",
+      "titleSlug": "dungeon-game",
+      "translatedTitle": null
+    },
+    {
+      "difficulty": "Medium",
+      "title": "Minimum Path Cost in a Grid",
+      "titleSlug": "minimum-path-cost-in-a-grid",
+      "translatedTitle": null
+    },
+    {
+      "difficulty": "Medium",
+      "title": "Minimum Cost Homecoming of a Robot in a Grid",
+      "titleSlug": "minimum-cost-homecoming-of-a-robot-in-a-grid",
+      "translatedTitle": null
+    },
+    {
+      "difficulty": "Medium",
+      "title": "Number of Ways to Reach a Position After Exactly k Steps",
+      "titleSlug": "number-of-ways-to-reach-a-position-after-exactly-k-steps",
+      "translatedTitle": null
+    },
+    {
+      "difficulty": "Hard",
+      "title": "Paths in Matrix Whose Sum Is Divisible by K",
+      "titleSlug": "paths-in-matrix-whose-sum-is-divisible-by-k",
+      "translatedTitle": null
+    }
+  ],
+  "stats": "{\"totalAccepted\": \"2.8M\", \"totalSubmission\": \"4.2M\", \"totalAcceptedRaw\": 2815788, \"totalSubmissionRaw\": 4216974, \"acRate\": \"66.8%\"}",
+  "stats_parsed": {
+    "acRate": "66.8%",
+    "totalAccepted": "2.8M",
+    "totalAcceptedRaw": 2815788,
+    "totalSubmission": "4.2M",
+    "totalSubmissionRaw": 4216974
+  },
+  "title": "Unique Paths",
+  "titleSlug": "unique-paths",
+  "topicTags": [
+    {
+      "name": "Math",
+      "slug": "math"
+    },
+    {
+      "name": "Dynamic Programming",
+      "slug": "dynamic-programming"
+    },
+    {
+      "name": "Combinatorics",
+      "slug": "combinatorics"
+    }
+  ]
+}

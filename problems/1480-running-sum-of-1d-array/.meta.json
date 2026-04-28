@@ -1,0 +1,30 @@
+{
+  "difficulty": "Easy",
+  "dislikes": 371,
+  "isPaidOnly": false,
+  "likes": 8810,
+  "questionFrontendId": "1480",
+  "questionId": "1603",
+  "similarQuestions": "[]",
+  "similar_parsed": [],
+  "stats": "{\"totalAccepted\": \"2.4M\", \"totalSubmission\": \"2.7M\", \"totalAcceptedRaw\": 2384308, \"totalSubmissionRaw\": 2742784, \"acRate\": \"86.9%\"}",
+  "stats_parsed": {
+    "acRate": "86.9%",
+    "totalAccepted": "2.4M",
+    "totalAcceptedRaw": 2384308,
+    "totalSubmission": "2.7M",
+    "totalSubmissionRaw": 2742784
+  },
+  "title": "Running Sum of 1d Array",
+  "titleSlug": "running-sum-of-1d-array",
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "Prefix Sum",
+      "slug": "prefix-sum"
+    }
+  ]
+}

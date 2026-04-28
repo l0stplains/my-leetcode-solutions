@@ -1,0 +1,14 @@
+{
+  "slug": "remove-element",
+  "submissions": [
+    {
+      "date_formatted": "2026-03-07 08:15:33",
+      "id": 1940331190,
+      "lang": "kotlin",
+      "memory": "41.8MB",
+      "runtime": "0ms",
+      "status_display": "Accepted",
+      "timestamp": 1772846133
+    }
+  ]
+}

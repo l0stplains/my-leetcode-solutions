@@ -1,0 +1,14 @@
+{
+  "slug": "valid-palindrome",
+  "submissions": [
+    {
+      "date_formatted": "2024-08-04 11:04:12",
+      "id": 1343809045,
+      "lang": "cpp",
+      "memory": "9.4MB",
+      "runtime": "4ms",
+      "status_display": "Accepted",
+      "timestamp": 1722744252
+    }
+  ]
+}

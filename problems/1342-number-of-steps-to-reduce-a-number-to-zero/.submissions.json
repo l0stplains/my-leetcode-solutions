@@ -1,0 +1,14 @@
+{
+  "slug": "number-of-steps-to-reduce-a-number-to-zero",
+  "submissions": [
+    {
+      "date_formatted": "2023-07-14 19:55:39",
+      "id": 994299781,
+      "lang": "cpp",
+      "memory": "5.9MB",
+      "runtime": "4ms",
+      "status_display": "Accepted",
+      "timestamp": 1689339339
+    }
+  ]
+}

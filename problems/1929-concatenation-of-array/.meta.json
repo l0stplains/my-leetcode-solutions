@@ -1,0 +1,30 @@
+{
+  "difficulty": "Easy",
+  "dislikes": 463,
+  "isPaidOnly": false,
+  "likes": 4209,
+  "questionFrontendId": "1929",
+  "questionId": "2058",
+  "similarQuestions": "[]",
+  "similar_parsed": [],
+  "stats": "{\"totalAccepted\": \"1.4M\", \"totalSubmission\": \"1.6M\", \"totalAcceptedRaw\": 1438893, \"totalSubmissionRaw\": 1592070, \"acRate\": \"90.4%\"}",
+  "stats_parsed": {
+    "acRate": "90.4%",
+    "totalAccepted": "1.4M",
+    "totalAcceptedRaw": 1438893,
+    "totalSubmission": "1.6M",
+    "totalSubmissionRaw": 1592070
+  },
+  "title": "Concatenation of Array",
+  "titleSlug": "concatenation-of-array",
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "Simulation",
+      "slug": "simulation"
+    }
+  ]
+}

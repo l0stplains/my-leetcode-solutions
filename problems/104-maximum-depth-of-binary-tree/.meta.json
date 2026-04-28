@@ -1,0 +1,75 @@
+{
+  "difficulty": "Easy",
+  "dislikes": 293,
+  "isPaidOnly": false,
+  "likes": 14350,
+  "questionFrontendId": "104",
+  "questionId": "104",
+  "similarQuestions": "[{\"title\": \"Balanced Binary Tree\", \"titleSlug\": \"balanced-binary-tree\", \"difficulty\": \"Easy\", \"translatedTitle\": null}, {\"title\": \"Minimum Depth of Binary Tree\", \"titleSlug\": \"minimum-depth-of-binary-tree\", \"difficulty\": \"Easy\", \"translatedTitle\": null}, {\"title\": \"Maximum Depth of N-ary Tree\", \"titleSlug\": \"maximum-depth-of-n-ary-tree\", \"difficulty\": \"Easy\", \"translatedTitle\": null}, {\"title\": \"Time Needed to Inform All Employees\", \"titleSlug\": \"time-needed-to-inform-all-employees\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Amount of Time for Binary Tree to Be Infected\", \"titleSlug\": \"amount-of-time-for-binary-tree-to-be-infected\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Height of Binary Tree After Subtree Removal Queries\", \"titleSlug\": \"height-of-binary-tree-after-subtree-removal-queries\", \"difficulty\": \"Hard\", \"translatedTitle\": null}]",
+  "similar_parsed": [
+    {
+      "difficulty": "Easy",
+      "title": "Balanced Binary Tree",
+      "titleSlug": "balanced-binary-tree",
+      "translatedTitle": null
+    },
+    {
+      "difficulty": "Easy",
+      "title": "Minimum Depth of Binary Tree",
+      "titleSlug": "minimum-depth-of-binary-tree",
+      "translatedTitle": null
+    },
+    {
+      "difficulty": "Easy",
+      "title": "Maximum Depth of N-ary Tree",
+      "titleSlug": "maximum-depth-of-n-ary-tree",
+      "translatedTitle": null
+    },
+    {
+      "difficulty": "Medium",
+      "title": "Time Needed to Inform All Employees",
+      "titleSlug": "time-needed-to-inform-all-employees",
+      "translatedTitle": null
+    },
+    {
+      "difficulty": "Medium",
+      "title": "Amount of Time for Binary Tree to Be Infected",
+      "titleSlug": "amount-of-time-for-binary-tree-to-be-infected",
+      "translatedTitle": null
+    },
+    {
+      "difficulty": "Hard",
+      "title": "Height of Binary Tree After Subtree Removal Queries",
+      "titleSlug": "height-of-binary-tree-after-subtree-removal-queries",
+      "translatedTitle": null
+    }
+  ],
+  "stats": "{\"totalAccepted\": \"4.8M\", \"totalSubmission\": \"6.1M\", \"totalAcceptedRaw\": 4757096, \"totalSubmissionRaw\": 6089768, \"acRate\": \"78.1%\"}",
+  "stats_parsed": {
+    "acRate": "78.1%",
+    "totalAccepted": "4.8M",
+    "totalAcceptedRaw": 4757096,
+    "totalSubmission": "6.1M",
+    "totalSubmissionRaw": 6089768
+  },
+  "title": "Maximum Depth of Binary Tree",
+  "titleSlug": "maximum-depth-of-binary-tree",
+  "topicTags": [
+    {
+      "name": "Tree",
+      "slug": "tree"
+    },
+    {
+      "name": "Depth-First Search",
+      "slug": "depth-first-search"
+    },
+    {
+      "name": "Breadth-First Search",
+      "slug": "breadth-first-search"
+    },
+    {
+      "name": "Binary Tree",
+      "slug": "binary-tree"
+    }
+  ]
+}

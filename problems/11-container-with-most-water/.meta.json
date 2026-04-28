@@ -1,0 +1,53 @@
+{
+  "difficulty": "Medium",
+  "dislikes": 2212,
+  "isPaidOnly": false,
+  "likes": 34325,
+  "questionFrontendId": "11",
+  "questionId": "11",
+  "similarQuestions": "[{\"title\": \"Trapping Rain Water\", \"titleSlug\": \"trapping-rain-water\", \"difficulty\": \"Hard\", \"translatedTitle\": null}, {\"title\": \"Maximum Tastiness of Candy Basket\", \"titleSlug\": \"maximum-tastiness-of-candy-basket\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"House Robber IV\", \"titleSlug\": \"house-robber-iv\", \"difficulty\": \"Medium\", \"translatedTitle\": null}]",
+  "similar_parsed": [
+    {
+      "difficulty": "Hard",
+      "title": "Trapping Rain Water",
+      "titleSlug": "trapping-rain-water",
+      "translatedTitle": null
+    },
+    {
+      "difficulty": "Medium",
+      "title": "Maximum Tastiness of Candy Basket",
+      "titleSlug": "maximum-tastiness-of-candy-basket",
+      "translatedTitle": null
+    },
+    {
+      "difficulty": "Medium",
+      "title": "House Robber IV",
+      "titleSlug": "house-robber-iv",
+      "translatedTitle": null
+    }
+  ],
+  "stats": "{\"totalAccepted\": \"5.3M\", \"totalSubmission\": \"8.9M\", \"totalAcceptedRaw\": 5313323, \"totalSubmissionRaw\": 8868233, \"acRate\": \"59.9%\"}",
+  "stats_parsed": {
+    "acRate": "59.9%",
+    "totalAccepted": "5.3M",
+    "totalAcceptedRaw": 5313323,
+    "totalSubmission": "8.9M",
+    "totalSubmissionRaw": 8868233
+  },
+  "title": "Container With Most Water",
+  "titleSlug": "container-with-most-water",
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "Two Pointers",
+      "slug": "two-pointers"
+    },
+    {
+      "name": "Greedy",
+      "slug": "greedy"
+    }
+  ]
+}

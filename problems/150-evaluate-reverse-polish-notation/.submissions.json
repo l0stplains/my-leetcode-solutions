@@ -1,0 +1,14 @@
+{
+  "slug": "evaluate-reverse-polish-notation",
+  "submissions": [
+    {
+      "date_formatted": "2026-01-15 18:10:54",
+      "id": 1885728947,
+      "lang": "kotlin",
+      "memory": "48.2MB",
+      "runtime": "31ms",
+      "status_display": "Accepted",
+      "timestamp": 1768475454
+    }
+  ]
+}

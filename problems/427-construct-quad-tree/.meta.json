@@ -1,0 +1,38 @@
+{
+  "difficulty": "Medium",
+  "dislikes": 1964,
+  "isPaidOnly": false,
+  "likes": 1765,
+  "questionFrontendId": "427",
+  "questionId": "772",
+  "similarQuestions": "[]",
+  "similar_parsed": [],
+  "stats": "{\"totalAccepted\": \"204.3K\", \"totalSubmission\": \"261.1K\", \"totalAcceptedRaw\": 204273, \"totalSubmissionRaw\": 261074, \"acRate\": \"78.2%\"}",
+  "stats_parsed": {
+    "acRate": "78.2%",
+    "totalAccepted": "204.3K",
+    "totalAcceptedRaw": 204273,
+    "totalSubmission": "261.1K",
+    "totalSubmissionRaw": 261074
+  },
+  "title": "Construct Quad Tree",
+  "titleSlug": "construct-quad-tree",
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "Divide and Conquer",
+      "slug": "divide-and-conquer"
+    },
+    {
+      "name": "Tree",
+      "slug": "tree"
+    },
+    {
+      "name": "Matrix",
+      "slug": "matrix"
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "difficulty": "Hard",
+  "dislikes": 852,
+  "isPaidOnly": false,
+  "likes": 20480,
+  "questionFrontendId": "239",
+  "questionId": "239",
+  "similarQuestions": "[{\"title\": \"Minimum Window Substring\", \"titleSlug\": \"minimum-window-substring\", \"difficulty\": \"Hard\", \"translatedTitle\": null}, {\"title\": \"Min Stack\", \"titleSlug\": \"min-stack\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Longest Substring with At Most Two Distinct Characters\", \"titleSlug\": \"longest-substring-with-at-most-two-distinct-characters\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Paint House II\", \"titleSlug\": \"paint-house-ii\", \"difficulty\": \"Hard\", \"translatedTitle\": null}, {\"title\": \"Jump Game VI\", \"titleSlug\": \"jump-game-vi\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Maximum Number of Robots Within Budget\", \"titleSlug\": \"maximum-number-of-robots-within-budget\", \"difficulty\": \"Hard\", \"translatedTitle\": null}, {\"title\": \"Maximum Tastiness of Candy Basket\", \"titleSlug\": \"maximum-tastiness-of-candy-basket\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Maximal Score After Applying K Operations\", \"titleSlug\": \"maximal-score-after-applying-k-operations\", \"difficulty\": \"Medium\", \"translatedTitle\": null}]",
+  "similar_parsed": [
+    {
+      "difficulty": "Hard",
+      "title": "Minimum Window Substring",
+      "titleSlug": "minimum-window-substring",
+      "translatedTitle": null
+    },
+    {
+      "difficulty": "Medium",
+      "title": "Min Stack",
+      "titleSlug": "min-stack",
+      "translatedTitle": null
+    },
+    {
+      "difficulty": "Medium",
+      "title": "Longest Substring with At Most Two Distinct Characters",
+      "titleSlug": "longest-substring-with-at-most-two-distinct-characters",
+      "translatedTitle": null
+    },
+    {
+      "difficulty": "Hard",
+      "title": "Paint House II",
+      "titleSlug": "paint-house-ii",
+      "translatedTitle": null
+    },
+    {
+      "difficulty": "Medium",
+      "title": "Jump Game VI",
+      "titleSlug": "jump-game-vi",
+      "translatedTitle": null
+    },
+    {
+      "difficulty": "Hard",
+      "title": "Maximum Number of Robots Within Budget",
+      "titleSlug": "maximum-number-of-robots-within-budget",
+      "translatedTitle": null
+    },
+    {
+      "difficulty": "Medium",
+      "title": "Maximum Tastiness of Candy Basket",
+      "titleSlug": "maximum-tastiness-of-candy-basket",
+      "translatedTitle": null
+    },
+    {
+      "difficulty": "Medium",
+      "title": "Maximal Score After Applying K Operations",
+      "titleSlug": "maximal-score-after-applying-k-operations",
+      "translatedTitle": null
+    }
+  ],
+  "stats": "{\"totalAccepted\": \"1.7M\", \"totalSubmission\": \"3.4M\", \"totalAcceptedRaw\": 1665846, \"totalSubmissionRaw\": 3421173, \"acRate\": \"48.7%\"}",
+  "stats_parsed": {
+    "acRate": "48.7%",
+    "totalAccepted": "1.7M",
+    "totalAcceptedRaw": 1665846,
+    "totalSubmission": "3.4M",
+    "totalSubmissionRaw": 3421173
+  },
+  "title": "Sliding Window Maximum",
+  "titleSlug": "sliding-window-maximum",
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "Queue",
+      "slug": "queue"
+    },
+    {
+      "name": "Sliding Window",
+      "slug": "sliding-window"
+    },
+    {
+      "name": "Heap (Priority Queue)",
+      "slug": "heap-priority-queue"
+    },
+    {
+      "name": "Monotonic Queue",
+      "slug": "monotonic-queue"
+    }
+  ]
+}

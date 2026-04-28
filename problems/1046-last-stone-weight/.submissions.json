@@ -1,0 +1,14 @@
+{
+  "slug": "last-stone-weight",
+  "submissions": [
+    {
+      "date_formatted": "2026-01-21 14:28:15",
+      "id": 1891875373,
+      "lang": "kotlin",
+      "memory": "41.2MB",
+      "runtime": "3ms",
+      "status_display": "Accepted",
+      "timestamp": 1768980495
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "difficulty": "Easy",
+  "dislikes": 842,
+  "isPaidOnly": false,
+  "likes": 12221,
+  "questionFrontendId": "110",
+  "questionId": "110",
+  "similarQuestions": "[{\"title\": \"Maximum Depth of Binary Tree\", \"titleSlug\": \"maximum-depth-of-binary-tree\", \"difficulty\": \"Easy\", \"translatedTitle\": null}, {\"title\": \"K-th Largest Perfect Subtree Size in Binary Tree\", \"titleSlug\": \"k-th-largest-perfect-subtree-size-in-binary-tree\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Check Balanced String\", \"titleSlug\": \"check-balanced-string\", \"difficulty\": \"Easy\", \"translatedTitle\": null}]",
+  "similar_parsed": [
+    {
+      "difficulty": "Easy",
+      "title": "Maximum Depth of Binary Tree",
+      "titleSlug": "maximum-depth-of-binary-tree",
+      "translatedTitle": null
+    },
+    {
+      "difficulty": "Medium",
+      "title": "K-th Largest Perfect Subtree Size in Binary Tree",
+      "titleSlug": "k-th-largest-perfect-subtree-size-in-binary-tree",
+      "translatedTitle": null
+    },
+    {
+      "difficulty": "Easy",
+      "title": "Check Balanced String",
+      "titleSlug": "check-balanced-string",
+      "translatedTitle": null
+    }
+  ],
+  "stats": "{\"totalAccepted\": \"2.5M\", \"totalSubmission\": \"4.2M\", \"totalAcceptedRaw\": 2464537, \"totalSubmissionRaw\": 4231469, \"acRate\": \"58.2%\"}",
+  "stats_parsed": {
+    "acRate": "58.2%",
+    "totalAccepted": "2.5M",
+    "totalAcceptedRaw": 2464537,
+    "totalSubmission": "4.2M",
+    "totalSubmissionRaw": 4231469
+  },
+  "title": "Balanced Binary Tree",
+  "titleSlug": "balanced-binary-tree",
+  "topicTags": [
+    {
+      "name": "Tree",
+      "slug": "tree"
+    },
+    {
+      "name": "Depth-First Search",
+      "slug": "depth-first-search"
+    },
+    {
+      "name": "Binary Tree",
+      "slug": "binary-tree"
+    }
+  ]
+}

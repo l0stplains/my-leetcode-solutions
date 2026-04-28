@@ -1,0 +1,14 @@
+{
+  "slug": "minimum-window-substring",
+  "submissions": [
+    {
+      "date_formatted": "2026-01-18 15:01:57",
+      "id": 1888676274,
+      "lang": "kotlin",
+      "memory": "57.1MB",
+      "runtime": "68ms",
+      "status_display": "Accepted",
+      "timestamp": 1768723317
+    }
+  ]
+}

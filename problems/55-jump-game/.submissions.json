@@ -1,0 +1,14 @@
+{
+  "slug": "jump-game",
+  "submissions": [
+    {
+      "date_formatted": "2026-01-22 18:15:12",
+      "id": 1893179826,
+      "lang": "kotlin",
+      "memory": "51.4MB",
+      "runtime": "4ms",
+      "status_display": "Accepted",
+      "timestamp": 1769080512
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "longest-consecutive-sequence",
+  "submissions": [
+    {
+      "date_formatted": "2024-08-02 23:39:44",
+      "id": 1342061446,
+      "lang": "cpp",
+      "memory": "83.9MB",
+      "runtime": "224ms",
+      "status_display": "Accepted",
+      "timestamp": 1722616784
+    }
+  ]
+}

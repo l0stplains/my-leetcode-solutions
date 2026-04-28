@@ -1,0 +1,38 @@
+{
+  "difficulty": "Medium",
+  "dislikes": 179,
+  "isPaidOnly": false,
+  "likes": 6951,
+  "questionFrontendId": "881",
+  "questionId": "917",
+  "similarQuestions": "[]",
+  "similar_parsed": [],
+  "stats": "{\"totalAccepted\": \"567.2K\", \"totalSubmission\": \"919.3K\", \"totalAcceptedRaw\": 567153, \"totalSubmissionRaw\": 919319, \"acRate\": \"61.7%\"}",
+  "stats_parsed": {
+    "acRate": "61.7%",
+    "totalAccepted": "567.2K",
+    "totalAcceptedRaw": 567153,
+    "totalSubmission": "919.3K",
+    "totalSubmissionRaw": 919319
+  },
+  "title": "Boats to Save People",
+  "titleSlug": "boats-to-save-people",
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "Two Pointers",
+      "slug": "two-pointers"
+    },
+    {
+      "name": "Greedy",
+      "slug": "greedy"
+    },
+    {
+      "name": "Sorting",
+      "slug": "sorting"
+    }
+  ]
+}

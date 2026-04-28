@@ -1,0 +1,14 @@
+{
+  "slug": "palindrome-number",
+  "submissions": [
+    {
+      "date_formatted": "2022-01-13 13:35:55",
+      "id": 618840575,
+      "lang": "cpp",
+      "memory": "5.9MB",
+      "runtime": "12ms",
+      "status_display": "Accepted",
+      "timestamp": 1642055755
+    }
+  ]
+}

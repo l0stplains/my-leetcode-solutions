@@ -1,0 +1,61 @@
+{
+  "difficulty": "Medium",
+  "dislikes": 921,
+  "isPaidOnly": false,
+  "likes": 13750,
+  "questionFrontendId": "875",
+  "questionId": "907",
+  "similarQuestions": "[{\"title\": \"Minimize Max Distance to Gas Station\", \"titleSlug\": \"minimize-max-distance-to-gas-station\", \"difficulty\": \"Hard\", \"translatedTitle\": null}, {\"title\": \"Maximum Candies Allocated to K Children\", \"titleSlug\": \"maximum-candies-allocated-to-k-children\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Minimized Maximum of Products Distributed to Any Store\", \"titleSlug\": \"minimized-maximum-of-products-distributed-to-any-store\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Frog Jump II\", \"titleSlug\": \"frog-jump-ii\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Minimum Time to Repair Cars\", \"titleSlug\": \"minimum-time-to-repair-cars\", \"difficulty\": \"Medium\", \"translatedTitle\": null}]",
+  "similar_parsed": [
+    {
+      "difficulty": "Hard",
+      "title": "Minimize Max Distance to Gas Station",
+      "titleSlug": "minimize-max-distance-to-gas-station",
+      "translatedTitle": null
+    },
+    {
+      "difficulty": "Medium",
+      "title": "Maximum Candies Allocated to K Children",
+      "titleSlug": "maximum-candies-allocated-to-k-children",
+      "translatedTitle": null
+    },
+    {
+      "difficulty": "Medium",
+      "title": "Minimized Maximum of Products Distributed to Any Store",
+      "titleSlug": "minimized-maximum-of-products-distributed-to-any-store",
+      "translatedTitle": null
+    },
+    {
+      "difficulty": "Medium",
+      "title": "Frog Jump II",
+      "titleSlug": "frog-jump-ii",
+      "translatedTitle": null
+    },
+    {
+      "difficulty": "Medium",
+      "title": "Minimum Time to Repair Cars",
+      "titleSlug": "minimum-time-to-repair-cars",
+      "translatedTitle": null
+    }
+  ],
+  "stats": "{\"totalAccepted\": \"1.6M\", \"totalSubmission\": \"3.1M\", \"totalAcceptedRaw\": 1569147, \"totalSubmissionRaw\": 3142460, \"acRate\": \"49.9%\"}",
+  "stats_parsed": {
+    "acRate": "49.9%",
+    "totalAccepted": "1.6M",
+    "totalAcceptedRaw": 1569147,
+    "totalSubmission": "3.1M",
+    "totalSubmissionRaw": 3142460
+  },
+  "title": "Koko Eating Bananas",
+  "titleSlug": "koko-eating-bananas",
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "Binary Search",
+      "slug": "binary-search"
+    }
+  ]
+}

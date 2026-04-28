@@ -1,0 +1,14 @@
+{
+  "slug": "container-with-most-water",
+  "submissions": [
+    {
+      "date_formatted": "2024-08-04 14:23:27",
+      "id": 1343979413,
+      "lang": "cpp",
+      "memory": "61.7MB",
+      "runtime": "58ms",
+      "status_display": "Accepted",
+      "timestamp": 1722756207
+    }
+  ]
+}

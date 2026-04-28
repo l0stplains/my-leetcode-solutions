@@ -1,0 +1,14 @@
+{
+  "slug": "task-scheduler",
+  "submissions": [
+    {
+      "date_formatted": "2026-01-22 17:59:08",
+      "id": 1893168578,
+      "lang": "kotlin",
+      "memory": "50.4MB",
+      "runtime": "66ms",
+      "status_display": "Accepted",
+      "timestamp": 1769079548
+    }
+  ]
+}

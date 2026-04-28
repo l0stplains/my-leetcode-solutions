@@ -1,0 +1,14 @@
+{
+  "slug": "same-tree",
+  "submissions": [
+    {
+      "date_formatted": "2026-01-19 16:27:26",
+      "id": 1889699269,
+      "lang": "kotlin",
+      "memory": "40.9MB",
+      "runtime": "0ms",
+      "status_display": "Accepted",
+      "timestamp": 1768814846
+    }
+  ]
+}

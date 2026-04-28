@@ -1,0 +1,14 @@
+{
+  "slug": "richest-customer-wealth",
+  "submissions": [
+    {
+      "date_formatted": "2023-07-14 19:46:50",
+      "id": 994294614,
+      "lang": "cpp",
+      "memory": "7.9MB",
+      "runtime": "3ms",
+      "status_display": "Accepted",
+      "timestamp": 1689338810
+    }
+  ]
+}

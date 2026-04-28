@@ -1,0 +1,14 @@
+{
+  "slug": "unique-paths",
+  "submissions": [
+    {
+      "date_formatted": "2022-01-15 05:45:17",
+      "id": 619931657,
+      "lang": "cpp",
+      "memory": "5.8MB",
+      "runtime": "5ms",
+      "status_display": "Accepted",
+      "timestamp": 1642200317
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "difficulty": "Medium",
+  "dislikes": 3288,
+  "isPaidOnly": false,
+  "likes": 35640,
+  "questionFrontendId": "15",
+  "questionId": "15",
+  "similarQuestions": "[{\"title\": \"Two Sum\", \"titleSlug\": \"two-sum\", \"difficulty\": \"Easy\", \"translatedTitle\": null}, {\"title\": \"3Sum Closest\", \"titleSlug\": \"3sum-closest\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"4Sum\", \"titleSlug\": \"4sum\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"3Sum Smaller\", \"titleSlug\": \"3sum-smaller\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Number of Arithmetic Triplets\", \"titleSlug\": \"number-of-arithmetic-triplets\", \"difficulty\": \"Easy\", \"translatedTitle\": null}, {\"title\": \"Minimum Sum of Mountain Triplets I\", \"titleSlug\": \"minimum-sum-of-mountain-triplets-i\", \"difficulty\": \"Easy\", \"translatedTitle\": null}, {\"title\": \"Minimum Sum of Mountain Triplets II\", \"titleSlug\": \"minimum-sum-of-mountain-triplets-ii\", \"difficulty\": \"Medium\", \"translatedTitle\": null}]",
+  "similar_parsed": [
+    {
+      "difficulty": "Easy",
+      "title": "Two Sum",
+      "titleSlug": "two-sum",
+      "translatedTitle": null
+    },
+    {
+      "difficulty": "Medium",
+      "title": "3Sum Closest",
+      "titleSlug": "3sum-closest",
+      "translatedTitle": null
+    },
+    {
+      "difficulty": "Medium",
+      "title": "4Sum",
+      "titleSlug": "4sum",
+      "translatedTitle": null
+    },
+    {
+      "difficulty": "Medium",
+      "title": "3Sum Smaller",
+      "titleSlug": "3sum-smaller",
+      "translatedTitle": null
+    },
+    {
+      "difficulty": "Easy",
+      "title": "Number of Arithmetic Triplets",
+      "titleSlug": "number-of-arithmetic-triplets",
+      "translatedTitle": null
+    },
+    {
+      "difficulty": "Easy",
+      "title": "Minimum Sum of Mountain Triplets I",
+      "titleSlug": "minimum-sum-of-mountain-triplets-i",
+      "translatedTitle": null
+    },
+    {
+      "difficulty": "Medium",
+      "title": "Minimum Sum of Mountain Triplets II",
+      "titleSlug": "minimum-sum-of-mountain-triplets-ii",
+      "translatedTitle": null
+    }
+  ],
+  "stats": "{\"totalAccepted\": \"5.9M\", \"totalSubmission\": \"15.2M\", \"totalAcceptedRaw\": 5908147, \"totalSubmissionRaw\": 15162527, \"acRate\": \"39.0%\"}",
+  "stats_parsed": {
+    "acRate": "39.0%",
+    "totalAccepted": "5.9M",
+    "totalAcceptedRaw": 5908147,
+    "totalSubmission": "15.2M",
+    "totalSubmissionRaw": 15162527
+  },
+  "title": "3Sum",
+  "titleSlug": "3sum",
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "Two Pointers",
+      "slug": "two-pointers"
+    },
+    {
+      "name": "Sorting",
+      "slug": "sorting"
+    }
+  ]
+}

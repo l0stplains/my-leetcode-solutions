@@ -1,0 +1,157 @@
+{
+  "difficulty": "Easy",
+  "dislikes": 2572,
+  "isPaidOnly": false,
+  "likes": 68795,
+  "questionFrontendId": "1",
+  "questionId": "1",
+  "similarQuestions": "[{\"title\": \"3Sum\", \"titleSlug\": \"3sum\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"4Sum\", \"titleSlug\": \"4sum\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Two Sum II - Input Array Is Sorted\", \"titleSlug\": \"two-sum-ii-input-array-is-sorted\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Two Sum III - Data structure design\", \"titleSlug\": \"two-sum-iii-data-structure-design\", \"difficulty\": \"Easy\", \"translatedTitle\": null}, {\"title\": \"Subarray Sum Equals K\", \"titleSlug\": \"subarray-sum-equals-k\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Two Sum IV - Input is a BST\", \"titleSlug\": \"two-sum-iv-input-is-a-bst\", \"difficulty\": \"Easy\", \"translatedTitle\": null}, {\"title\": \"Two Sum Less Than K\", \"titleSlug\": \"two-sum-less-than-k\", \"difficulty\": \"Easy\", \"translatedTitle\": null}, {\"title\": \"Max Number of K-Sum Pairs\", \"titleSlug\": \"max-number-of-k-sum-pairs\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Count Good Meals\", \"titleSlug\": \"count-good-meals\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Count Number of Pairs With Absolute Difference K\", \"titleSlug\": \"count-number-of-pairs-with-absolute-difference-k\", \"difficulty\": \"Easy\", \"translatedTitle\": null}, {\"title\": \"Number of Pairs of Strings With Concatenation Equal to Target\", \"titleSlug\": \"number-of-pairs-of-strings-with-concatenation-equal-to-target\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Find All K-Distant Indices in an Array\", \"titleSlug\": \"find-all-k-distant-indices-in-an-array\", \"difficulty\": \"Easy\", \"translatedTitle\": null}, {\"title\": \"First Letter to Appear Twice\", \"titleSlug\": \"first-letter-to-appear-twice\", \"difficulty\": \"Easy\", \"translatedTitle\": null}, {\"title\": \"Number of Excellent Pairs\", \"titleSlug\": \"number-of-excellent-pairs\", \"difficulty\": \"Hard\", \"translatedTitle\": null}, {\"title\": \"Number of Arithmetic Triplets\", \"titleSlug\": \"number-of-arithmetic-triplets\", \"difficulty\": \"Easy\", \"translatedTitle\": null}, {\"title\": \"Node With Highest Edge Score\", \"titleSlug\": \"node-with-highest-edge-score\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Check Distances Between Same Letters\", \"titleSlug\": \"check-distances-between-same-letters\", \"difficulty\": \"Easy\", \"translatedTitle\": null}, {\"title\": \"Find Subarrays With Equal Sum\", \"titleSlug\": \"find-subarrays-with-equal-sum\", \"difficulty\": \"Easy\", \"translatedTitle\": null}, {\"title\": \"Largest Positive Integer That Exists With Its Negative\", \"titleSlug\": \"largest-positive-integer-that-exists-with-its-negative\", \"difficulty\": \"Easy\", \"translatedTitle\": null}, {\"title\": \"Number of Distinct Averages\", \"titleSlug\": \"number-of-distinct-averages\", \"difficulty\": \"Easy\", \"translatedTitle\": null}, {\"title\": \"Count Pairs Whose Sum is Less than Target\", \"titleSlug\": \"count-pairs-whose-sum-is-less-than-target\", \"difficulty\": \"Easy\", \"translatedTitle\": null}]",
+  "similar_parsed": [
+    {
+      "difficulty": "Medium",
+      "title": "3Sum",
+      "titleSlug": "3sum",
+      "translatedTitle": null
+    },
+    {
+      "difficulty": "Medium",
+      "title": "4Sum",
+      "titleSlug": "4sum",
+      "translatedTitle": null
+    },
+    {
+      "difficulty": "Medium",
+      "title": "Two Sum II - Input Array Is Sorted",
+      "titleSlug": "two-sum-ii-input-array-is-sorted",
+      "translatedTitle": null
+    },
+    {
+      "difficulty": "Easy",
+      "title": "Two Sum III - Data structure design",
+      "titleSlug": "two-sum-iii-data-structure-design",
+      "translatedTitle": null
+    },
+    {
+      "difficulty": "Medium",
+      "title": "Subarray Sum Equals K",
+      "titleSlug": "subarray-sum-equals-k",
+      "translatedTitle": null
+    },
+    {
+      "difficulty": "Easy",
+      "title": "Two Sum IV - Input is a BST",
+      "titleSlug": "two-sum-iv-input-is-a-bst",
+      "translatedTitle": null
+    },
+    {
+      "difficulty": "Easy",
+      "title": "Two Sum Less Than K",
+      "titleSlug": "two-sum-less-than-k",
+      "translatedTitle": null
+    },
+    {
+      "difficulty": "Medium",
+      "title": "Max Number of K-Sum Pairs",
+      "titleSlug": "max-number-of-k-sum-pairs",
+      "translatedTitle": null
+    },
+    {
+      "difficulty": "Medium",
+      "title": "Count Good Meals",
+      "titleSlug": "count-good-meals",
+      "translatedTitle": null
+    },
+    {
+      "difficulty": "Easy",
+      "title": "Count Number of Pairs With Absolute Difference K",
+      "titleSlug": "count-number-of-pairs-with-absolute-difference-k",
+      "translatedTitle": null
+    },
+    {
+      "difficulty": "Medium",
+      "title": "Number of Pairs of Strings With Concatenation Equal to Target",
+      "titleSlug": "number-of-pairs-of-strings-with-concatenation-equal-to-target",
+      "translatedTitle": null
+    },
+    {
+      "difficulty": "Easy",
+      "title": "Find All K-Distant Indices in an Array",
+      "titleSlug": "find-all-k-distant-indices-in-an-array",
+      "translatedTitle": null
+    },
+    {
+      "difficulty": "Easy",
+      "title": "First Letter to Appear Twice",
+      "titleSlug": "first-letter-to-appear-twice",
+      "translatedTitle": null
+    },
+    {
+      "difficulty": "Hard",
+      "title": "Number of Excellent Pairs",
+      "titleSlug": "number-of-excellent-pairs",
+      "translatedTitle": null
+    },
+    {
+      "difficulty": "Easy",
+      "title": "Number of Arithmetic Triplets",
+      "titleSlug": "number-of-arithmetic-triplets",
+      "translatedTitle": null
+    },
+    {
+      "difficulty": "Medium",
+      "title": "Node With Highest Edge Score",
+      "titleSlug": "node-with-highest-edge-score",
+      "translatedTitle": null
+    },
+    {
+      "difficulty": "Easy",
+      "title": "Check Distances Between Same Letters",
+      "titleSlug": "check-distances-between-same-letters",
+      "translatedTitle": null
+    },
+    {
+      "difficulty": "Easy",
+      "title": "Find Subarrays With Equal Sum",
+      "titleSlug": "find-subarrays-with-equal-sum",
+      "translatedTitle": null
+    },
+    {
+      "difficulty": "Easy",
+      "title": "Largest Positive Integer That Exists With Its Negative",
+      "titleSlug": "largest-positive-integer-that-exists-with-its-negative",
+      "translatedTitle": null
+    },
+    {
+      "difficulty": "Easy",
+      "title": "Number of Distinct Averages",
+      "titleSlug": "number-of-distinct-averages",
+      "translatedTitle": null
+    },
+    {
+      "difficulty": "Easy",
+      "title": "Count Pairs Whose Sum is Less than Target",
+      "titleSlug": "count-pairs-whose-sum-is-less-than-target",
+      "translatedTitle": null
+    }
+  ],
+  "stats": "{\"totalAccepted\": \"21.5M\", \"totalSubmission\": \"37.5M\", \"totalAcceptedRaw\": 21542739, \"totalSubmissionRaw\": 37533390, \"acRate\": \"57.4%\"}",
+  "stats_parsed": {
+    "acRate": "57.4%",
+    "totalAccepted": "21.5M",
+    "totalAcceptedRaw": 21542739,
+    "totalSubmission": "37.5M",
+    "totalSubmissionRaw": 37533390
+  },
+  "title": "Two Sum",
+  "titleSlug": "two-sum",
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "Hash Table",
+      "slug": "hash-table"
+    }
+  ]
+}

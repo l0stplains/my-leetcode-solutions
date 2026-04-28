@@ -1,0 +1,14 @@
+{
+  "slug": "diameter-of-binary-tree",
+  "submissions": [
+    {
+      "date_formatted": "2026-01-19 16:06:17",
+      "id": 1889682290,
+      "lang": "kotlin",
+      "memory": "48.9MB",
+      "runtime": "0ms",
+      "status_display": "Accepted",
+      "timestamp": 1768813577
+    }
+  ]
+}

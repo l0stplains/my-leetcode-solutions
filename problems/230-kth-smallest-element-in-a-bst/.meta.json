@@ -1,0 +1,51 @@
+{
+  "difficulty": "Medium",
+  "dislikes": 265,
+  "isPaidOnly": false,
+  "likes": 12749,
+  "questionFrontendId": "230",
+  "questionId": "230",
+  "similarQuestions": "[{\"title\": \"Binary Tree Inorder Traversal\", \"titleSlug\": \"binary-tree-inorder-traversal\", \"difficulty\": \"Easy\", \"translatedTitle\": null}, {\"title\": \"Second Minimum Node In a Binary Tree\", \"titleSlug\": \"second-minimum-node-in-a-binary-tree\", \"difficulty\": \"Easy\", \"translatedTitle\": null}]",
+  "similar_parsed": [
+    {
+      "difficulty": "Easy",
+      "title": "Binary Tree Inorder Traversal",
+      "titleSlug": "binary-tree-inorder-traversal",
+      "translatedTitle": null
+    },
+    {
+      "difficulty": "Easy",
+      "title": "Second Minimum Node In a Binary Tree",
+      "titleSlug": "second-minimum-node-in-a-binary-tree",
+      "translatedTitle": null
+    }
+  ],
+  "stats": "{\"totalAccepted\": \"2.2M\", \"totalSubmission\": \"2.9M\", \"totalAcceptedRaw\": 2247251, \"totalSubmissionRaw\": 2928302, \"acRate\": \"76.7%\"}",
+  "stats_parsed": {
+    "acRate": "76.7%",
+    "totalAccepted": "2.2M",
+    "totalAcceptedRaw": 2247251,
+    "totalSubmission": "2.9M",
+    "totalSubmissionRaw": 2928302
+  },
+  "title": "Kth Smallest Element in a BST",
+  "titleSlug": "kth-smallest-element-in-a-bst",
+  "topicTags": [
+    {
+      "name": "Tree",
+      "slug": "tree"
+    },
+    {
+      "name": "Depth-First Search",
+      "slug": "depth-first-search"
+    },
+    {
+      "name": "Binary Search Tree",
+      "slug": "binary-search-tree"
+    },
+    {
+      "name": "Binary Tree",
+      "slug": "binary-tree"
+    }
+  ]
+}

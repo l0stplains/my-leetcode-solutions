@@ -1,0 +1,59 @@
+{
+  "difficulty": "Easy",
+  "dislikes": 480,
+  "isPaidOnly": false,
+  "likes": 14391,
+  "questionFrontendId": "242",
+  "questionId": "242",
+  "similarQuestions": "[{\"title\": \"Group Anagrams\", \"titleSlug\": \"group-anagrams\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Palindrome Permutation\", \"titleSlug\": \"palindrome-permutation\", \"difficulty\": \"Easy\", \"translatedTitle\": null}, {\"title\": \"Find All Anagrams in a String\", \"titleSlug\": \"find-all-anagrams-in-a-string\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Find Resultant Array After Removing Anagrams\", \"titleSlug\": \"find-resultant-array-after-removing-anagrams\", \"difficulty\": \"Easy\", \"translatedTitle\": null}]",
+  "similar_parsed": [
+    {
+      "difficulty": "Medium",
+      "title": "Group Anagrams",
+      "titleSlug": "group-anagrams",
+      "translatedTitle": null
+    },
+    {
+      "difficulty": "Easy",
+      "title": "Palindrome Permutation",
+      "titleSlug": "palindrome-permutation",
+      "translatedTitle": null
+    },
+    {
+      "difficulty": "Medium",
+      "title": "Find All Anagrams in a String",
+      "titleSlug": "find-all-anagrams-in-a-string",
+      "translatedTitle": null
+    },
+    {
+      "difficulty": "Easy",
+      "title": "Find Resultant Array After Removing Anagrams",
+      "titleSlug": "find-resultant-array-after-removing-anagrams",
+      "translatedTitle": null
+    }
+  ],
+  "stats": "{\"totalAccepted\": \"6.1M\", \"totalSubmission\": \"9M\", \"totalAcceptedRaw\": 6099268, \"totalSubmissionRaw\": 8967098, \"acRate\": \"68.0%\"}",
+  "stats_parsed": {
+    "acRate": "68.0%",
+    "totalAccepted": "6.1M",
+    "totalAcceptedRaw": 6099268,
+    "totalSubmission": "9M",
+    "totalSubmissionRaw": 8967098
+  },
+  "title": "Valid Anagram",
+  "titleSlug": "valid-anagram",
+  "topicTags": [
+    {
+      "name": "Hash Table",
+      "slug": "hash-table"
+    },
+    {
+      "name": "String",
+      "slug": "string"
+    },
+    {
+      "name": "Sorting",
+      "slug": "sorting"
+    }
+  ]
+}

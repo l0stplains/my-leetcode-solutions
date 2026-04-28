@@ -1,0 +1,47 @@
+{
+  "difficulty": "Easy",
+  "dislikes": 465,
+  "isPaidOnly": false,
+  "likes": 3392,
+  "questionFrontendId": "412",
+  "questionId": "412",
+  "similarQuestions": "[{\"title\": \"Fizz Buzz Multithreaded\", \"titleSlug\": \"fizz-buzz-multithreaded\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Categorize Box According to Criteria\", \"titleSlug\": \"categorize-box-according-to-criteria\", \"difficulty\": \"Easy\", \"translatedTitle\": null}]",
+  "similar_parsed": [
+    {
+      "difficulty": "Medium",
+      "title": "Fizz Buzz Multithreaded",
+      "titleSlug": "fizz-buzz-multithreaded",
+      "translatedTitle": null
+    },
+    {
+      "difficulty": "Easy",
+      "title": "Categorize Box According to Criteria",
+      "titleSlug": "categorize-box-according-to-criteria",
+      "translatedTitle": null
+    }
+  ],
+  "stats": "{\"totalAccepted\": \"1.8M\", \"totalSubmission\": \"2.4M\", \"totalAcceptedRaw\": 1779682, \"totalSubmissionRaw\": 2358435, \"acRate\": \"75.5%\"}",
+  "stats_parsed": {
+    "acRate": "75.5%",
+    "totalAccepted": "1.8M",
+    "totalAcceptedRaw": 1779682,
+    "totalSubmission": "2.4M",
+    "totalSubmissionRaw": 2358435
+  },
+  "title": "Fizz Buzz",
+  "titleSlug": "fizz-buzz",
+  "topicTags": [
+    {
+      "name": "Math",
+      "slug": "math"
+    },
+    {
+      "name": "String",
+      "slug": "string"
+    },
+    {
+      "name": "Simulation",
+      "slug": "simulation"
+    }
+  ]
+}

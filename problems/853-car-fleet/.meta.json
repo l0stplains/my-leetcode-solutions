@@ -1,0 +1,51 @@
+{
+  "difficulty": "Medium",
+  "dislikes": 1222,
+  "isPaidOnly": false,
+  "likes": 4332,
+  "questionFrontendId": "853",
+  "questionId": "883",
+  "similarQuestions": "[{\"title\": \"Car Fleet II\", \"titleSlug\": \"car-fleet-ii\", \"difficulty\": \"Hard\", \"translatedTitle\": null}, {\"title\": \"Count Collisions on a Road\", \"titleSlug\": \"count-collisions-on-a-road\", \"difficulty\": \"Medium\", \"translatedTitle\": null}]",
+  "similar_parsed": [
+    {
+      "difficulty": "Hard",
+      "title": "Car Fleet II",
+      "titleSlug": "car-fleet-ii",
+      "translatedTitle": null
+    },
+    {
+      "difficulty": "Medium",
+      "title": "Count Collisions on a Road",
+      "titleSlug": "count-collisions-on-a-road",
+      "translatedTitle": null
+    }
+  ],
+  "stats": "{\"totalAccepted\": \"486K\", \"totalSubmission\": \"883.4K\", \"totalAcceptedRaw\": 486035, \"totalSubmissionRaw\": 883447, \"acRate\": \"55.0%\"}",
+  "stats_parsed": {
+    "acRate": "55.0%",
+    "totalAccepted": "486K",
+    "totalAcceptedRaw": 486035,
+    "totalSubmission": "883.4K",
+    "totalSubmissionRaw": 883447
+  },
+  "title": "Car Fleet",
+  "titleSlug": "car-fleet",
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "Stack",
+      "slug": "stack"
+    },
+    {
+      "name": "Sorting",
+      "slug": "sorting"
+    },
+    {
+      "name": "Monotonic Stack",
+      "slug": "monotonic-stack"
+    }
+  ]
+}

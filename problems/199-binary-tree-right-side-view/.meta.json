@@ -1,0 +1,51 @@
+{
+  "difficulty": "Medium",
+  "dislikes": 1092,
+  "isPaidOnly": false,
+  "likes": 13473,
+  "questionFrontendId": "199",
+  "questionId": "199",
+  "similarQuestions": "[{\"title\": \"Populating Next Right Pointers in Each Node\", \"titleSlug\": \"populating-next-right-pointers-in-each-node\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Boundary of Binary Tree\", \"titleSlug\": \"boundary-of-binary-tree\", \"difficulty\": \"Medium\", \"translatedTitle\": null}]",
+  "similar_parsed": [
+    {
+      "difficulty": "Medium",
+      "title": "Populating Next Right Pointers in Each Node",
+      "titleSlug": "populating-next-right-pointers-in-each-node",
+      "translatedTitle": null
+    },
+    {
+      "difficulty": "Medium",
+      "title": "Boundary of Binary Tree",
+      "titleSlug": "boundary-of-binary-tree",
+      "translatedTitle": null
+    }
+  ],
+  "stats": "{\"totalAccepted\": \"2.2M\", \"totalSubmission\": \"3.2M\", \"totalAcceptedRaw\": 2225955, \"totalSubmissionRaw\": 3177838, \"acRate\": \"70.0%\"}",
+  "stats_parsed": {
+    "acRate": "70.0%",
+    "totalAccepted": "2.2M",
+    "totalAcceptedRaw": 2225955,
+    "totalSubmission": "3.2M",
+    "totalSubmissionRaw": 3177838
+  },
+  "title": "Binary Tree Right Side View",
+  "titleSlug": "binary-tree-right-side-view",
+  "topicTags": [
+    {
+      "name": "Tree",
+      "slug": "tree"
+    },
+    {
+      "name": "Depth-First Search",
+      "slug": "depth-first-search"
+    },
+    {
+      "name": "Breadth-First Search",
+      "slug": "breadth-first-search"
+    },
+    {
+      "name": "Binary Tree",
+      "slug": "binary-tree"
+    }
+  ]
+}

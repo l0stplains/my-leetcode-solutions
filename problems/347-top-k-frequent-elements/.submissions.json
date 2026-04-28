@@ -1,0 +1,14 @@
+{
+  "slug": "top-k-frequent-elements",
+  "submissions": [
+    {
+      "date_formatted": "2024-08-02 20:13:29",
+      "id": 1341861456,
+      "lang": "cpp",
+      "memory": "16.8MB",
+      "runtime": "19ms",
+      "status_display": "Accepted",
+      "timestamp": 1722604409
+    }
+  ]
+}

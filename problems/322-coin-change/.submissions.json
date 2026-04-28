@@ -1,0 +1,14 @@
+{
+  "slug": "coin-change",
+  "submissions": [
+    {
+      "date_formatted": "2022-01-15 18:43:30",
+      "id": 620237005,
+      "lang": "cpp",
+      "memory": "14.5MB",
+      "runtime": "91ms",
+      "status_display": "Accepted",
+      "timestamp": 1642247010
+    }
+  ]
+}

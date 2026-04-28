@@ -1,0 +1,14 @@
+{
+  "slug": "valid-anagram",
+  "submissions": [
+    {
+      "date_formatted": "2024-08-02 19:34:49",
+      "id": 1341829171,
+      "lang": "cpp",
+      "memory": "8.8MB",
+      "runtime": "3ms",
+      "status_display": "Accepted",
+      "timestamp": 1722602089
+    }
+  ]
+}

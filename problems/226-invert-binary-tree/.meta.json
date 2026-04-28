@@ -1,0 +1,45 @@
+{
+  "difficulty": "Easy",
+  "dislikes": 255,
+  "isPaidOnly": false,
+  "likes": 15234,
+  "questionFrontendId": "226",
+  "questionId": "226",
+  "similarQuestions": "[{\"title\": \"Reverse Odd Levels of Binary Tree\", \"titleSlug\": \"reverse-odd-levels-of-binary-tree\", \"difficulty\": \"Medium\", \"translatedTitle\": null}]",
+  "similar_parsed": [
+    {
+      "difficulty": "Medium",
+      "title": "Reverse Odd Levels of Binary Tree",
+      "titleSlug": "reverse-odd-levels-of-binary-tree",
+      "translatedTitle": null
+    }
+  ],
+  "stats": "{\"totalAccepted\": \"3M\", \"totalSubmission\": \"3.8M\", \"totalAcceptedRaw\": 3026523, \"totalSubmissionRaw\": 3782765, \"acRate\": \"80.0%\"}",
+  "stats_parsed": {
+    "acRate": "80.0%",
+    "totalAccepted": "3M",
+    "totalAcceptedRaw": 3026523,
+    "totalSubmission": "3.8M",
+    "totalSubmissionRaw": 3782765
+  },
+  "title": "Invert Binary Tree",
+  "titleSlug": "invert-binary-tree",
+  "topicTags": [
+    {
+      "name": "Tree",
+      "slug": "tree"
+    },
+    {
+      "name": "Depth-First Search",
+      "slug": "depth-first-search"
+    },
+    {
+      "name": "Breadth-First Search",
+      "slug": "breadth-first-search"
+    },
+    {
+      "name": "Binary Tree",
+      "slug": "binary-tree"
+    }
+  ]
+}

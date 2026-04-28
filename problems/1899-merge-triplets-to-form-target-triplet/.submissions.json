@@ -1,0 +1,14 @@
+{
+  "slug": "merge-triplets-to-form-target-triplet",
+  "submissions": [
+    {
+      "date_formatted": "2026-01-29 21:35:54",
+      "id": 1901008444,
+      "lang": "kotlin",
+      "memory": "134.7MB",
+      "runtime": "5ms",
+      "status_display": "Accepted",
+      "timestamp": 1769697354
+    }
+  ]
+}

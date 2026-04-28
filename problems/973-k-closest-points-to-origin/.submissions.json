@@ -1,0 +1,14 @@
+{
+  "slug": "k-closest-points-to-origin",
+  "submissions": [
+    {
+      "date_formatted": "2026-01-21 14:41:51",
+      "id": 1891885011,
+      "lang": "kotlin",
+      "memory": "77.5MB",
+      "runtime": "42ms",
+      "status_display": "Accepted",
+      "timestamp": 1768981311
+    }
+  ]
+}

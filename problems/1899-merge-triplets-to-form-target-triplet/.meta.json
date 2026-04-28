@@ -1,0 +1,30 @@
+{
+  "difficulty": "Medium",
+  "dislikes": 81,
+  "isPaidOnly": false,
+  "likes": 942,
+  "questionFrontendId": "1899",
+  "questionId": "2026",
+  "similarQuestions": "[]",
+  "similar_parsed": [],
+  "stats": "{\"totalAccepted\": \"119.2K\", \"totalSubmission\": \"172.7K\", \"totalAcceptedRaw\": 119168, \"totalSubmissionRaw\": 172716, \"acRate\": \"69.0%\"}",
+  "stats_parsed": {
+    "acRate": "69.0%",
+    "totalAccepted": "119.2K",
+    "totalAcceptedRaw": 119168,
+    "totalSubmission": "172.7K",
+    "totalSubmissionRaw": 172716
+  },
+  "title": "Merge Triplets to Form Target Triplet",
+  "titleSlug": "merge-triplets-to-form-target-triplet",
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "Greedy",
+      "slug": "greedy"
+    }
+  ]
+}

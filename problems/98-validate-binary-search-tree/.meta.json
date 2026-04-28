@@ -1,0 +1,51 @@
+{
+  "difficulty": "Medium",
+  "dislikes": 1461,
+  "isPaidOnly": false,
+  "likes": 18415,
+  "questionFrontendId": "98",
+  "questionId": "98",
+  "similarQuestions": "[{\"title\": \"Binary Tree Inorder Traversal\", \"titleSlug\": \"binary-tree-inorder-traversal\", \"difficulty\": \"Easy\", \"translatedTitle\": null}, {\"title\": \"Find Mode in Binary Search Tree\", \"titleSlug\": \"find-mode-in-binary-search-tree\", \"difficulty\": \"Easy\", \"translatedTitle\": null}]",
+  "similar_parsed": [
+    {
+      "difficulty": "Easy",
+      "title": "Binary Tree Inorder Traversal",
+      "titleSlug": "binary-tree-inorder-traversal",
+      "translatedTitle": null
+    },
+    {
+      "difficulty": "Easy",
+      "title": "Find Mode in Binary Search Tree",
+      "titleSlug": "find-mode-in-binary-search-tree",
+      "translatedTitle": null
+    }
+  ],
+  "stats": "{\"totalAccepted\": \"3.3M\", \"totalSubmission\": \"9.3M\", \"totalAcceptedRaw\": 3331642, \"totalSubmissionRaw\": 9341320, \"acRate\": \"35.7%\"}",
+  "stats_parsed": {
+    "acRate": "35.7%",
+    "totalAccepted": "3.3M",
+    "totalAcceptedRaw": 3331642,
+    "totalSubmission": "9.3M",
+    "totalSubmissionRaw": 9341320
+  },
+  "title": "Validate Binary Search Tree",
+  "titleSlug": "validate-binary-search-tree",
+  "topicTags": [
+    {
+      "name": "Tree",
+      "slug": "tree"
+    },
+    {
+      "name": "Depth-First Search",
+      "slug": "depth-first-search"
+    },
+    {
+      "name": "Binary Search Tree",
+      "slug": "binary-search-tree"
+    },
+    {
+      "name": "Binary Tree",
+      "slug": "binary-tree"
+    }
+  ]
+}

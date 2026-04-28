@@ -1,0 +1,14 @@
+{
+  "slug": "permutations",
+  "submissions": [
+    {
+      "date_formatted": "2022-01-13 13:41:14",
+      "id": 618843815,
+      "lang": "cpp",
+      "memory": "7.7MB",
+      "runtime": "3ms",
+      "status_display": "Accepted",
+      "timestamp": 1642056074
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "fibonacci-number",
+  "submissions": [
+    {
+      "date_formatted": "2022-01-12 15:34:00",
+      "id": 618225866,
+      "lang": "cpp",
+      "memory": "5.8MB",
+      "runtime": "0ms",
+      "status_display": "Accepted",
+      "timestamp": 1641976440
+    }
+  ]
+}

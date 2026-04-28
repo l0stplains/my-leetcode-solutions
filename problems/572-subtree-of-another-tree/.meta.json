@@ -1,0 +1,55 @@
+{
+  "difficulty": "Easy",
+  "dislikes": 604,
+  "isPaidOnly": false,
+  "likes": 8925,
+  "questionFrontendId": "572",
+  "questionId": "572",
+  "similarQuestions": "[{\"title\": \"Count Univalue Subtrees\", \"titleSlug\": \"count-univalue-subtrees\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Most Frequent Subtree Sum\", \"titleSlug\": \"most-frequent-subtree-sum\", \"difficulty\": \"Medium\", \"translatedTitle\": null}]",
+  "similar_parsed": [
+    {
+      "difficulty": "Medium",
+      "title": "Count Univalue Subtrees",
+      "titleSlug": "count-univalue-subtrees",
+      "translatedTitle": null
+    },
+    {
+      "difficulty": "Medium",
+      "title": "Most Frequent Subtree Sum",
+      "titleSlug": "most-frequent-subtree-sum",
+      "translatedTitle": null
+    }
+  ],
+  "stats": "{\"totalAccepted\": \"1.3M\", \"totalSubmission\": \"2.4M\", \"totalAcceptedRaw\": 1258084, \"totalSubmissionRaw\": 2442183, \"acRate\": \"51.5%\"}",
+  "stats_parsed": {
+    "acRate": "51.5%",
+    "totalAccepted": "1.3M",
+    "totalAcceptedRaw": 1258084,
+    "totalSubmission": "2.4M",
+    "totalSubmissionRaw": 2442183
+  },
+  "title": "Subtree of Another Tree",
+  "titleSlug": "subtree-of-another-tree",
+  "topicTags": [
+    {
+      "name": "Tree",
+      "slug": "tree"
+    },
+    {
+      "name": "Depth-First Search",
+      "slug": "depth-first-search"
+    },
+    {
+      "name": "String Matching",
+      "slug": "string-matching"
+    },
+    {
+      "name": "Binary Tree",
+      "slug": "binary-tree"
+    },
+    {
+      "name": "Hash Function",
+      "slug": "hash-function"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "two-sum-ii-input-array-is-sorted",
+  "submissions": [
+    {
+      "date_formatted": "2024-08-04 11:07:33",
+      "id": 1343811691,
+      "lang": "cpp",
+      "memory": "18.1MB",
+      "runtime": "3ms",
+      "status_display": "Accepted",
+      "timestamp": 1722744453
+    }
+  ]
+}

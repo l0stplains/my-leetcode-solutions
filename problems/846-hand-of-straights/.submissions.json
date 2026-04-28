@@ -1,0 +1,14 @@
+{
+  "slug": "hand-of-straights",
+  "submissions": [
+    {
+      "date_formatted": "2026-01-29 21:16:58",
+      "id": 1900989538,
+      "lang": "kotlin",
+      "memory": "49.7MB",
+      "runtime": "41ms",
+      "status_display": "Accepted",
+      "timestamp": 1769696218
+    }
+  ]
+}

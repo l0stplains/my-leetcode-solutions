@@ -1,0 +1,38 @@
+{
+  "difficulty": "Medium",
+  "dislikes": 295,
+  "isPaidOnly": false,
+  "likes": 3729,
+  "questionFrontendId": "846",
+  "questionId": "876",
+  "similarQuestions": "[]",
+  "similar_parsed": [],
+  "stats": "{\"totalAccepted\": \"449.9K\", \"totalSubmission\": \"776.8K\", \"totalAcceptedRaw\": 449897, \"totalSubmissionRaw\": 776849, \"acRate\": \"57.9%\"}",
+  "stats_parsed": {
+    "acRate": "57.9%",
+    "totalAccepted": "449.9K",
+    "totalAcceptedRaw": 449897,
+    "totalSubmission": "776.8K",
+    "totalSubmissionRaw": 776849
+  },
+  "title": "Hand of Straights",
+  "titleSlug": "hand-of-straights",
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "Hash Table",
+      "slug": "hash-table"
+    },
+    {
+      "name": "Greedy",
+      "slug": "greedy"
+    },
+    {
+      "name": "Sorting",
+      "slug": "sorting"
+    }
+  ]
+}

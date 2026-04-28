@@ -1,0 +1,14 @@
+{
+  "slug": "daily-temperatures",
+  "submissions": [
+    {
+      "date_formatted": "2026-01-15 18:23:40",
+      "id": 1885738210,
+      "lang": "kotlin",
+      "memory": "66.1MB",
+      "runtime": "56ms",
+      "status_display": "Accepted",
+      "timestamp": 1768476220
+    }
+  ]
+}

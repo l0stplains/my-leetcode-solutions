@@ -1,0 +1,14 @@
+{
+  "slug": "partition-labels",
+  "submissions": [
+    {
+      "date_formatted": "2026-01-29 21:51:46",
+      "id": 1901024067,
+      "lang": "kotlin",
+      "memory": "43.3MB",
+      "runtime": "10ms",
+      "status_display": "Accepted",
+      "timestamp": 1769698306
+    }
+  ]
+}

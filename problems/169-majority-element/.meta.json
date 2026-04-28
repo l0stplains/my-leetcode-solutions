@@ -1,0 +1,85 @@
+{
+  "difficulty": "Easy",
+  "dislikes": 828,
+  "isPaidOnly": false,
+  "likes": 22810,
+  "questionFrontendId": "169",
+  "questionId": "169",
+  "similarQuestions": "[{\"title\": \"Majority Element II\", \"titleSlug\": \"majority-element-ii\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Check If a Number Is Majority Element in a Sorted Array\", \"titleSlug\": \"check-if-a-number-is-majority-element-in-a-sorted-array\", \"difficulty\": \"Easy\", \"translatedTitle\": null}, {\"title\": \"Most Frequent Even Element\", \"titleSlug\": \"most-frequent-even-element\", \"difficulty\": \"Easy\", \"translatedTitle\": null}, {\"title\": \"Minimum Index of a Valid Split\", \"titleSlug\": \"minimum-index-of-a-valid-split\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Minimum Operations to Exceed Threshold Value I\", \"titleSlug\": \"minimum-operations-to-exceed-threshold-value-i\", \"difficulty\": \"Easy\", \"translatedTitle\": null}, {\"title\": \"Find the Most Common Response\", \"titleSlug\": \"find-the-most-common-response\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Find Valid Pair of Adjacent Digits in String\", \"titleSlug\": \"find-valid-pair-of-adjacent-digits-in-string\", \"difficulty\": \"Easy\", \"translatedTitle\": null}]",
+  "similar_parsed": [
+    {
+      "difficulty": "Medium",
+      "title": "Majority Element II",
+      "titleSlug": "majority-element-ii",
+      "translatedTitle": null
+    },
+    {
+      "difficulty": "Easy",
+      "title": "Check If a Number Is Majority Element in a Sorted Array",
+      "titleSlug": "check-if-a-number-is-majority-element-in-a-sorted-array",
+      "translatedTitle": null
+    },
+    {
+      "difficulty": "Easy",
+      "title": "Most Frequent Even Element",
+      "titleSlug": "most-frequent-even-element",
+      "translatedTitle": null
+    },
+    {
+      "difficulty": "Medium",
+      "title": "Minimum Index of a Valid Split",
+      "titleSlug": "minimum-index-of-a-valid-split",
+      "translatedTitle": null
+    },
+    {
+      "difficulty": "Easy",
+      "title": "Minimum Operations to Exceed Threshold Value I",
+      "titleSlug": "minimum-operations-to-exceed-threshold-value-i",
+      "translatedTitle": null
+    },
+    {
+      "difficulty": "Medium",
+      "title": "Find the Most Common Response",
+      "titleSlug": "find-the-most-common-response",
+      "translatedTitle": null
+    },
+    {
+      "difficulty": "Easy",
+      "title": "Find Valid Pair of Adjacent Digits in String",
+      "titleSlug": "find-valid-pair-of-adjacent-digits-in-string",
+      "translatedTitle": null
+    }
+  ],
+  "stats": "{\"totalAccepted\": \"5.4M\", \"totalSubmission\": \"8.2M\", \"totalAcceptedRaw\": 5446627, \"totalSubmissionRaw\": 8221302, \"acRate\": \"66.3%\"}",
+  "stats_parsed": {
+    "acRate": "66.3%",
+    "totalAccepted": "5.4M",
+    "totalAcceptedRaw": 5446627,
+    "totalSubmission": "8.2M",
+    "totalSubmissionRaw": 8221302
+  },
+  "title": "Majority Element",
+  "titleSlug": "majority-element",
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "Hash Table",
+      "slug": "hash-table"
+    },
+    {
+      "name": "Divide and Conquer",
+      "slug": "divide-and-conquer"
+    },
+    {
+      "name": "Sorting",
+      "slug": "sorting"
+    },
+    {
+      "name": "Counting",
+      "slug": "counting"
+    }
+  ]
+}

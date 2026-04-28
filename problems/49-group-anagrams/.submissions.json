@@ -1,0 +1,14 @@
+{
+  "slug": "group-anagrams",
+  "submissions": [
+    {
+      "date_formatted": "2024-08-02 19:52:45",
+      "id": 1341844073,
+      "lang": "cpp",
+      "memory": "25MB",
+      "runtime": "196ms",
+      "status_display": "Accepted",
+      "timestamp": 1722603165
+    }
+  ]
+}

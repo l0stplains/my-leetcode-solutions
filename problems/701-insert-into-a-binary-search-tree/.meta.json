@@ -1,0 +1,41 @@
+{
+  "difficulty": "Medium",
+  "dislikes": 189,
+  "isPaidOnly": false,
+  "likes": 6473,
+  "questionFrontendId": "701",
+  "questionId": "784",
+  "similarQuestions": "[{\"title\": \"Search in a Binary Search Tree\", \"titleSlug\": \"search-in-a-binary-search-tree\", \"difficulty\": \"Easy\", \"translatedTitle\": null}]",
+  "similar_parsed": [
+    {
+      "difficulty": "Easy",
+      "title": "Search in a Binary Search Tree",
+      "titleSlug": "search-in-a-binary-search-tree",
+      "translatedTitle": null
+    }
+  ],
+  "stats": "{\"totalAccepted\": \"865K\", \"totalSubmission\": \"1.2M\", \"totalAcceptedRaw\": 864980, \"totalSubmissionRaw\": 1177650, \"acRate\": \"73.4%\"}",
+  "stats_parsed": {
+    "acRate": "73.4%",
+    "totalAccepted": "865K",
+    "totalAcceptedRaw": 864980,
+    "totalSubmission": "1.2M",
+    "totalSubmissionRaw": 1177650
+  },
+  "title": "Insert into a Binary Search Tree",
+  "titleSlug": "insert-into-a-binary-search-tree",
+  "topicTags": [
+    {
+      "name": "Tree",
+      "slug": "tree"
+    },
+    {
+      "name": "Binary Search Tree",
+      "slug": "binary-search-tree"
+    },
+    {
+      "name": "Binary Tree",
+      "slug": "binary-tree"
+    }
+  ]
+}

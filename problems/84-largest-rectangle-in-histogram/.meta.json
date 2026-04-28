@@ -1,0 +1,47 @@
+{
+  "difficulty": "Hard",
+  "dislikes": 391,
+  "isPaidOnly": false,
+  "likes": 19684,
+  "questionFrontendId": "84",
+  "questionId": "84",
+  "similarQuestions": "[{\"title\": \"Maximal Rectangle\", \"titleSlug\": \"maximal-rectangle\", \"difficulty\": \"Hard\", \"translatedTitle\": null}, {\"title\": \"Maximum Score of a Good Subarray\", \"titleSlug\": \"maximum-score-of-a-good-subarray\", \"difficulty\": \"Hard\", \"translatedTitle\": null}]",
+  "similar_parsed": [
+    {
+      "difficulty": "Hard",
+      "title": "Maximal Rectangle",
+      "titleSlug": "maximal-rectangle",
+      "translatedTitle": null
+    },
+    {
+      "difficulty": "Hard",
+      "title": "Maximum Score of a Good Subarray",
+      "titleSlug": "maximum-score-of-a-good-subarray",
+      "translatedTitle": null
+    }
+  ],
+  "stats": "{\"totalAccepted\": \"1.6M\", \"totalSubmission\": \"3.1M\", \"totalAcceptedRaw\": 1552194, \"totalSubmissionRaw\": 3119854, \"acRate\": \"49.8%\"}",
+  "stats_parsed": {
+    "acRate": "49.8%",
+    "totalAccepted": "1.6M",
+    "totalAcceptedRaw": 1552194,
+    "totalSubmission": "3.1M",
+    "totalSubmissionRaw": 3119854
+  },
+  "title": "Largest Rectangle in Histogram",
+  "titleSlug": "largest-rectangle-in-histogram",
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "Stack",
+      "slug": "stack"
+    },
+    {
+      "name": "Monotonic Stack",
+      "slug": "monotonic-stack"
+    }
+  ]
+}

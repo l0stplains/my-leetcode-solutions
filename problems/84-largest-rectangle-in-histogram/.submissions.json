@@ -1,0 +1,14 @@
+{
+  "slug": "largest-rectangle-in-histogram",
+  "submissions": [
+    {
+      "date_formatted": "2026-01-16 10:46:14",
+      "id": 1886404547,
+      "lang": "kotlin",
+      "memory": "74.6MB",
+      "runtime": "256ms",
+      "status_display": "Accepted",
+      "timestamp": 1768535174
+    }
+  ]
+}

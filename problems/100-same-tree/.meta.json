@@ -1,0 +1,38 @@
+{
+  "difficulty": "Easy",
+  "dislikes": 301,
+  "isPaidOnly": false,
+  "likes": 12918,
+  "questionFrontendId": "100",
+  "questionId": "100",
+  "similarQuestions": "[]",
+  "similar_parsed": [],
+  "stats": "{\"totalAccepted\": \"3.4M\", \"totalSubmission\": \"5.1M\", \"totalAcceptedRaw\": 3401806, \"totalSubmissionRaw\": 5075966, \"acRate\": \"67.0%\"}",
+  "stats_parsed": {
+    "acRate": "67.0%",
+    "totalAccepted": "3.4M",
+    "totalAcceptedRaw": 3401806,
+    "totalSubmission": "5.1M",
+    "totalSubmissionRaw": 5075966
+  },
+  "title": "Same Tree",
+  "titleSlug": "same-tree",
+  "topicTags": [
+    {
+      "name": "Tree",
+      "slug": "tree"
+    },
+    {
+      "name": "Depth-First Search",
+      "slug": "depth-first-search"
+    },
+    {
+      "name": "Breadth-First Search",
+      "slug": "breadth-first-search"
+    },
+    {
+      "name": "Binary Tree",
+      "slug": "binary-tree"
+    }
+  ]
+}

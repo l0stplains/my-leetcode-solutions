@@ -1,0 +1,47 @@
+{
+  "difficulty": "Medium",
+  "dislikes": 376,
+  "isPaidOnly": false,
+  "likes": 14729,
+  "questionFrontendId": "739",
+  "questionId": "739",
+  "similarQuestions": "[{\"title\": \"Next Greater Element I\", \"titleSlug\": \"next-greater-element-i\", \"difficulty\": \"Easy\", \"translatedTitle\": null}, {\"title\": \"Online Stock Span\", \"titleSlug\": \"online-stock-span\", \"difficulty\": \"Medium\", \"translatedTitle\": null}]",
+  "similar_parsed": [
+    {
+      "difficulty": "Easy",
+      "title": "Next Greater Element I",
+      "titleSlug": "next-greater-element-i",
+      "translatedTitle": null
+    },
+    {
+      "difficulty": "Medium",
+      "title": "Online Stock Span",
+      "titleSlug": "online-stock-span",
+      "translatedTitle": null
+    }
+  ],
+  "stats": "{\"totalAccepted\": \"1.7M\", \"totalSubmission\": \"2.5M\", \"totalAcceptedRaw\": 1707520, \"totalSubmissionRaw\": 2488629, \"acRate\": \"68.6%\"}",
+  "stats_parsed": {
+    "acRate": "68.6%",
+    "totalAccepted": "1.7M",
+    "totalAcceptedRaw": 1707520,
+    "totalSubmission": "2.5M",
+    "totalSubmissionRaw": 2488629
+  },
+  "title": "Daily Temperatures",
+  "titleSlug": "daily-temperatures",
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "Stack",
+      "slug": "stack"
+    },
+    {
+      "name": "Monotonic Stack",
+      "slug": "monotonic-stack"
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "difficulty": "Medium",
+  "dislikes": 1242,
+  "isPaidOnly": false,
+  "likes": 22951,
+  "questionFrontendId": "128",
+  "questionId": "128",
+  "similarQuestions": "[{\"title\": \"Binary Tree Longest Consecutive Sequence\", \"titleSlug\": \"binary-tree-longest-consecutive-sequence\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Find Three Consecutive Integers That Sum to a Given Number\", \"titleSlug\": \"find-three-consecutive-integers-that-sum-to-a-given-number\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Maximum Consecutive Floors Without Special Floors\", \"titleSlug\": \"maximum-consecutive-floors-without-special-floors\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Length of the Longest Alphabetical Continuous Substring\", \"titleSlug\": \"length-of-the-longest-alphabetical-continuous-substring\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Find the Maximum Number of Elements in Subset\", \"titleSlug\": \"find-the-maximum-number-of-elements-in-subset\", \"difficulty\": \"Medium\", \"translatedTitle\": null}]",
+  "similar_parsed": [
+    {
+      "difficulty": "Medium",
+      "title": "Binary Tree Longest Consecutive Sequence",
+      "titleSlug": "binary-tree-longest-consecutive-sequence",
+      "translatedTitle": null
+    },
+    {
+      "difficulty": "Medium",
+      "title": "Find Three Consecutive Integers That Sum to a Given Number",
+      "titleSlug": "find-three-consecutive-integers-that-sum-to-a-given-number",
+      "translatedTitle": null
+    },
+    {
+      "difficulty": "Medium",
+      "title": "Maximum Consecutive Floors Without Special Floors",
+      "titleSlug": "maximum-consecutive-floors-without-special-floors",
+      "translatedTitle": null
+    },
+    {
+      "difficulty": "Medium",
+      "title": "Length of the Longest Alphabetical Continuous Substring",
+      "titleSlug": "length-of-the-longest-alphabetical-continuous-substring",
+      "translatedTitle": null
+    },
+    {
+      "difficulty": "Medium",
+      "title": "Find the Maximum Number of Elements in Subset",
+      "titleSlug": "find-the-maximum-number-of-elements-in-subset",
+      "translatedTitle": null
+    }
+  ],
+  "stats": "{\"totalAccepted\": \"3.3M\", \"totalSubmission\": \"7M\", \"totalAcceptedRaw\": 3287841, \"totalSubmissionRaw\": 6984166, \"acRate\": \"47.1%\"}",
+  "stats_parsed": {
+    "acRate": "47.1%",
+    "totalAccepted": "3.3M",
+    "totalAcceptedRaw": 3287841,
+    "totalSubmission": "7M",
+    "totalSubmissionRaw": 6984166
+  },
+  "title": "Longest Consecutive Sequence",
+  "titleSlug": "longest-consecutive-sequence",
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "Hash Table",
+      "slug": "hash-table"
+    },
+    {
+      "name": "Union-Find",
+      "slug": "union-find"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "difficulty": "Medium",
+  "dislikes": 732,
+  "isPaidOnly": false,
+  "likes": 5293,
+  "questionFrontendId": "981",
+  "questionId": "1023",
+  "similarQuestions": "[{\"title\": \"Stock Price Fluctuation \", \"titleSlug\": \"stock-price-fluctuation\", \"difficulty\": \"Medium\", \"translatedTitle\": null}]",
+  "similar_parsed": [
+    {
+      "difficulty": "Medium",
+      "title": "Stock Price Fluctuation ",
+      "titleSlug": "stock-price-fluctuation",
+      "translatedTitle": null
+    }
+  ],
+  "stats": "{\"totalAccepted\": \"734.2K\", \"totalSubmission\": \"1.5M\", \"totalAcceptedRaw\": 734196, \"totalSubmissionRaw\": 1472152, \"acRate\": \"49.9%\"}",
+  "stats_parsed": {
+    "acRate": "49.9%",
+    "totalAccepted": "734.2K",
+    "totalAcceptedRaw": 734196,
+    "totalSubmission": "1.5M",
+    "totalSubmissionRaw": 1472152
+  },
+  "title": "Time Based Key-Value Store",
+  "titleSlug": "time-based-key-value-store",
+  "topicTags": [
+    {
+      "name": "Hash Table",
+      "slug": "hash-table"
+    },
+    {
+      "name": "String",
+      "slug": "string"
+    },
+    {
+      "name": "Binary Search",
+      "slug": "binary-search"
+    },
+    {
+      "name": "Design",
+      "slug": "design"
+    }
+  ]
+}

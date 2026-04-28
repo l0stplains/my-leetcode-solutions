@@ -1,0 +1,14 @@
+{
+  "slug": "kth-smallest-element-in-a-bst",
+  "submissions": [
+    {
+      "date_formatted": "2026-02-03 20:42:57",
+      "id": 1906745380,
+      "lang": "kotlin",
+      "memory": "45.8MB",
+      "runtime": "0ms",
+      "status_display": "Accepted",
+      "timestamp": 1770126177
+    }
+  ]
+}

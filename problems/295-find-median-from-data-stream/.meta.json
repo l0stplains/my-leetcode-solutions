@@ -1,0 +1,79 @@
+{
+  "difficulty": "Hard",
+  "dislikes": 283,
+  "isPaidOnly": false,
+  "likes": 13219,
+  "questionFrontendId": "295",
+  "questionId": "295",
+  "similarQuestions": "[{\"title\": \"Sliding Window Median\", \"titleSlug\": \"sliding-window-median\", \"difficulty\": \"Hard\", \"translatedTitle\": null}, {\"title\": \"Finding MK Average\", \"titleSlug\": \"finding-mk-average\", \"difficulty\": \"Hard\", \"translatedTitle\": null}, {\"title\": \"Sequentially Ordinal Rank Tracker\", \"titleSlug\": \"sequentially-ordinal-rank-tracker\", \"difficulty\": \"Hard\", \"translatedTitle\": null}, {\"title\": \"Minimum Operations to Make Median of Array Equal to K\", \"titleSlug\": \"minimum-operations-to-make-median-of-array-equal-to-k\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Minimum Operations to Make Subarray Elements Equal\", \"titleSlug\": \"minimum-operations-to-make-subarray-elements-equal\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Minimum Operations to Make Elements Within K Subarrays Equal\", \"titleSlug\": \"minimum-operations-to-make-elements-within-k-subarrays-equal\", \"difficulty\": \"Hard\", \"translatedTitle\": null}]",
+  "similar_parsed": [
+    {
+      "difficulty": "Hard",
+      "title": "Sliding Window Median",
+      "titleSlug": "sliding-window-median",
+      "translatedTitle": null
+    },
+    {
+      "difficulty": "Hard",
+      "title": "Finding MK Average",
+      "titleSlug": "finding-mk-average",
+      "translatedTitle": null
+    },
+    {
+      "difficulty": "Hard",
+      "title": "Sequentially Ordinal Rank Tracker",
+      "titleSlug": "sequentially-ordinal-rank-tracker",
+      "translatedTitle": null
+    },
+    {
+      "difficulty": "Medium",
+      "title": "Minimum Operations to Make Median of Array Equal to K",
+      "titleSlug": "minimum-operations-to-make-median-of-array-equal-to-k",
+      "translatedTitle": null
+    },
+    {
+      "difficulty": "Medium",
+      "title": "Minimum Operations to Make Subarray Elements Equal",
+      "titleSlug": "minimum-operations-to-make-subarray-elements-equal",
+      "translatedTitle": null
+    },
+    {
+      "difficulty": "Hard",
+      "title": "Minimum Operations to Make Elements Within K Subarrays Equal",
+      "titleSlug": "minimum-operations-to-make-elements-within-k-subarrays-equal",
+      "translatedTitle": null
+    }
+  ],
+  "stats": "{\"totalAccepted\": \"1.2M\", \"totalSubmission\": \"2.2M\", \"totalAcceptedRaw\": 1212060, \"totalSubmissionRaw\": 2228267, \"acRate\": \"54.4%\"}",
+  "stats_parsed": {
+    "acRate": "54.4%",
+    "totalAccepted": "1.2M",
+    "totalAcceptedRaw": 1212060,
+    "totalSubmission": "2.2M",
+    "totalSubmissionRaw": 2228267
+  },
+  "title": "Find Median from Data Stream",
+  "titleSlug": "find-median-from-data-stream",
+  "topicTags": [
+    {
+      "name": "Two Pointers",
+      "slug": "two-pointers"
+    },
+    {
+      "name": "Design",
+      "slug": "design"
+    },
+    {
+      "name": "Sorting",
+      "slug": "sorting"
+    },
+    {
+      "name": "Heap (Priority Queue)",
+      "slug": "heap-priority-queue"
+    },
+    {
+      "name": "Data Stream",
+      "slug": "data-stream"
+    }
+  ]
+}

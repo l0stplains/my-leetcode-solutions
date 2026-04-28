@@ -1,0 +1,51 @@
+{
+  "difficulty": "Medium",
+  "dislikes": 444,
+  "isPaidOnly": false,
+  "likes": 11256,
+  "questionFrontendId": "763",
+  "questionId": "768",
+  "similarQuestions": "[{\"title\": \"Merge Intervals\", \"titleSlug\": \"merge-intervals\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Optimal Partition of String\", \"titleSlug\": \"optimal-partition-of-string\", \"difficulty\": \"Medium\", \"translatedTitle\": null}]",
+  "similar_parsed": [
+    {
+      "difficulty": "Medium",
+      "title": "Merge Intervals",
+      "titleSlug": "merge-intervals",
+      "translatedTitle": null
+    },
+    {
+      "difficulty": "Medium",
+      "title": "Optimal Partition of String",
+      "titleSlug": "optimal-partition-of-string",
+      "translatedTitle": null
+    }
+  ],
+  "stats": "{\"totalAccepted\": \"795.8K\", \"totalSubmission\": \"972.2K\", \"totalAcceptedRaw\": 795824, \"totalSubmissionRaw\": 972203, \"acRate\": \"81.9%\"}",
+  "stats_parsed": {
+    "acRate": "81.9%",
+    "totalAccepted": "795.8K",
+    "totalAcceptedRaw": 795824,
+    "totalSubmission": "972.2K",
+    "totalSubmissionRaw": 972203
+  },
+  "title": "Partition Labels",
+  "titleSlug": "partition-labels",
+  "topicTags": [
+    {
+      "name": "Hash Table",
+      "slug": "hash-table"
+    },
+    {
+      "name": "Two Pointers",
+      "slug": "two-pointers"
+    },
+    {
+      "name": "String",
+      "slug": "string"
+    },
+    {
+      "name": "Greedy",
+      "slug": "greedy"
+    }
+  ]
+}

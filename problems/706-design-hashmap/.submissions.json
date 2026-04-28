@@ -1,0 +1,14 @@
+{
+  "slug": "design-hashmap",
+  "submissions": [
+    {
+      "date_formatted": "2026-03-07 08:34:11",
+      "id": 1940336661,
+      "lang": "kotlin",
+      "memory": "76.2MB",
+      "runtime": "51ms",
+      "status_display": "Accepted",
+      "timestamp": 1772847251
+    }
+  ]
+}

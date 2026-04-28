@@ -1,0 +1,23 @@
+{
+  "slug": "binary-search",
+  "submissions": [
+    {
+      "date_formatted": "2026-01-16 11:01:17",
+      "id": 1886413262,
+      "lang": "kotlin",
+      "memory": "50MB",
+      "runtime": "0ms",
+      "status_display": "Accepted",
+      "timestamp": 1768536077
+    },
+    {
+      "date_formatted": "2024-04-25 18:37:27",
+      "id": 1241615338,
+      "lang": "cpp",
+      "memory": "29.9MB",
+      "runtime": "34ms",
+      "status_display": "Accepted",
+      "timestamp": 1714045047
+    }
+  ]
+}

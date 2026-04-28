@@ -1,0 +1,65 @@
+{
+  "difficulty": "Easy",
+  "dislikes": 4077,
+  "isPaidOnly": false,
+  "likes": 6452,
+  "questionFrontendId": "703",
+  "questionId": "789",
+  "similarQuestions": "[{\"title\": \"Kth Largest Element in an Array\", \"titleSlug\": \"kth-largest-element-in-an-array\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Finding MK Average\", \"titleSlug\": \"finding-mk-average\", \"difficulty\": \"Hard\", \"translatedTitle\": null}, {\"title\": \"Sequentially Ordinal Rank Tracker\", \"titleSlug\": \"sequentially-ordinal-rank-tracker\", \"difficulty\": \"Hard\", \"translatedTitle\": null}]",
+  "similar_parsed": [
+    {
+      "difficulty": "Medium",
+      "title": "Kth Largest Element in an Array",
+      "titleSlug": "kth-largest-element-in-an-array",
+      "translatedTitle": null
+    },
+    {
+      "difficulty": "Hard",
+      "title": "Finding MK Average",
+      "titleSlug": "finding-mk-average",
+      "translatedTitle": null
+    },
+    {
+      "difficulty": "Hard",
+      "title": "Sequentially Ordinal Rank Tracker",
+      "titleSlug": "sequentially-ordinal-rank-tracker",
+      "translatedTitle": null
+    }
+  ],
+  "stats": "{\"totalAccepted\": \"983.1K\", \"totalSubmission\": \"1.6M\", \"totalAcceptedRaw\": 983095, \"totalSubmissionRaw\": 1613317, \"acRate\": \"60.9%\"}",
+  "stats_parsed": {
+    "acRate": "60.9%",
+    "totalAccepted": "983.1K",
+    "totalAcceptedRaw": 983095,
+    "totalSubmission": "1.6M",
+    "totalSubmissionRaw": 1613317
+  },
+  "title": "Kth Largest Element in a Stream",
+  "titleSlug": "kth-largest-element-in-a-stream",
+  "topicTags": [
+    {
+      "name": "Tree",
+      "slug": "tree"
+    },
+    {
+      "name": "Design",
+      "slug": "design"
+    },
+    {
+      "name": "Binary Search Tree",
+      "slug": "binary-search-tree"
+    },
+    {
+      "name": "Heap (Priority Queue)",
+      "slug": "heap-priority-queue"
+    },
+    {
+      "name": "Binary Tree",
+      "slug": "binary-tree"
+    },
+    {
+      "name": "Data Stream",
+      "slug": "data-stream"
+    }
+  ]
+}

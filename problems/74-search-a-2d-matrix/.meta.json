@@ -1,0 +1,47 @@
+{
+  "difficulty": "Medium",
+  "dislikes": 485,
+  "isPaidOnly": false,
+  "likes": 17957,
+  "questionFrontendId": "74",
+  "questionId": "74",
+  "similarQuestions": "[{\"title\": \"Search a 2D Matrix II\", \"titleSlug\": \"search-a-2d-matrix-ii\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Split Message Based on Limit\", \"titleSlug\": \"split-message-based-on-limit\", \"difficulty\": \"Hard\", \"translatedTitle\": null}]",
+  "similar_parsed": [
+    {
+      "difficulty": "Medium",
+      "title": "Search a 2D Matrix II",
+      "titleSlug": "search-a-2d-matrix-ii",
+      "translatedTitle": null
+    },
+    {
+      "difficulty": "Hard",
+      "title": "Split Message Based on Limit",
+      "titleSlug": "split-message-based-on-limit",
+      "translatedTitle": null
+    }
+  ],
+  "stats": "{\"totalAccepted\": \"2.9M\", \"totalSubmission\": \"5.3M\", \"totalAcceptedRaw\": 2874512, \"totalSubmissionRaw\": 5338573, \"acRate\": \"53.8%\"}",
+  "stats_parsed": {
+    "acRate": "53.8%",
+    "totalAccepted": "2.9M",
+    "totalAcceptedRaw": 2874512,
+    "totalSubmission": "5.3M",
+    "totalSubmissionRaw": 5338573
+  },
+  "title": "Search a 2D Matrix",
+  "titleSlug": "search-a-2d-matrix",
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "Binary Search",
+      "slug": "binary-search"
+    },
+    {
+      "name": "Matrix",
+      "slug": "matrix"
+    }
+  ]
+}

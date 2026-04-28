@@ -1,0 +1,67 @@
+{
+  "difficulty": "Easy",
+  "dislikes": 8649,
+  "isPaidOnly": false,
+  "likes": 11695,
+  "questionFrontendId": "125",
+  "questionId": "125",
+  "similarQuestions": "[{\"title\": \"Palindrome Linked List\", \"titleSlug\": \"palindrome-linked-list\", \"difficulty\": \"Easy\", \"translatedTitle\": null}, {\"title\": \"Valid Palindrome II\", \"titleSlug\": \"valid-palindrome-ii\", \"difficulty\": \"Easy\", \"translatedTitle\": null}, {\"title\": \"Maximum Product of the Length of Two Palindromic Subsequences\", \"titleSlug\": \"maximum-product-of-the-length-of-two-palindromic-subsequences\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Find First Palindromic String in the Array\", \"titleSlug\": \"find-first-palindromic-string-in-the-array\", \"difficulty\": \"Easy\", \"translatedTitle\": null}, {\"title\": \"Valid Palindrome IV\", \"titleSlug\": \"valid-palindrome-iv\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Maximum Palindromes After Operations\", \"titleSlug\": \"maximum-palindromes-after-operations\", \"difficulty\": \"Medium\", \"translatedTitle\": null}]",
+  "similar_parsed": [
+    {
+      "difficulty": "Easy",
+      "title": "Palindrome Linked List",
+      "titleSlug": "palindrome-linked-list",
+      "translatedTitle": null
+    },
+    {
+      "difficulty": "Easy",
+      "title": "Valid Palindrome II",
+      "titleSlug": "valid-palindrome-ii",
+      "translatedTitle": null
+    },
+    {
+      "difficulty": "Medium",
+      "title": "Maximum Product of the Length of Two Palindromic Subsequences",
+      "titleSlug": "maximum-product-of-the-length-of-two-palindromic-subsequences",
+      "translatedTitle": null
+    },
+    {
+      "difficulty": "Easy",
+      "title": "Find First Palindromic String in the Array",
+      "titleSlug": "find-first-palindromic-string-in-the-array",
+      "translatedTitle": null
+    },
+    {
+      "difficulty": "Medium",
+      "title": "Valid Palindrome IV",
+      "titleSlug": "valid-palindrome-iv",
+      "translatedTitle": null
+    },
+    {
+      "difficulty": "Medium",
+      "title": "Maximum Palindromes After Operations",
+      "titleSlug": "maximum-palindromes-after-operations",
+      "translatedTitle": null
+    }
+  ],
+  "stats": "{\"totalAccepted\": \"5.4M\", \"totalSubmission\": \"10.1M\", \"totalAcceptedRaw\": 5396643, \"totalSubmissionRaw\": 10147063, \"acRate\": \"53.2%\"}",
+  "stats_parsed": {
+    "acRate": "53.2%",
+    "totalAccepted": "5.4M",
+    "totalAcceptedRaw": 5396643,
+    "totalSubmission": "10.1M",
+    "totalSubmissionRaw": 10147063
+  },
+  "title": "Valid Palindrome",
+  "titleSlug": "valid-palindrome",
+  "topicTags": [
+    {
+      "name": "Two Pointers",
+      "slug": "two-pointers"
+    },
+    {
+      "name": "String",
+      "slug": "string"
+    }
+  ]
+}

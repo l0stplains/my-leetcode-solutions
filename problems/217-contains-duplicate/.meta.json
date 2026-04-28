@@ -1,0 +1,59 @@
+{
+  "difficulty": "Easy",
+  "dislikes": 1372,
+  "isPaidOnly": false,
+  "likes": 13984,
+  "questionFrontendId": "217",
+  "questionId": "217",
+  "similarQuestions": "[{\"title\": \"Contains Duplicate II\", \"titleSlug\": \"contains-duplicate-ii\", \"difficulty\": \"Easy\", \"translatedTitle\": null}, {\"title\": \"Contains Duplicate III\", \"titleSlug\": \"contains-duplicate-iii\", \"difficulty\": \"Hard\", \"translatedTitle\": null}, {\"title\": \"Make Array Zero by Subtracting Equal Amounts\", \"titleSlug\": \"make-array-zero-by-subtracting-equal-amounts\", \"difficulty\": \"Easy\", \"translatedTitle\": null}, {\"title\": \"Find Valid Pair of Adjacent Digits in String\", \"titleSlug\": \"find-valid-pair-of-adjacent-digits-in-string\", \"difficulty\": \"Easy\", \"translatedTitle\": null}]",
+  "similar_parsed": [
+    {
+      "difficulty": "Easy",
+      "title": "Contains Duplicate II",
+      "titleSlug": "contains-duplicate-ii",
+      "translatedTitle": null
+    },
+    {
+      "difficulty": "Hard",
+      "title": "Contains Duplicate III",
+      "titleSlug": "contains-duplicate-iii",
+      "translatedTitle": null
+    },
+    {
+      "difficulty": "Easy",
+      "title": "Make Array Zero by Subtracting Equal Amounts",
+      "titleSlug": "make-array-zero-by-subtracting-equal-amounts",
+      "translatedTitle": null
+    },
+    {
+      "difficulty": "Easy",
+      "title": "Find Valid Pair of Adjacent Digits in String",
+      "titleSlug": "find-valid-pair-of-adjacent-digits-in-string",
+      "translatedTitle": null
+    }
+  ],
+  "stats": "{\"totalAccepted\": \"6.4M\", \"totalSubmission\": \"9.9M\", \"totalAcceptedRaw\": 6359432, \"totalSubmissionRaw\": 9892583, \"acRate\": \"64.3%\"}",
+  "stats_parsed": {
+    "acRate": "64.3%",
+    "totalAccepted": "6.4M",
+    "totalAcceptedRaw": 6359432,
+    "totalSubmission": "9.9M",
+    "totalSubmissionRaw": 9892583
+  },
+  "title": "Contains Duplicate",
+  "titleSlug": "contains-duplicate",
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "Hash Table",
+      "slug": "hash-table"
+    },
+    {
+      "name": "Sorting",
+      "slug": "sorting"
+    }
+  ]
+}

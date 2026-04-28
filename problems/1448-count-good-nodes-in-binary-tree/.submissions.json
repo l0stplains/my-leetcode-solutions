@@ -1,0 +1,14 @@
+{
+  "slug": "count-good-nodes-in-binary-tree",
+  "submissions": [
+    {
+      "date_formatted": "2026-02-03 20:11:47",
+      "id": 1906711427,
+      "lang": "kotlin",
+      "memory": "58.8MB",
+      "runtime": "285ms",
+      "status_display": "Accepted",
+      "timestamp": 1770124307
+    }
+  ]
+}

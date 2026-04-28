@@ -1,0 +1,14 @@
+{
+  "slug": "best-time-to-buy-and-sell-stock",
+  "submissions": [
+    {
+      "date_formatted": "2026-01-17 21:09:43",
+      "id": 1887804948,
+      "lang": "kotlin",
+      "memory": "65.2MB",
+      "runtime": "5ms",
+      "status_display": "Accepted",
+      "timestamp": 1768658983
+    }
+  ]
+}

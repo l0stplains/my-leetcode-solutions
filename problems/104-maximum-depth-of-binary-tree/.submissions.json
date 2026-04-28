@@ -1,0 +1,14 @@
+{
+  "slug": "maximum-depth-of-binary-tree",
+  "submissions": [
+    {
+      "date_formatted": "2026-01-19 15:55:03",
+      "id": 1889673501,
+      "lang": "kotlin",
+      "memory": "46.4MB",
+      "runtime": "18ms",
+      "status_display": "Accepted",
+      "timestamp": 1768812903
+    }
+  ]
+}

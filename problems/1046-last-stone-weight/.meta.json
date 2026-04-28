@@ -1,0 +1,30 @@
+{
+  "difficulty": "Easy",
+  "dislikes": 155,
+  "isPaidOnly": false,
+  "likes": 6671,
+  "questionFrontendId": "1046",
+  "questionId": "1127",
+  "similarQuestions": "[]",
+  "similar_parsed": [],
+  "stats": "{\"totalAccepted\": \"929.7K\", \"totalSubmission\": \"1.4M\", \"totalAcceptedRaw\": 929749, \"totalSubmissionRaw\": 1399269, \"acRate\": \"66.4%\"}",
+  "stats_parsed": {
+    "acRate": "66.4%",
+    "totalAccepted": "929.7K",
+    "totalAcceptedRaw": 929749,
+    "totalSubmission": "1.4M",
+    "totalSubmissionRaw": 1399269
+  },
+  "title": "Last Stone Weight",
+  "titleSlug": "last-stone-weight",
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "Heap (Priority Queue)",
+      "slug": "heap-priority-queue"
+    }
+  ]
+}

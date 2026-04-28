@@ -1,0 +1,14 @@
+{
+  "slug": "capacity-to-ship-packages-within-d-days",
+  "submissions": [
+    {
+      "date_formatted": "2026-03-18 13:13:39",
+      "id": 1951814704,
+      "lang": "cpp",
+      "memory": "35.1MB",
+      "runtime": "24ms",
+      "status_display": "Accepted",
+      "timestamp": 1773814419
+    }
+  ]
+}

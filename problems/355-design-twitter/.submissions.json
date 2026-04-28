@@ -1,0 +1,14 @@
+{
+  "slug": "design-twitter",
+  "submissions": [
+    {
+      "date_formatted": "2026-01-22 13:32:18",
+      "id": 1892949763,
+      "lang": "kotlin",
+      "memory": "78.8MB",
+      "runtime": "107ms",
+      "status_display": "Accepted",
+      "timestamp": 1769063538
+    }
+  ]
+}

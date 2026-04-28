@@ -1,0 +1,14 @@
+{
+  "slug": "time-based-key-value-store",
+  "submissions": [
+    {
+      "date_formatted": "2026-01-18 22:17:25",
+      "id": 1888993378,
+      "lang": "kotlin",
+      "memory": "157.8MB",
+      "runtime": "275ms",
+      "status_display": "Accepted",
+      "timestamp": 1768749445
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "difficulty": "Easy",
+  "dislikes": 5369,
+  "isPaidOnly": false,
+  "likes": 5158,
+  "questionFrontendId": "27",
+  "questionId": "27",
+  "similarQuestions": "[{\"title\": \"Remove Duplicates from Sorted Array\", \"titleSlug\": \"remove-duplicates-from-sorted-array\", \"difficulty\": \"Easy\", \"translatedTitle\": null}, {\"title\": \"Remove Linked List Elements\", \"titleSlug\": \"remove-linked-list-elements\", \"difficulty\": \"Easy\", \"translatedTitle\": null}, {\"title\": \"Move Zeroes\", \"titleSlug\": \"move-zeroes\", \"difficulty\": \"Easy\", \"translatedTitle\": null}]",
+  "similar_parsed": [
+    {
+      "difficulty": "Easy",
+      "title": "Remove Duplicates from Sorted Array",
+      "titleSlug": "remove-duplicates-from-sorted-array",
+      "translatedTitle": null
+    },
+    {
+      "difficulty": "Easy",
+      "title": "Remove Linked List Elements",
+      "titleSlug": "remove-linked-list-elements",
+      "translatedTitle": null
+    },
+    {
+      "difficulty": "Easy",
+      "title": "Move Zeroes",
+      "titleSlug": "move-zeroes",
+      "translatedTitle": null
+    }
+  ],
+  "stats": "{\"totalAccepted\": \"5.2M\", \"totalSubmission\": \"8.4M\", \"totalAcceptedRaw\": 5203625, \"totalSubmissionRaw\": 8433288, \"acRate\": \"61.7%\"}",
+  "stats_parsed": {
+    "acRate": "61.7%",
+    "totalAccepted": "5.2M",
+    "totalAcceptedRaw": 5203625,
+    "totalSubmission": "8.4M",
+    "totalSubmissionRaw": 8433288
+  },
+  "title": "Remove Element",
+  "titleSlug": "remove-element",
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "Two Pointers",
+      "slug": "two-pointers"
+    }
+  ]
+}

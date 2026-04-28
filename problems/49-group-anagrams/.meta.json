@@ -1,0 +1,63 @@
+{
+  "difficulty": "Medium",
+  "dislikes": 759,
+  "isPaidOnly": false,
+  "likes": 22096,
+  "questionFrontendId": "49",
+  "questionId": "49",
+  "similarQuestions": "[{\"title\": \"Valid Anagram\", \"titleSlug\": \"valid-anagram\", \"difficulty\": \"Easy\", \"translatedTitle\": null}, {\"title\": \"Group Shifted Strings\", \"titleSlug\": \"group-shifted-strings\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Find Resultant Array After Removing Anagrams\", \"titleSlug\": \"find-resultant-array-after-removing-anagrams\", \"difficulty\": \"Easy\", \"translatedTitle\": null}, {\"title\": \"Count Anagrams\", \"titleSlug\": \"count-anagrams\", \"difficulty\": \"Hard\", \"translatedTitle\": null}]",
+  "similar_parsed": [
+    {
+      "difficulty": "Easy",
+      "title": "Valid Anagram",
+      "titleSlug": "valid-anagram",
+      "translatedTitle": null
+    },
+    {
+      "difficulty": "Medium",
+      "title": "Group Shifted Strings",
+      "titleSlug": "group-shifted-strings",
+      "translatedTitle": null
+    },
+    {
+      "difficulty": "Easy",
+      "title": "Find Resultant Array After Removing Anagrams",
+      "titleSlug": "find-resultant-array-after-removing-anagrams",
+      "translatedTitle": null
+    },
+    {
+      "difficulty": "Hard",
+      "title": "Count Anagrams",
+      "titleSlug": "count-anagrams",
+      "translatedTitle": null
+    }
+  ],
+  "stats": "{\"totalAccepted\": \"4.7M\", \"totalSubmission\": \"6.5M\", \"totalAcceptedRaw\": 4711694, \"totalSubmissionRaw\": 6498856, \"acRate\": \"72.5%\"}",
+  "stats_parsed": {
+    "acRate": "72.5%",
+    "totalAccepted": "4.7M",
+    "totalAcceptedRaw": 4711694,
+    "totalSubmission": "6.5M",
+    "totalSubmissionRaw": 6498856
+  },
+  "title": "Group Anagrams",
+  "titleSlug": "group-anagrams",
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "Hash Table",
+      "slug": "hash-table"
+    },
+    {
+      "name": "String",
+      "slug": "string"
+    },
+    {
+      "name": "Sorting",
+      "slug": "sorting"
+    }
+  ]
+}

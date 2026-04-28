@@ -1,0 +1,14 @@
+{
+  "slug": "contains-duplicate",
+  "submissions": [
+    {
+      "date_formatted": "2024-08-02 19:31:49",
+      "id": 1341826838,
+      "lang": "cpp",
+      "memory": "73.5MB",
+      "runtime": "98ms",
+      "status_display": "Accepted",
+      "timestamp": 1722601909
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "difficulty": "Medium",
+  "dislikes": 702,
+  "isPaidOnly": false,
+  "likes": 7781,
+  "questionFrontendId": "377",
+  "questionId": "377",
+  "similarQuestions": "[{\"title\": \"Combination Sum\", \"titleSlug\": \"combination-sum\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Ways to Express an Integer as Sum of Powers\", \"titleSlug\": \"ways-to-express-an-integer-as-sum-of-powers\", \"difficulty\": \"Medium\", \"translatedTitle\": null}]",
+  "similar_parsed": [
+    {
+      "difficulty": "Medium",
+      "title": "Combination Sum",
+      "titleSlug": "combination-sum",
+      "translatedTitle": null
+    },
+    {
+      "difficulty": "Medium",
+      "title": "Ways to Express an Integer as Sum of Powers",
+      "titleSlug": "ways-to-express-an-integer-as-sum-of-powers",
+      "translatedTitle": null
+    }
+  ],
+  "stats": "{\"totalAccepted\": \"604.3K\", \"totalSubmission\": \"1.1M\", \"totalAcceptedRaw\": 604299, \"totalSubmissionRaw\": 1096968, \"acRate\": \"55.1%\"}",
+  "stats_parsed": {
+    "acRate": "55.1%",
+    "totalAccepted": "604.3K",
+    "totalAcceptedRaw": 604299,
+    "totalSubmission": "1.1M",
+    "totalSubmissionRaw": 1096968
+  },
+  "title": "Combination Sum IV",
+  "titleSlug": "combination-sum-iv",
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "Dynamic Programming",
+      "slug": "dynamic-programming"
+    }
+  ]
+}

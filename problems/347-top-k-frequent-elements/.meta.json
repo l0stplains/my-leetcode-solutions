@@ -1,0 +1,115 @@
+{
+  "difficulty": "Medium",
+  "dislikes": 857,
+  "isPaidOnly": false,
+  "likes": 19526,
+  "questionFrontendId": "347",
+  "questionId": "347",
+  "similarQuestions": "[{\"title\": \"Word Frequency\", \"titleSlug\": \"word-frequency\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Kth Largest Element in an Array\", \"titleSlug\": \"kth-largest-element-in-an-array\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Sort Characters By Frequency\", \"titleSlug\": \"sort-characters-by-frequency\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Split Array into Consecutive Subsequences\", \"titleSlug\": \"split-array-into-consecutive-subsequences\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Top K Frequent Words\", \"titleSlug\": \"top-k-frequent-words\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"K Closest Points to Origin\", \"titleSlug\": \"k-closest-points-to-origin\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Sort Features by Popularity\", \"titleSlug\": \"sort-features-by-popularity\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Sender With Largest Word Count\", \"titleSlug\": \"sender-with-largest-word-count\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Most Frequent Even Element\", \"titleSlug\": \"most-frequent-even-element\", \"difficulty\": \"Easy\", \"translatedTitle\": null}, {\"title\": \"Linked List Frequency\", \"titleSlug\": \"linked-list-frequency\", \"difficulty\": \"Easy\", \"translatedTitle\": null}]",
+  "similar_parsed": [
+    {
+      "difficulty": "Medium",
+      "title": "Word Frequency",
+      "titleSlug": "word-frequency",
+      "translatedTitle": null
+    },
+    {
+      "difficulty": "Medium",
+      "title": "Kth Largest Element in an Array",
+      "titleSlug": "kth-largest-element-in-an-array",
+      "translatedTitle": null
+    },
+    {
+      "difficulty": "Medium",
+      "title": "Sort Characters By Frequency",
+      "titleSlug": "sort-characters-by-frequency",
+      "translatedTitle": null
+    },
+    {
+      "difficulty": "Medium",
+      "title": "Split Array into Consecutive Subsequences",
+      "titleSlug": "split-array-into-consecutive-subsequences",
+      "translatedTitle": null
+    },
+    {
+      "difficulty": "Medium",
+      "title": "Top K Frequent Words",
+      "titleSlug": "top-k-frequent-words",
+      "translatedTitle": null
+    },
+    {
+      "difficulty": "Medium",
+      "title": "K Closest Points to Origin",
+      "titleSlug": "k-closest-points-to-origin",
+      "translatedTitle": null
+    },
+    {
+      "difficulty": "Medium",
+      "title": "Sort Features by Popularity",
+      "titleSlug": "sort-features-by-popularity",
+      "translatedTitle": null
+    },
+    {
+      "difficulty": "Medium",
+      "title": "Sender With Largest Word Count",
+      "titleSlug": "sender-with-largest-word-count",
+      "translatedTitle": null
+    },
+    {
+      "difficulty": "Easy",
+      "title": "Most Frequent Even Element",
+      "titleSlug": "most-frequent-even-element",
+      "translatedTitle": null
+    },
+    {
+      "difficulty": "Easy",
+      "title": "Linked List Frequency",
+      "titleSlug": "linked-list-frequency",
+      "translatedTitle": null
+    }
+  ],
+  "stats": "{\"totalAccepted\": \"3.6M\", \"totalSubmission\": \"5.4M\", \"totalAcceptedRaw\": 3553229, \"totalSubmissionRaw\": 5359148, \"acRate\": \"66.3%\"}",
+  "stats_parsed": {
+    "acRate": "66.3%",
+    "totalAccepted": "3.6M",
+    "totalAcceptedRaw": 3553229,
+    "totalSubmission": "5.4M",
+    "totalSubmissionRaw": 5359148
+  },
+  "title": "Top K Frequent Elements",
+  "titleSlug": "top-k-frequent-elements",
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "Hash Table",
+      "slug": "hash-table"
+    },
+    {
+      "name": "Divide and Conquer",
+      "slug": "divide-and-conquer"
+    },
+    {
+      "name": "Sorting",
+      "slug": "sorting"
+    },
+    {
+      "name": "Heap (Priority Queue)",
+      "slug": "heap-priority-queue"
+    },
+    {
+      "name": "Bucket Sort",
+      "slug": "bucket-sort"
+    },
+    {
+      "name": "Counting",
+      "slug": "counting"
+    },
+    {
+      "name": "Quickselect",
+      "slug": "quickselect"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "lowest-common-ancestor-of-a-binary-search-tree",
+  "submissions": [
+    {
+      "date_formatted": "2026-02-03 18:43:01",
+      "id": 1906632753,
+      "lang": "kotlin",
+      "memory": "48.2MB",
+      "runtime": "173ms",
+      "status_display": "Accepted",
+      "timestamp": 1770118981
+    }
+  ]
+}

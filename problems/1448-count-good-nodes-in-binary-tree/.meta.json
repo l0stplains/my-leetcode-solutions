@@ -1,0 +1,38 @@
+{
+  "difficulty": "Medium",
+  "dislikes": 214,
+  "isPaidOnly": false,
+  "likes": 6363,
+  "questionFrontendId": "1448",
+  "questionId": "1544",
+  "similarQuestions": "[]",
+  "similar_parsed": [],
+  "stats": "{\"totalAccepted\": \"877.1K\", \"totalSubmission\": \"1.2M\", \"totalAcceptedRaw\": 877094, \"totalSubmissionRaw\": 1188011, \"acRate\": \"73.8%\"}",
+  "stats_parsed": {
+    "acRate": "73.8%",
+    "totalAccepted": "877.1K",
+    "totalAcceptedRaw": 877094,
+    "totalSubmission": "1.2M",
+    "totalSubmissionRaw": 1188011
+  },
+  "title": "Count Good Nodes in Binary Tree",
+  "titleSlug": "count-good-nodes-in-binary-tree",
+  "topicTags": [
+    {
+      "name": "Tree",
+      "slug": "tree"
+    },
+    {
+      "name": "Depth-First Search",
+      "slug": "depth-first-search"
+    },
+    {
+      "name": "Breadth-First Search",
+      "slug": "breadth-first-search"
+    },
+    {
+      "name": "Binary Tree",
+      "slug": "binary-tree"
+    }
+  ]
+}

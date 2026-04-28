@@ -1,0 +1,14 @@
+{
+  "slug": "subtree-of-another-tree",
+  "submissions": [
+    {
+      "date_formatted": "2026-02-03 18:29:53",
+      "id": 1906622420,
+      "lang": "kotlin",
+      "memory": "49.3MB",
+      "runtime": "4ms",
+      "status_display": "Accepted",
+      "timestamp": 1770118193
+    }
+  ]
+}

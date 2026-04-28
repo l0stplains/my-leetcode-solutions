@@ -1,0 +1,30 @@
+{
+  "difficulty": "Easy",
+  "dislikes": 390,
+  "isPaidOnly": false,
+  "likes": 4895,
+  "questionFrontendId": "1672",
+  "questionId": "1791",
+  "similarQuestions": "[]",
+  "similar_parsed": [],
+  "stats": "{\"totalAccepted\": \"1.2M\", \"totalSubmission\": \"1.4M\", \"totalAcceptedRaw\": 1230156, \"totalSubmissionRaw\": 1387114, \"acRate\": \"88.7%\"}",
+  "stats_parsed": {
+    "acRate": "88.7%",
+    "totalAccepted": "1.2M",
+    "totalAcceptedRaw": 1230156,
+    "totalSubmission": "1.4M",
+    "totalSubmissionRaw": 1387114
+  },
+  "title": "Richest Customer Wealth",
+  "titleSlug": "richest-customer-wealth",
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "Matrix",
+      "slug": "matrix"
+    }
+  ]
+}

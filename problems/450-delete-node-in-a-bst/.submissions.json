@@ -1,0 +1,14 @@
+{
+  "slug": "delete-node-in-a-bst",
+  "submissions": [
+    {
+      "date_formatted": "2026-03-08 18:41:47",
+      "id": 1941901263,
+      "lang": "kotlin",
+      "memory": "47.8MB",
+      "runtime": "0ms",
+      "status_display": "Accepted",
+      "timestamp": 1772970107
+    }
+  ]
+}

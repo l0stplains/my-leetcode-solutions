@@ -1,0 +1,14 @@
+{
+  "slug": "binary-tree-level-order-traversal",
+  "submissions": [
+    {
+      "date_formatted": "2026-02-03 20:00:40",
+      "id": 1906700000,
+      "lang": "kotlin",
+      "memory": "47.7MB",
+      "runtime": "2ms",
+      "status_display": "Accepted",
+      "timestamp": 1770123640
+    }
+  ]
+}

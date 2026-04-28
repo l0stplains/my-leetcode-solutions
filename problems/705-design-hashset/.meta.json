@@ -1,0 +1,55 @@
+{
+  "difficulty": "Easy",
+  "dislikes": 329,
+  "isPaidOnly": false,
+  "likes": 4043,
+  "questionFrontendId": "705",
+  "questionId": "816",
+  "similarQuestions": "[{\"title\": \"Design HashMap\", \"titleSlug\": \"design-hashmap\", \"difficulty\": \"Easy\", \"translatedTitle\": null}, {\"title\": \"Design Skiplist\", \"titleSlug\": \"design-skiplist\", \"difficulty\": \"Hard\", \"translatedTitle\": null}]",
+  "similar_parsed": [
+    {
+      "difficulty": "Easy",
+      "title": "Design HashMap",
+      "titleSlug": "design-hashmap",
+      "translatedTitle": null
+    },
+    {
+      "difficulty": "Hard",
+      "title": "Design Skiplist",
+      "titleSlug": "design-skiplist",
+      "translatedTitle": null
+    }
+  ],
+  "stats": "{\"totalAccepted\": \"573.9K\", \"totalSubmission\": \"844.3K\", \"totalAcceptedRaw\": 573910, \"totalSubmissionRaw\": 844341, \"acRate\": \"68.0%\"}",
+  "stats_parsed": {
+    "acRate": "68.0%",
+    "totalAccepted": "573.9K",
+    "totalAcceptedRaw": 573910,
+    "totalSubmission": "844.3K",
+    "totalSubmissionRaw": 844341
+  },
+  "title": "Design HashSet",
+  "titleSlug": "design-hashset",
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "Hash Table",
+      "slug": "hash-table"
+    },
+    {
+      "name": "Linked List",
+      "slug": "linked-list"
+    },
+    {
+      "name": "Design",
+      "slug": "design"
+    },
+    {
+      "name": "Hash Function",
+      "slug": "hash-function"
+    }
+  ]
+}

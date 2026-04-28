@@ -1,0 +1,65 @@
+{
+  "difficulty": "Medium",
+  "dislikes": 769,
+  "isPaidOnly": false,
+  "likes": 13091,
+  "questionFrontendId": "424",
+  "questionId": "424",
+  "similarQuestions": "[{\"title\": \"Longest Substring with At Most K Distinct Characters\", \"titleSlug\": \"longest-substring-with-at-most-k-distinct-characters\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Max Consecutive Ones III\", \"titleSlug\": \"max-consecutive-ones-iii\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Minimum Number of Operations to Make Array Continuous\", \"titleSlug\": \"minimum-number-of-operations-to-make-array-continuous\", \"difficulty\": \"Hard\", \"translatedTitle\": null}, {\"title\": \"Maximize the Confusion of an Exam\", \"titleSlug\": \"maximize-the-confusion-of-an-exam\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Longest Substring of One Repeating Character\", \"titleSlug\": \"longest-substring-of-one-repeating-character\", \"difficulty\": \"Hard\", \"translatedTitle\": null}]",
+  "similar_parsed": [
+    {
+      "difficulty": "Medium",
+      "title": "Longest Substring with At Most K Distinct Characters",
+      "titleSlug": "longest-substring-with-at-most-k-distinct-characters",
+      "translatedTitle": null
+    },
+    {
+      "difficulty": "Medium",
+      "title": "Max Consecutive Ones III",
+      "titleSlug": "max-consecutive-ones-iii",
+      "translatedTitle": null
+    },
+    {
+      "difficulty": "Hard",
+      "title": "Minimum Number of Operations to Make Array Continuous",
+      "titleSlug": "minimum-number-of-operations-to-make-array-continuous",
+      "translatedTitle": null
+    },
+    {
+      "difficulty": "Medium",
+      "title": "Maximize the Confusion of an Exam",
+      "titleSlug": "maximize-the-confusion-of-an-exam",
+      "translatedTitle": null
+    },
+    {
+      "difficulty": "Hard",
+      "title": "Longest Substring of One Repeating Character",
+      "titleSlug": "longest-substring-of-one-repeating-character",
+      "translatedTitle": null
+    }
+  ],
+  "stats": "{\"totalAccepted\": \"1.5M\", \"totalSubmission\": \"2.6M\", \"totalAcceptedRaw\": 1545611, \"totalSubmissionRaw\": 2597930, \"acRate\": \"59.5%\"}",
+  "stats_parsed": {
+    "acRate": "59.5%",
+    "totalAccepted": "1.5M",
+    "totalAcceptedRaw": 1545611,
+    "totalSubmission": "2.6M",
+    "totalSubmissionRaw": 2597930
+  },
+  "title": "Longest Repeating Character Replacement",
+  "titleSlug": "longest-repeating-character-replacement",
+  "topicTags": [
+    {
+      "name": "Hash Table",
+      "slug": "hash-table"
+    },
+    {
+      "name": "String",
+      "slug": "string"
+    },
+    {
+      "name": "Sliding Window",
+      "slug": "sliding-window"
+    }
+  ]
+}

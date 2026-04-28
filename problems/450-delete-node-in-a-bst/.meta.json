@@ -1,0 +1,41 @@
+{
+  "difficulty": "Medium",
+  "dislikes": 389,
+  "isPaidOnly": false,
+  "likes": 10473,
+  "questionFrontendId": "450",
+  "questionId": "450",
+  "similarQuestions": "[{\"title\": \"Split BST\", \"titleSlug\": \"split-bst\", \"difficulty\": \"Medium\", \"translatedTitle\": null}]",
+  "similar_parsed": [
+    {
+      "difficulty": "Medium",
+      "title": "Split BST",
+      "titleSlug": "split-bst",
+      "translatedTitle": null
+    }
+  ],
+  "stats": "{\"totalAccepted\": \"863.9K\", \"totalSubmission\": \"1.6M\", \"totalAcceptedRaw\": 863899, \"totalSubmissionRaw\": 1583828, \"acRate\": \"54.5%\"}",
+  "stats_parsed": {
+    "acRate": "54.5%",
+    "totalAccepted": "863.9K",
+    "totalAcceptedRaw": 863899,
+    "totalSubmission": "1.6M",
+    "totalSubmissionRaw": 1583828
+  },
+  "title": "Delete Node in a BST",
+  "titleSlug": "delete-node-in-a-bst",
+  "topicTags": [
+    {
+      "name": "Tree",
+      "slug": "tree"
+    },
+    {
+      "name": "Binary Search Tree",
+      "slug": "binary-search-tree"
+    },
+    {
+      "name": "Binary Tree",
+      "slug": "binary-tree"
+    }
+  ]
+}

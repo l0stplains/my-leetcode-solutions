@@ -1,0 +1,55 @@
+{
+  "difficulty": "Medium",
+  "dislikes": 385,
+  "isPaidOnly": false,
+  "likes": 20897,
+  "questionFrontendId": "46",
+  "questionId": "46",
+  "similarQuestions": "[{\"title\": \"Next Permutation\", \"titleSlug\": \"next-permutation\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Permutations II\", \"titleSlug\": \"permutations-ii\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Permutation Sequence\", \"titleSlug\": \"permutation-sequence\", \"difficulty\": \"Hard\", \"translatedTitle\": null}, {\"title\": \"Combinations\", \"titleSlug\": \"combinations\", \"difficulty\": \"Medium\", \"translatedTitle\": null}]",
+  "similar_parsed": [
+    {
+      "difficulty": "Medium",
+      "title": "Next Permutation",
+      "titleSlug": "next-permutation",
+      "translatedTitle": null
+    },
+    {
+      "difficulty": "Medium",
+      "title": "Permutations II",
+      "titleSlug": "permutations-ii",
+      "translatedTitle": null
+    },
+    {
+      "difficulty": "Hard",
+      "title": "Permutation Sequence",
+      "titleSlug": "permutation-sequence",
+      "translatedTitle": null
+    },
+    {
+      "difficulty": "Medium",
+      "title": "Combinations",
+      "titleSlug": "combinations",
+      "translatedTitle": null
+    }
+  ],
+  "stats": "{\"totalAccepted\": \"3.1M\", \"totalSubmission\": \"3.8M\", \"totalAcceptedRaw\": 3077544, \"totalSubmissionRaw\": 3759453, \"acRate\": \"81.9%\"}",
+  "stats_parsed": {
+    "acRate": "81.9%",
+    "totalAccepted": "3.1M",
+    "totalAcceptedRaw": 3077544,
+    "totalSubmission": "3.8M",
+    "totalSubmissionRaw": 3759453
+  },
+  "title": "Permutations",
+  "titleSlug": "permutations",
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "Backtracking",
+      "slug": "backtracking"
+    }
+  ]
+}

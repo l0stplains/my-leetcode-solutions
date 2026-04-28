@@ -1,0 +1,53 @@
+{
+  "difficulty": "Medium",
+  "dislikes": 1540,
+  "isPaidOnly": false,
+  "likes": 13551,
+  "questionFrontendId": "167",
+  "questionId": "167",
+  "similarQuestions": "[{\"title\": \"Two Sum\", \"titleSlug\": \"two-sum\", \"difficulty\": \"Easy\", \"translatedTitle\": null}, {\"title\": \"Two Sum IV - Input is a BST\", \"titleSlug\": \"two-sum-iv-input-is-a-bst\", \"difficulty\": \"Easy\", \"translatedTitle\": null}, {\"title\": \"Two Sum Less Than K\", \"titleSlug\": \"two-sum-less-than-k\", \"difficulty\": \"Easy\", \"translatedTitle\": null}]",
+  "similar_parsed": [
+    {
+      "difficulty": "Easy",
+      "title": "Two Sum",
+      "titleSlug": "two-sum",
+      "translatedTitle": null
+    },
+    {
+      "difficulty": "Easy",
+      "title": "Two Sum IV - Input is a BST",
+      "titleSlug": "two-sum-iv-input-is-a-bst",
+      "translatedTitle": null
+    },
+    {
+      "difficulty": "Easy",
+      "title": "Two Sum Less Than K",
+      "titleSlug": "two-sum-less-than-k",
+      "translatedTitle": null
+    }
+  ],
+  "stats": "{\"totalAccepted\": \"3.4M\", \"totalSubmission\": \"5.2M\", \"totalAcceptedRaw\": 3372229, \"totalSubmissionRaw\": 5191174, \"acRate\": \"65.0%\"}",
+  "stats_parsed": {
+    "acRate": "65.0%",
+    "totalAccepted": "3.4M",
+    "totalAcceptedRaw": 3372229,
+    "totalSubmission": "5.2M",
+    "totalSubmissionRaw": 5191174
+  },
+  "title": "Two Sum II - Input Array Is Sorted",
+  "titleSlug": "two-sum-ii-input-array-is-sorted",
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "Two Pointers",
+      "slug": "two-pointers"
+    },
+    {
+      "name": "Binary Search",
+      "slug": "binary-search"
+    }
+  ]
+}

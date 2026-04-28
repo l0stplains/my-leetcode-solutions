@@ -1,0 +1,14 @@
+{
+  "slug": "balanced-binary-tree",
+  "submissions": [
+    {
+      "date_formatted": "2026-01-19 16:20:29",
+      "id": 1889693607,
+      "lang": "kotlin",
+      "memory": "45MB",
+      "runtime": "0ms",
+      "status_display": "Accepted",
+      "timestamp": 1768814429
+    }
+  ]
+}

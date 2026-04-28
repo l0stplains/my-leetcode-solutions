@@ -1,0 +1,14 @@
+{
+  "slug": "design-hashset",
+  "submissions": [
+    {
+      "date_formatted": "2026-03-07 08:32:49",
+      "id": 1940336255,
+      "lang": "kotlin",
+      "memory": "54.1MB",
+      "runtime": "35ms",
+      "status_display": "Accepted",
+      "timestamp": 1772847169
+    }
+  ]
+}

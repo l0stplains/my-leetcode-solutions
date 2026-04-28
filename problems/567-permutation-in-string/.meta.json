@@ -1,0 +1,51 @@
+{
+  "difficulty": "Medium",
+  "dislikes": 522,
+  "isPaidOnly": false,
+  "likes": 13049,
+  "questionFrontendId": "567",
+  "questionId": "567",
+  "similarQuestions": "[{\"title\": \"Minimum Window Substring\", \"titleSlug\": \"minimum-window-substring\", \"difficulty\": \"Hard\", \"translatedTitle\": null}, {\"title\": \"Find All Anagrams in a String\", \"titleSlug\": \"find-all-anagrams-in-a-string\", \"difficulty\": \"Medium\", \"translatedTitle\": null}]",
+  "similar_parsed": [
+    {
+      "difficulty": "Hard",
+      "title": "Minimum Window Substring",
+      "titleSlug": "minimum-window-substring",
+      "translatedTitle": null
+    },
+    {
+      "difficulty": "Medium",
+      "title": "Find All Anagrams in a String",
+      "titleSlug": "find-all-anagrams-in-a-string",
+      "translatedTitle": null
+    }
+  ],
+  "stats": "{\"totalAccepted\": \"1.5M\", \"totalSubmission\": \"3M\", \"totalAcceptedRaw\": 1485539, \"totalSubmissionRaw\": 3046989, \"acRate\": \"48.8%\"}",
+  "stats_parsed": {
+    "acRate": "48.8%",
+    "totalAccepted": "1.5M",
+    "totalAcceptedRaw": 1485539,
+    "totalSubmission": "3M",
+    "totalSubmissionRaw": 3046989
+  },
+  "title": "Permutation in String",
+  "titleSlug": "permutation-in-string",
+  "topicTags": [
+    {
+      "name": "Hash Table",
+      "slug": "hash-table"
+    },
+    {
+      "name": "Two Pointers",
+      "slug": "two-pointers"
+    },
+    {
+      "name": "String",
+      "slug": "string"
+    },
+    {
+      "name": "Sliding Window",
+      "slug": "sliding-window"
+    }
+  ]
+}

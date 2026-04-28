@@ -1,0 +1,69 @@
+{
+  "difficulty": "Medium",
+  "dislikes": 171,
+  "isPaidOnly": false,
+  "likes": 8649,
+  "questionFrontendId": "113",
+  "questionId": "113",
+  "similarQuestions": "[{\"title\": \"Path Sum\", \"titleSlug\": \"path-sum\", \"difficulty\": \"Easy\", \"translatedTitle\": null}, {\"title\": \"Binary Tree Paths\", \"titleSlug\": \"binary-tree-paths\", \"difficulty\": \"Easy\", \"translatedTitle\": null}, {\"title\": \"Path Sum III\", \"titleSlug\": \"path-sum-iii\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Path Sum IV\", \"titleSlug\": \"path-sum-iv\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Step-By-Step Directions From a Binary Tree Node to Another\", \"titleSlug\": \"step-by-step-directions-from-a-binary-tree-node-to-another\", \"difficulty\": \"Medium\", \"translatedTitle\": null}]",
+  "similar_parsed": [
+    {
+      "difficulty": "Easy",
+      "title": "Path Sum",
+      "titleSlug": "path-sum",
+      "translatedTitle": null
+    },
+    {
+      "difficulty": "Easy",
+      "title": "Binary Tree Paths",
+      "titleSlug": "binary-tree-paths",
+      "translatedTitle": null
+    },
+    {
+      "difficulty": "Medium",
+      "title": "Path Sum III",
+      "titleSlug": "path-sum-iii",
+      "translatedTitle": null
+    },
+    {
+      "difficulty": "Medium",
+      "title": "Path Sum IV",
+      "titleSlug": "path-sum-iv",
+      "translatedTitle": null
+    },
+    {
+      "difficulty": "Medium",
+      "title": "Step-By-Step Directions From a Binary Tree Node to Another",
+      "titleSlug": "step-by-step-directions-from-a-binary-tree-node-to-another",
+      "translatedTitle": null
+    }
+  ],
+  "stats": "{\"totalAccepted\": \"1.2M\", \"totalSubmission\": \"1.9M\", \"totalAcceptedRaw\": 1172546, \"totalSubmissionRaw\": 1887731, \"acRate\": \"62.1%\"}",
+  "stats_parsed": {
+    "acRate": "62.1%",
+    "totalAccepted": "1.2M",
+    "totalAcceptedRaw": 1172546,
+    "totalSubmission": "1.9M",
+    "totalSubmissionRaw": 1887731
+  },
+  "title": "Path Sum II",
+  "titleSlug": "path-sum-ii",
+  "topicTags": [
+    {
+      "name": "Backtracking",
+      "slug": "backtracking"
+    },
+    {
+      "name": "Tree",
+      "slug": "tree"
+    },
+    {
+      "name": "Depth-First Search",
+      "slug": "depth-first-search"
+    },
+    {
+      "name": "Binary Tree",
+      "slug": "binary-tree"
+    }
+  ]
+}

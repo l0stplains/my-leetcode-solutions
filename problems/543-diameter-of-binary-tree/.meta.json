@@ -1,0 +1,47 @@
+{
+  "difficulty": "Easy",
+  "dislikes": 1251,
+  "isPaidOnly": false,
+  "likes": 15717,
+  "questionFrontendId": "543",
+  "questionId": "543",
+  "similarQuestions": "[{\"title\": \"Diameter of N-Ary Tree\", \"titleSlug\": \"diameter-of-n-ary-tree\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Longest Path With Different Adjacent Characters\", \"titleSlug\": \"longest-path-with-different-adjacent-characters\", \"difficulty\": \"Hard\", \"translatedTitle\": null}]",
+  "similar_parsed": [
+    {
+      "difficulty": "Medium",
+      "title": "Diameter of N-Ary Tree",
+      "titleSlug": "diameter-of-n-ary-tree",
+      "translatedTitle": null
+    },
+    {
+      "difficulty": "Hard",
+      "title": "Longest Path With Different Adjacent Characters",
+      "titleSlug": "longest-path-with-different-adjacent-characters",
+      "translatedTitle": null
+    }
+  ],
+  "stats": "{\"totalAccepted\": \"2.5M\", \"totalSubmission\": \"3.8M\", \"totalAcceptedRaw\": 2491481, \"totalSubmissionRaw\": 3807892, \"acRate\": \"65.4%\"}",
+  "stats_parsed": {
+    "acRate": "65.4%",
+    "totalAccepted": "2.5M",
+    "totalAcceptedRaw": 2491481,
+    "totalSubmission": "3.8M",
+    "totalSubmissionRaw": 3807892
+  },
+  "title": "Diameter of Binary Tree",
+  "titleSlug": "diameter-of-binary-tree",
+  "topicTags": [
+    {
+      "name": "Tree",
+      "slug": "tree"
+    },
+    {
+      "name": "Depth-First Search",
+      "slug": "depth-first-search"
+    },
+    {
+      "name": "Binary Tree",
+      "slug": "binary-tree"
+    }
+  ]
+}

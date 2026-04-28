@@ -1,0 +1,14 @@
+{
+  "slug": "longest-common-prefix",
+  "submissions": [
+    {
+      "date_formatted": "2026-03-07 07:55:02",
+      "id": 1940325435,
+      "lang": "kotlin",
+      "memory": "42.5MB",
+      "runtime": "9ms",
+      "status_display": "Accepted",
+      "timestamp": 1772844902
+    }
+  ]
+}

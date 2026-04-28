@@ -1,0 +1,67 @@
+{
+  "difficulty": "Medium",
+  "dislikes": 291,
+  "isPaidOnly": false,
+  "likes": 11031,
+  "questionFrontendId": "1011",
+  "questionId": "1056",
+  "similarQuestions": "[{\"title\": \"Split Array Largest Sum\", \"titleSlug\": \"split-array-largest-sum\", \"difficulty\": \"Hard\", \"translatedTitle\": null}, {\"title\": \"Divide Chocolate\", \"titleSlug\": \"divide-chocolate\", \"difficulty\": \"Hard\", \"translatedTitle\": null}, {\"title\": \"Cutting Ribbons\", \"titleSlug\": \"cutting-ribbons\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Minimized Maximum of Products Distributed to Any Store\", \"titleSlug\": \"minimized-maximum-of-products-distributed-to-any-store\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Maximum Bags With Full Capacity of Rocks\", \"titleSlug\": \"maximum-bags-with-full-capacity-of-rocks\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Minimum Total Distance Traveled\", \"titleSlug\": \"minimum-total-distance-traveled\", \"difficulty\": \"Hard\", \"translatedTitle\": null}]",
+  "similar_parsed": [
+    {
+      "difficulty": "Hard",
+      "title": "Split Array Largest Sum",
+      "titleSlug": "split-array-largest-sum",
+      "translatedTitle": null
+    },
+    {
+      "difficulty": "Hard",
+      "title": "Divide Chocolate",
+      "titleSlug": "divide-chocolate",
+      "translatedTitle": null
+    },
+    {
+      "difficulty": "Medium",
+      "title": "Cutting Ribbons",
+      "titleSlug": "cutting-ribbons",
+      "translatedTitle": null
+    },
+    {
+      "difficulty": "Medium",
+      "title": "Minimized Maximum of Products Distributed to Any Store",
+      "titleSlug": "minimized-maximum-of-products-distributed-to-any-store",
+      "translatedTitle": null
+    },
+    {
+      "difficulty": "Medium",
+      "title": "Maximum Bags With Full Capacity of Rocks",
+      "titleSlug": "maximum-bags-with-full-capacity-of-rocks",
+      "translatedTitle": null
+    },
+    {
+      "difficulty": "Hard",
+      "title": "Minimum Total Distance Traveled",
+      "titleSlug": "minimum-total-distance-traveled",
+      "translatedTitle": null
+    }
+  ],
+  "stats": "{\"totalAccepted\": \"767.4K\", \"totalSubmission\": \"1M\", \"totalAcceptedRaw\": 767403, \"totalSubmissionRaw\": 1039557, \"acRate\": \"73.8%\"}",
+  "stats_parsed": {
+    "acRate": "73.8%",
+    "totalAccepted": "767.4K",
+    "totalAcceptedRaw": 767403,
+    "totalSubmission": "1M",
+    "totalSubmissionRaw": 1039557
+  },
+  "title": "Capacity To Ship Packages Within D Days",
+  "titleSlug": "capacity-to-ship-packages-within-d-days",
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "Binary Search",
+      "slug": "binary-search"
+    }
+  ]
+}

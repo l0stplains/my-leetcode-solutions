@@ -1,0 +1,14 @@
+{
+  "slug": "validate-binary-search-tree",
+  "submissions": [
+    {
+      "date_formatted": "2026-02-03 20:31:13",
+      "id": 1906731968,
+      "lang": "kotlin",
+      "memory": "46.1MB",
+      "runtime": "2ms",
+      "status_display": "Accepted",
+      "timestamp": 1770125473
+    }
+  ]
+}

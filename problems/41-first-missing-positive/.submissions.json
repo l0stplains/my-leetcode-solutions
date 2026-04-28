@@ -1,0 +1,14 @@
+{
+  "slug": "first-missing-positive",
+  "submissions": [
+    {
+      "date_formatted": "2026-03-07 09:34:07",
+      "id": 1940355474,
+      "lang": "kotlin",
+      "memory": "62.9MB",
+      "runtime": "9ms",
+      "status_display": "Accepted",
+      "timestamp": 1772850847
+    }
+  ]
+}
