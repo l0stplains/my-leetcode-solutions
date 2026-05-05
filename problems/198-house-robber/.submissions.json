@@ -1,0 +1,14 @@
+{
+  "slug": "house-robber",
+  "submissions": [
+    {
+      "date_formatted": "2026-05-05 14:18:18",
+      "id": 1995587468,
+      "lang": "java",
+      "memory": "42.5MB",
+      "runtime": "0ms",
+      "status_display": "Accepted",
+      "timestamp": 1777965498
+    }
+  ]
+}

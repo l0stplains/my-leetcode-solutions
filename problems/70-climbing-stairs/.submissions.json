@@ -2,6 +2,15 @@
   "slug": "climbing-stairs",
   "submissions": [
     {
+      "date_formatted": "2026-05-05 12:54:26",
+      "id": 1995522899,
+      "lang": "java",
+      "memory": "42MB",
+      "runtime": "0ms",
+      "status_display": "Accepted",
+      "timestamp": 1777960466
+    },
+    {
       "date_formatted": "2022-01-12 15:33:33",
       "id": 618225677,
       "lang": "cpp",

@@ -1,0 +1,65 @@
+{
+  "difficulty": "Medium",
+  "dislikes": 341,
+  "isPaidOnly": false,
+  "likes": 19257,
+  "questionFrontendId": "78",
+  "questionId": "78",
+  "similarQuestions": "[{\"title\": \"Subsets II\", \"titleSlug\": \"subsets-ii\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Generalized Abbreviation\", \"titleSlug\": \"generalized-abbreviation\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Letter Case Permutation\", \"titleSlug\": \"letter-case-permutation\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Find Array Given Subset Sums\", \"titleSlug\": \"find-array-given-subset-sums\", \"difficulty\": \"Hard\", \"translatedTitle\": null}, {\"title\": \"Count Number of Maximum Bitwise-OR Subsets\", \"titleSlug\": \"count-number-of-maximum-bitwise-or-subsets\", \"difficulty\": \"Medium\", \"translatedTitle\": null}]",
+  "similar_parsed": [
+    {
+      "difficulty": "Medium",
+      "title": "Subsets II",
+      "titleSlug": "subsets-ii",
+      "translatedTitle": null
+    },
+    {
+      "difficulty": "Medium",
+      "title": "Generalized Abbreviation",
+      "titleSlug": "generalized-abbreviation",
+      "translatedTitle": null
+    },
+    {
+      "difficulty": "Medium",
+      "title": "Letter Case Permutation",
+      "titleSlug": "letter-case-permutation",
+      "translatedTitle": null
+    },
+    {
+      "difficulty": "Hard",
+      "title": "Find Array Given Subset Sums",
+      "titleSlug": "find-array-given-subset-sums",
+      "translatedTitle": null
+    },
+    {
+      "difficulty": "Medium",
+      "title": "Count Number of Maximum Bitwise-OR Subsets",
+      "titleSlug": "count-number-of-maximum-bitwise-or-subsets",
+      "translatedTitle": null
+    }
+  ],
+  "stats": "{\"totalAccepted\": \"3M\", \"totalSubmission\": \"3.7M\", \"totalAcceptedRaw\": 3038550, \"totalSubmissionRaw\": 3692345, \"acRate\": \"82.3%\"}",
+  "stats_parsed": {
+    "acRate": "82.3%",
+    "totalAccepted": "3M",
+    "totalAcceptedRaw": 3038550,
+    "totalSubmission": "3.7M",
+    "totalSubmissionRaw": 3692345
+  },
+  "title": "Subsets",
+  "titleSlug": "subsets",
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "Backtracking",
+      "slug": "backtracking"
+    },
+    {
+      "name": "Bit Manipulation",
+      "slug": "bit-manipulation"
+    }
+  ]
+}

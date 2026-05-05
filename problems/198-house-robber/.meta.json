@@ -1,0 +1,115 @@
+{
+  "difficulty": "Medium",
+  "dislikes": 517,
+  "isPaidOnly": false,
+  "likes": 23527,
+  "questionFrontendId": "198",
+  "questionId": "198",
+  "similarQuestions": "[{\"title\": \"Maximum Product Subarray\", \"titleSlug\": \"maximum-product-subarray\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"House Robber II\", \"titleSlug\": \"house-robber-ii\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Paint House\", \"titleSlug\": \"paint-house\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Paint Fence\", \"titleSlug\": \"paint-fence\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"House Robber III\", \"titleSlug\": \"house-robber-iii\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Non-negative Integers without Consecutive Ones\", \"titleSlug\": \"non-negative-integers-without-consecutive-ones\", \"difficulty\": \"Hard\", \"translatedTitle\": null}, {\"title\": \"Coin Path\", \"titleSlug\": \"coin-path\", \"difficulty\": \"Hard\", \"translatedTitle\": null}, {\"title\": \"Delete and Earn\", \"titleSlug\": \"delete-and-earn\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Solving Questions With Brainpower\", \"titleSlug\": \"solving-questions-with-brainpower\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Count Number of Ways to Place Houses\", \"titleSlug\": \"count-number-of-ways-to-place-houses\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"House Robber IV\", \"titleSlug\": \"house-robber-iv\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Mice and Cheese\", \"titleSlug\": \"mice-and-cheese\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Largest Element in an Array after Merge Operations\", \"titleSlug\": \"largest-element-in-an-array-after-merge-operations\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"House Robber V\", \"titleSlug\": \"house-robber-v\", \"difficulty\": \"Medium\", \"translatedTitle\": null}]",
+  "similar_parsed": [
+    {
+      "difficulty": "Medium",
+      "title": "Maximum Product Subarray",
+      "titleSlug": "maximum-product-subarray",
+      "translatedTitle": null
+    },
+    {
+      "difficulty": "Medium",
+      "title": "House Robber II",
+      "titleSlug": "house-robber-ii",
+      "translatedTitle": null
+    },
+    {
+      "difficulty": "Medium",
+      "title": "Paint House",
+      "titleSlug": "paint-house",
+      "translatedTitle": null
+    },
+    {
+      "difficulty": "Medium",
+      "title": "Paint Fence",
+      "titleSlug": "paint-fence",
+      "translatedTitle": null
+    },
+    {
+      "difficulty": "Medium",
+      "title": "House Robber III",
+      "titleSlug": "house-robber-iii",
+      "translatedTitle": null
+    },
+    {
+      "difficulty": "Hard",
+      "title": "Non-negative Integers without Consecutive Ones",
+      "titleSlug": "non-negative-integers-without-consecutive-ones",
+      "translatedTitle": null
+    },
+    {
+      "difficulty": "Hard",
+      "title": "Coin Path",
+      "titleSlug": "coin-path",
+      "translatedTitle": null
+    },
+    {
+      "difficulty": "Medium",
+      "title": "Delete and Earn",
+      "titleSlug": "delete-and-earn",
+      "translatedTitle": null
+    },
+    {
+      "difficulty": "Medium",
+      "title": "Solving Questions With Brainpower",
+      "titleSlug": "solving-questions-with-brainpower",
+      "translatedTitle": null
+    },
+    {
+      "difficulty": "Medium",
+      "title": "Count Number of Ways to Place Houses",
+      "titleSlug": "count-number-of-ways-to-place-houses",
+      "translatedTitle": null
+    },
+    {
+      "difficulty": "Medium",
+      "title": "House Robber IV",
+      "titleSlug": "house-robber-iv",
+      "translatedTitle": null
+    },
+    {
+      "difficulty": "Medium",
+      "title": "Mice and Cheese",
+      "titleSlug": "mice-and-cheese",
+      "translatedTitle": null
+    },
+    {
+      "difficulty": "Medium",
+      "title": "Largest Element in an Array after Merge Operations",
+      "titleSlug": "largest-element-in-an-array-after-merge-operations",
+      "translatedTitle": null
+    },
+    {
+      "difficulty": "Medium",
+      "title": "House Robber V",
+      "titleSlug": "house-robber-v",
+      "translatedTitle": null
+    }
+  ],
+  "stats": "{\"totalAccepted\": \"3.5M\", \"totalSubmission\": \"6.7M\", \"totalAcceptedRaw\": 3549904, \"totalSubmissionRaw\": 6675380, \"acRate\": \"53.2%\"}",
+  "stats_parsed": {
+    "acRate": "53.2%",
+    "totalAccepted": "3.5M",
+    "totalAcceptedRaw": 3549904,
+    "totalSubmission": "6.7M",
+    "totalSubmissionRaw": 6675380
+  },
+  "title": "House Robber",
+  "titleSlug": "house-robber",
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "Dynamic Programming",
+      "slug": "dynamic-programming"
+    }
+  ]
+}

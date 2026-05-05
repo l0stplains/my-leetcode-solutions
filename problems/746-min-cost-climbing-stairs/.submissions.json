@@ -1,0 +1,14 @@
+{
+  "slug": "min-cost-climbing-stairs",
+  "submissions": [
+    {
+      "date_formatted": "2026-05-05 13:05:02",
+      "id": 1995531626,
+      "lang": "java",
+      "memory": "44.7MB",
+      "runtime": "1ms",
+      "status_display": "Accepted",
+      "timestamp": 1777961102
+    }
+  ]
+}

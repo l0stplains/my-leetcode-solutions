@@ -26,9 +26,10 @@ For information on how to use this repository for your own journey, please see t
 | 55 | [Jump Game](problems/55-jump-game) | Medium | Array, Dynamic Programming, Greedy | Kotlin |
 | 62 | [Unique Paths](problems/62-unique-paths) | Medium | Math, Dynamic Programming, Combinatorics | C++ |
 | 64 | [Minimum Path Sum](problems/64-minimum-path-sum) | Medium | Array, Dynamic Programming, Matrix | C++ |
-| 70 | [Climbing Stairs](problems/70-climbing-stairs) | Easy | Math, Dynamic Programming, Memoization | C++ |
+| 70 | [Climbing Stairs](problems/70-climbing-stairs) | Easy | Math, Dynamic Programming, Memoization | C++, Java |
 | 74 | [Search a 2D Matrix](problems/74-search-a-2d-matrix) | Medium | Array, Binary Search, Matrix | Kotlin |
 | 76 | [Minimum Window Substring](problems/76-minimum-window-substring) | Hard | Hash Table, String, Sliding Window | Kotlin |
+| 78 | [Subsets](problems/78-subsets) | Medium | Array, Backtracking, Bit Manipulation | C++ |
 | 84 | [Largest Rectangle in Histogram](problems/84-largest-rectangle-in-histogram) | Hard | Array, Stack, Monotonic Stack | Kotlin |
 | 98 | [Validate Binary Search Tree](problems/98-validate-binary-search-tree) | Medium | Tree, Depth-First Search, Binary Search Tree, Binary Tree | Kotlin |
 | 100 | [Same Tree](problems/100-same-tree) | Easy | Tree, Depth-First Search, Breadth-First Search, Binary Tree | Kotlin |
@@ -44,6 +45,7 @@ For information on how to use this repository for your own journey, please see t
 | 155 | [Min Stack](problems/155-min-stack) | Medium | Stack, Design | Kotlin |
 | 167 | [Two Sum II - Input Array Is Sorted](problems/167-two-sum-ii-input-array-is-sorted) | Medium | Array, Two Pointers, Binary Search | C++ |
 | 169 | [Majority Element](problems/169-majority-element) | Easy | Array, Hash Table, Divide and Conquer, Sorting, Counting | Kotlin |
+| 198 | [House Robber](problems/198-house-robber) | Medium | Array, Dynamic Programming | Java |
 | 199 | [Binary Tree Right Side View](problems/199-binary-tree-right-side-view) | Medium | Tree, Depth-First Search, Breadth-First Search, Binary Tree | Kotlin |
 | 215 | [Kth Largest Element in an Array](problems/215-kth-largest-element-in-an-array) | Medium | Array, Divide and Conquer, Sorting, Heap (Priority Queue), Quickselect | Kotlin |
 | 217 | [Contains Duplicate](problems/217-contains-duplicate) | Easy | Array, Hash Table, Sorting | C++ |
@@ -74,6 +76,7 @@ For information on how to use this repository for your own journey, please see t
 | 705 | [Design HashSet](problems/705-design-hashset) | Easy | Array, Hash Table, Linked List, Design, Hash Function | Kotlin |
 | 706 | [Design HashMap](problems/706-design-hashmap) | Easy | Array, Hash Table, Linked List, Design, Hash Function | Kotlin |
 | 739 | [Daily Temperatures](problems/739-daily-temperatures) | Medium | Array, Stack, Monotonic Stack | Kotlin |
+| 746 | [Min Cost Climbing Stairs](problems/746-min-cost-climbing-stairs) | Easy | Array, Dynamic Programming | Java |
 | 763 | [Partition Labels](problems/763-partition-labels) | Medium | Hash Table, Two Pointers, String, Greedy | Kotlin |
 | 846 | [Hand of Straights](problems/846-hand-of-straights) | Medium | Array, Hash Table, Greedy, Sorting | Kotlin |
 | 853 | [Car Fleet](problems/853-car-fleet) | Medium | Array, Stack, Sorting, Monotonic Stack | Kotlin |

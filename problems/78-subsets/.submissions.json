@@ -1,0 +1,14 @@
+{
+  "slug": "subsets",
+  "submissions": [
+    {
+      "date_formatted": "2026-05-05 12:40:45",
+      "id": 1995512470,
+      "lang": "cpp",
+      "memory": "9.8MB",
+      "runtime": "1ms",
+      "status_display": "Accepted",
+      "timestamp": 1777959645
+    }
+  ]
+}

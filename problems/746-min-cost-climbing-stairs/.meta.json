@@ -1,0 +1,43 @@
+{
+  "difficulty": "Easy",
+  "dislikes": 1897,
+  "isPaidOnly": false,
+  "likes": 12401,
+  "questionFrontendId": "746",
+  "questionId": "747",
+  "similarQuestions": "[{\"title\": \"Climbing Stairs\", \"titleSlug\": \"climbing-stairs\", \"difficulty\": \"Easy\", \"translatedTitle\": null}, {\"title\": \"Find Number of Ways to Reach the K-th Stair\", \"titleSlug\": \"find-number-of-ways-to-reach-the-k-th-stair\", \"difficulty\": \"Hard\", \"translatedTitle\": null}]",
+  "similar_parsed": [
+    {
+      "difficulty": "Easy",
+      "title": "Climbing Stairs",
+      "titleSlug": "climbing-stairs",
+      "translatedTitle": null
+    },
+    {
+      "difficulty": "Hard",
+      "title": "Find Number of Ways to Reach the K-th Stair",
+      "titleSlug": "find-number-of-ways-to-reach-the-k-th-stair",
+      "translatedTitle": null
+    }
+  ],
+  "stats": "{\"totalAccepted\": \"1.8M\", \"totalSubmission\": \"2.6M\", \"totalAcceptedRaw\": 1752169, \"totalSubmissionRaw\": 2567898, \"acRate\": \"68.2%\"}",
+  "stats_parsed": {
+    "acRate": "68.2%",
+    "totalAccepted": "1.8M",
+    "totalAcceptedRaw": 1752169,
+    "totalSubmission": "2.6M",
+    "totalSubmissionRaw": 2567898
+  },
+  "title": "Min Cost Climbing Stairs",
+  "titleSlug": "min-cost-climbing-stairs",
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "Dynamic Programming",
+      "slug": "dynamic-programming"
+    }
+  ]
+}
