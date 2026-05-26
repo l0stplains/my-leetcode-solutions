@@ -1,0 +1,49 @@
+{
+  "difficulty": "Medium",
+  "dislikes": 759,
+  "isPaidOnly": false,
+  "likes": 17737,
+  "questionFrontendId": "79",
+  "questionId": "79",
+  "similarQuestions": "[{\"title\": \"Word Search II\", \"titleSlug\": \"word-search-ii\", \"difficulty\": \"Hard\", \"translatedTitle\": null}]",
+  "similar_parsed": [
+    {
+      "difficulty": "Hard",
+      "title": "Word Search II",
+      "titleSlug": "word-search-ii",
+      "translatedTitle": null
+    }
+  ],
+  "stats": "{\"totalAccepted\": \"2.5M\", \"totalSubmission\": \"5.3M\", \"totalAcceptedRaw\": 2519690, \"totalSubmissionRaw\": 5316684, \"acRate\": \"47.4%\"}",
+  "stats_parsed": {
+    "acRate": "47.4%",
+    "totalAccepted": "2.5M",
+    "totalAcceptedRaw": 2519690,
+    "totalSubmission": "5.3M",
+    "totalSubmissionRaw": 5316684
+  },
+  "title": "Word Search",
+  "titleSlug": "word-search",
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "String",
+      "slug": "string"
+    },
+    {
+      "name": "Backtracking",
+      "slug": "backtracking"
+    },
+    {
+      "name": "Depth-First Search",
+      "slug": "depth-first-search"
+    },
+    {
+      "name": "Matrix",
+      "slug": "matrix"
+    }
+  ]
+}

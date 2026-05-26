@@ -1,0 +1,14 @@
+{
+  "slug": "word-search",
+  "submissions": [
+    {
+      "date_formatted": "2026-05-26 10:53:03",
+      "id": 2013175303,
+      "lang": "golang",
+      "memory": "4.2MB",
+      "runtime": "119ms",
+      "status_display": "Accepted",
+      "timestamp": 1779767583
+    }
+  ]
+}

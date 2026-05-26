@@ -30,6 +30,7 @@ For information on how to use this repository for your own journey, please see t
 | 74 | [Search a 2D Matrix](problems/74-search-a-2d-matrix) | Medium | Array, Binary Search, Matrix | Kotlin |
 | 76 | [Minimum Window Substring](problems/76-minimum-window-substring) | Hard | Hash Table, String, Sliding Window | Kotlin |
 | 78 | [Subsets](problems/78-subsets) | Medium | Array, Backtracking, Bit Manipulation | C++ |
+| 79 | [Word Search](problems/79-word-search) | Medium | Array, String, Backtracking, Depth-First Search, Matrix | Go |
 | 84 | [Largest Rectangle in Histogram](problems/84-largest-rectangle-in-histogram) | Hard | Array, Stack, Monotonic Stack | Kotlin |
 | 98 | [Validate Binary Search Tree](problems/98-validate-binary-search-tree) | Medium | Tree, Depth-First Search, Binary Search Tree, Binary Tree | Kotlin |
 | 100 | [Same Tree](problems/100-same-tree) | Easy | Tree, Depth-First Search, Breadth-First Search, Binary Tree | Kotlin |
