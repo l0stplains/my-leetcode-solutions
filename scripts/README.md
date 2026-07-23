@@ -72,6 +72,7 @@ The main command. Pulls accepted submissions from LeetCode and writes them into 
 8. Regenerates per-problem READMEs and the main solutions table.
 9. Updates `.leetcode_sync.json` so the next run is incremental.
 10. Generates `.leetcode_commit_message` from the meaningful solution changes.
+11. Records the exact touched paths in `.leetcode_sync_paths`.
 
 The generated message uses a Conventional Commit title and lists each added or
 updated problem and language. README-only timestamp changes are summarized as
@@ -115,13 +116,19 @@ Open the LeetCode problem page in your default browser.
 **Typical workflow (sync-first):**
 1. Solve and submit problems on LeetCode as usual.
 2. Periodically run `./sync` to mirror your accepted submissions.
-3. Review and commit the changes using the generated message:
+3. Review the changes and run one command to stage only the latest sync paths,
+   commit with the generated message, and push:
    ```bash
    cat .leetcode_commit_message
-   git add problems/ README.md
-   git commit -F .leetcode_commit_message
-   git push
+   git diff
+   python3 scripts/commit_sync.py --push
    ```
+
+Omit `--push` if you want to create the commit locally without pushing:
+
+```bash
+python3 scripts/commit_sync.py
+```
 
 To regenerate or preview the message separately:
 
@@ -146,6 +153,7 @@ my-leetcode-solutions/
   .leetcode_cookies            YOUR cookies (gitignored, you create this)
   .leetcode_sync.json          Incremental sync marker (gitignored)
   .leetcode_commit_message     Generated commit message (gitignored)
+  .leetcode_sync_paths         Exact paths touched by the latest sync (gitignored)
   problems/
     <id>-<slug>/
       README.md                Per-problem (regenerated on sync)
@@ -158,6 +166,7 @@ my-leetcode-solutions/
     repo_io.py                 Shared on-disk read/write helpers
     sync_submissions.py
     generate_commit_message.py
+    commit_sync.py
     sync.sh
     add_solution.py
     add.sh

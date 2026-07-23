@@ -6,6 +6,7 @@
 .leetcode_cookies
 .leetcode_sync.json
 .leetcode_commit_message
+.leetcode_sync_paths
 debug.log
 
 # Language-specific ignores

@@ -25,6 +25,7 @@ from typing import Dict, List, Optional
 # OR from inside the scripts folder.
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 
+from commit_sync import write_sync_paths
 from leetcode_api import LeetCodeClient, lang_to_ext, load_cookies
 from generate_commit_message import write_commit_message
 from repo_io import (
@@ -260,12 +261,17 @@ def main():
     save_manifest(manifest)
 
     commit_message_path = write_commit_message()
+    sync_paths = list(touched_folders)
+    if not args.no_readme:
+        sync_paths.insert(0, "README.md")
+    sync_paths_path = write_sync_paths(sync_paths)
 
-    print("Sync complete. Review and commit the changes:")
-    print("  git add problems/ README.md")
+    print("Sync complete.")
     if commit_message_path:
-        print(f"  git commit -F {commit_message_path}")
         print(f"Generated commit message: {commit_message_path}")
+        print(f"Recorded synced paths: {sync_paths_path}")
+        print("Review the changes, then commit and push them with:")
+        print("  python3 scripts/commit_sync.py --push")
     else:
         print("  # No solution changes found; nothing to commit.")
 
