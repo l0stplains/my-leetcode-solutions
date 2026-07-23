@@ -36,10 +36,10 @@ def find_existing_problem_folder(slug: str) -> Optional[str]:
     if not os.path.isdir(PROBLEMS_DIR):
         return None
     safe = slugify_safe(slug)
-    suffix = f"-{safe}"
     for entry in os.listdir(PROBLEMS_DIR):
         full = os.path.join(PROBLEMS_DIR, entry)
-        if os.path.isdir(full) and entry.endswith(suffix):
+        _, separator, folder_slug = entry.partition("-")
+        if os.path.isdir(full) and separator and folder_slug == safe:
             return full
     return None
 
@@ -108,10 +108,22 @@ def write_problem_readme(
     metadata: Dict,
     history: Dict,
     languages: List[str],
+    metadata_refreshed: bool = False,
 ) -> None:
     """Render the per-problem README from metadata + accepted history."""
     readme_path = os.path.join(folder, "README.md")
-    now = datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+    last_updated = None
+    if not metadata_refreshed and os.path.isfile(readme_path):
+        with open(readme_path, "r", encoding="utf-8") as existing_readme:
+            match = re.search(
+                r"^> \*Last updated: (.+)\*$",
+                existing_readme.read(),
+                flags=re.MULTILINE,
+            )
+            if match:
+                last_updated = match.group(1)
+    if last_updated is None:
+        last_updated = datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S")
 
     title = metadata.get("title", history.get("slug", "Unknown"))
     slug = metadata.get("titleSlug", history.get("slug", ""))
@@ -153,7 +165,7 @@ def write_problem_readme(
         if "totalSubmission" in stats:
             lines.append(f"- **Total Submissions:** {stats['totalSubmission']}")
         lines.append("")
-        lines.append(f"> *Last updated: {now}*")
+        lines.append(f"> *Last updated: {last_updated}*")
         lines.append("")
 
     lines.append("## Solutions")

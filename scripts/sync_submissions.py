@@ -26,6 +26,7 @@ from typing import Dict, List, Optional
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 
 from leetcode_api import LeetCodeClient, lang_to_ext, load_cookies
+from generate_commit_message import write_commit_message
 from repo_io import (
     PROBLEMS_DIR,
     collect_all_rows,
@@ -197,6 +198,7 @@ def main():
             or args.refresh_metadata
             or "questionFrontendId" not in metadata
         )
+        metadata_refreshed = False
 
         if need_metadata_fetch:
             print(f"  fetching metadata for {slug}...")
@@ -204,6 +206,7 @@ def main():
             if not metadata:
                 logging.warning("Skipping %s: no metadata available.", slug)
                 continue
+            metadata_refreshed = True
 
         if folder is None:
             folder_name = problem_folder_name(
@@ -229,7 +232,13 @@ def main():
             written_files += 1
 
         languages = detect_languages(folder)
-        write_problem_readme(folder, metadata, history, languages)
+        write_problem_readme(
+            folder,
+            metadata,
+            history,
+            languages,
+            metadata_refreshed=metadata_refreshed,
+        )
         touched_folders.append(folder)
 
     print(f"Wrote {written_files} solution file(s) across {len(touched_folders)} problem(s).")
@@ -250,9 +259,15 @@ def main():
     manifest["last_sync"] = datetime.datetime.now().isoformat(timespec="seconds")
     save_manifest(manifest)
 
-    print("Sync complete. Don't forget to:")
+    commit_message_path = write_commit_message()
+
+    print("Sync complete. Review and commit the changes:")
     print("  git add problems/ README.md")
-    print("  git commit -m \"Sync LeetCode solutions\"")
+    if commit_message_path:
+        print(f"  git commit -F {commit_message_path}")
+        print(f"Generated commit message: {commit_message_path}")
+    else:
+        print("  # No solution changes found; nothing to commit.")
 
 
 if __name__ == "__main__":

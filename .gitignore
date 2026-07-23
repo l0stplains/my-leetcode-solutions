@@ -5,6 +5,7 @@
 # LeetCode credentials and sync state
 .leetcode_cookies
 .leetcode_sync.json
+.leetcode_commit_message
 debug.log
 
 # Language-specific ignores

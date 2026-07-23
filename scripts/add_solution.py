@@ -116,6 +116,7 @@ def main():
 
     folder = find_existing_problem_folder(args.slug)
     metadata = load_problem_metadata(folder) if folder else None
+    metadata_refreshed = False
 
     if metadata is None and not args.no_network:
         cookies = load_cookies(args.cookies)
@@ -125,6 +126,7 @@ def main():
         if not metadata:
             print(f"ERROR: Could not fetch metadata for {args.slug}.", file=sys.stderr)
             sys.exit(1)
+        metadata_refreshed = True
 
     if metadata is None:
         # --no-network and no cached metadata: use a bare-bones placeholder.
@@ -165,7 +167,13 @@ def main():
     }])
     save_problem_history(folder, history)
 
-    write_problem_readme(folder, metadata, history, detect_languages(folder))
+    write_problem_readme(
+        folder,
+        metadata,
+        history,
+        detect_languages(folder),
+        metadata_refreshed=metadata_refreshed,
+    )
     update_main_readme(collect_all_rows())
 
     print(f"Updated README and main solutions table for {args.slug}.")

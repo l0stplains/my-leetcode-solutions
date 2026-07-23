@@ -71,6 +71,16 @@ The main command. Pulls accepted submissions from LeetCode and writes them into 
 7. Fetches problem metadata via GraphQL (title, difficulty, tags, stats; **never the problem statement**).
 8. Regenerates per-problem READMEs and the main solutions table.
 9. Updates `.leetcode_sync.json` so the next run is incremental.
+10. Generates `.leetcode_commit_message` from the meaningful solution changes.
+
+The generated message uses a Conventional Commit title and lists each added or
+updated problem and language. README-only timestamp changes are summarized as
+documentation refreshes rather than counted as solution updates.
+
+A full sync reuses cached problem metadata by default. Existing per-problem
+`Last updated` timestamps are preserved unless metadata is actually fetched
+(for a new problem, or when using `--refresh-metadata`), avoiding timestamp-only
+changes across the repository.
 
 ### Add: `./add <filename> <slug>`
 
@@ -105,12 +115,20 @@ Open the LeetCode problem page in your default browser.
 **Typical workflow (sync-first):**
 1. Solve and submit problems on LeetCode as usual.
 2. Periodically run `./sync` to mirror your accepted submissions.
-3. Commit the changes:
+3. Review and commit the changes using the generated message:
    ```bash
+   cat .leetcode_commit_message
    git add problems/ README.md
-   git commit -m "Sync LeetCode solutions"
+   git commit -F .leetcode_commit_message
    git push
    ```
+
+To regenerate or preview the message separately:
+
+```bash
+python3 scripts/generate_commit_message.py
+python3 scripts/generate_commit_message.py --write
+```
 
 **Manual workflow:**
 1. Write a solution in `workspace/`.
@@ -127,6 +145,7 @@ my-leetcode-solutions/
   .gitignore
   .leetcode_cookies            YOUR cookies (gitignored, you create this)
   .leetcode_sync.json          Incremental sync marker (gitignored)
+  .leetcode_commit_message     Generated commit message (gitignored)
   problems/
     <id>-<slug>/
       README.md                Per-problem (regenerated on sync)
@@ -138,6 +157,7 @@ my-leetcode-solutions/
     leetcode_api.py            Shared LeetCode REST + GraphQL client
     repo_io.py                 Shared on-disk read/write helpers
     sync_submissions.py
+    generate_commit_message.py
     sync.sh
     add_solution.py
     add.sh
