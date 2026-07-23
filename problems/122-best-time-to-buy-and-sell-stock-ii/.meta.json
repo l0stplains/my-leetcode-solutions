@@ -1,0 +1,71 @@
+{
+  "difficulty": "Medium",
+  "dislikes": 2818,
+  "isPaidOnly": false,
+  "likes": 15513,
+  "questionFrontendId": "122",
+  "questionId": "122",
+  "similarQuestions": "[{\"title\": \"Best Time to Buy and Sell Stock\", \"titleSlug\": \"best-time-to-buy-and-sell-stock\", \"difficulty\": \"Easy\", \"translatedTitle\": null}, {\"title\": \"Best Time to Buy and Sell Stock III\", \"titleSlug\": \"best-time-to-buy-and-sell-stock-iii\", \"difficulty\": \"Hard\", \"translatedTitle\": null}, {\"title\": \"Best Time to Buy and Sell Stock IV\", \"titleSlug\": \"best-time-to-buy-and-sell-stock-iv\", \"difficulty\": \"Hard\", \"translatedTitle\": null}, {\"title\": \"Best Time to Buy and Sell Stock with Cooldown\", \"titleSlug\": \"best-time-to-buy-and-sell-stock-with-cooldown\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Best Time to Buy and Sell Stock with Transaction Fee\", \"titleSlug\": \"best-time-to-buy-and-sell-stock-with-transaction-fee\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Maximum Profit From Trading Stocks\", \"titleSlug\": \"maximum-profit-from-trading-stocks\", \"difficulty\": \"Medium\", \"translatedTitle\": null}]",
+  "similar_parsed": [
+    {
+      "difficulty": "Easy",
+      "title": "Best Time to Buy and Sell Stock",
+      "titleSlug": "best-time-to-buy-and-sell-stock",
+      "translatedTitle": null
+    },
+    {
+      "difficulty": "Hard",
+      "title": "Best Time to Buy and Sell Stock III",
+      "titleSlug": "best-time-to-buy-and-sell-stock-iii",
+      "translatedTitle": null
+    },
+    {
+      "difficulty": "Hard",
+      "title": "Best Time to Buy and Sell Stock IV",
+      "titleSlug": "best-time-to-buy-and-sell-stock-iv",
+      "translatedTitle": null
+    },
+    {
+      "difficulty": "Medium",
+      "title": "Best Time to Buy and Sell Stock with Cooldown",
+      "titleSlug": "best-time-to-buy-and-sell-stock-with-cooldown",
+      "translatedTitle": null
+    },
+    {
+      "difficulty": "Medium",
+      "title": "Best Time to Buy and Sell Stock with Transaction Fee",
+      "titleSlug": "best-time-to-buy-and-sell-stock-with-transaction-fee",
+      "translatedTitle": null
+    },
+    {
+      "difficulty": "Medium",
+      "title": "Maximum Profit From Trading Stocks",
+      "titleSlug": "maximum-profit-from-trading-stocks",
+      "translatedTitle": null
+    }
+  ],
+  "stats": "{\"totalAccepted\": \"3.1M\", \"totalSubmission\": \"4.4M\", \"totalAcceptedRaw\": 3131381, \"totalSubmissionRaw\": 4387340, \"acRate\": \"71.4%\"}",
+  "stats_parsed": {
+    "acRate": "71.4%",
+    "totalAccepted": "3.1M",
+    "totalAcceptedRaw": 3131381,
+    "totalSubmission": "4.4M",
+    "totalSubmissionRaw": 4387340
+  },
+  "title": "Best Time to Buy and Sell Stock II",
+  "titleSlug": "best-time-to-buy-and-sell-stock-ii",
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "Dynamic Programming",
+      "slug": "dynamic-programming"
+    },
+    {
+      "name": "Greedy",
+      "slug": "greedy"
+    }
+  ]
+}

@@ -39,6 +39,7 @@ For information on how to use this repository for your own journey, please see t
 | 110 | [Balanced Binary Tree](problems/110-balanced-binary-tree) | Easy | Tree, Depth-First Search, Binary Tree | Kotlin |
 | 113 | [Path Sum II](problems/113-path-sum-ii) | Medium | Backtracking, Tree, Depth-First Search, Binary Tree | C++ |
 | 121 | [Best Time to Buy and Sell Stock](problems/121-best-time-to-buy-and-sell-stock) | Easy | Array, Dynamic Programming | Kotlin |
+| 122 | [Best Time to Buy and Sell Stock II](problems/122-best-time-to-buy-and-sell-stock-ii) | Medium | Array, Dynamic Programming, Greedy | Java |
 | 125 | [Valid Palindrome](problems/125-valid-palindrome) | Easy | Two Pointers, String | C++ |
 | 128 | [Longest Consecutive Sequence](problems/128-longest-consecutive-sequence) | Medium | Array, Hash Table, Union-Find | C++ |
 | 134 | [Gas Station](problems/134-gas-station) | Medium | Array, Greedy | Kotlin |
@@ -67,6 +68,7 @@ For information on how to use this repository for your own journey, please see t
 | 450 | [Delete Node in a BST](problems/450-delete-node-in-a-bst) | Medium | Tree, Binary Search Tree, Binary Tree | Kotlin |
 | 509 | [Fibonacci Number](problems/509-fibonacci-number) | Easy | Math, Dynamic Programming, Recursion, Memoization | C++ |
 | 543 | [Diameter of Binary Tree](problems/543-diameter-of-binary-tree) | Easy | Tree, Depth-First Search, Binary Tree | Kotlin |
+| 560 | [Subarray Sum Equals K](problems/560-subarray-sum-equals-k) | Medium | Array, Hash Table, Prefix Sum | Java |
 | 567 | [Permutation in String](problems/567-permutation-in-string) | Medium | Hash Table, Two Pointers, String, Sliding Window | C++ |
 | 572 | [Subtree of Another Tree](problems/572-subtree-of-another-tree) | Easy | Tree, Depth-First Search, String Matching, Binary Tree, Hash Function | Kotlin |
 | 621 | [Task Scheduler](problems/621-task-scheduler) | Medium | Array, Hash Table, Greedy, Sorting, Heap (Priority Queue), +1 | Kotlin |
@@ -77,7 +79,7 @@ For information on how to use this repository for your own journey, please see t
 | 705 | [Design HashSet](problems/705-design-hashset) | Easy | Array, Hash Table, Linked List, Design, Hash Function | Kotlin |
 | 706 | [Design HashMap](problems/706-design-hashmap) | Easy | Array, Hash Table, Linked List, Design, Hash Function | Kotlin |
 | 739 | [Daily Temperatures](problems/739-daily-temperatures) | Medium | Array, Stack, Monotonic Stack | Kotlin |
-| 746 | [Min Cost Climbing Stairs](problems/746-min-cost-climbing-stairs) | Easy | Array, Dynamic Programming | Java |
+| 746 | [Min Cost Climbing Stairs](problems/746-min-cost-climbing-stairs) | Easy | Array, Dynamic Programming | C++, Java |
 | 763 | [Partition Labels](problems/763-partition-labels) | Medium | Hash Table, Two Pointers, String, Greedy | Kotlin |
 | 846 | [Hand of Straights](problems/846-hand-of-straights) | Medium | Array, Hash Table, Greedy, Sorting | Kotlin |
 | 853 | [Car Fleet](problems/853-car-fleet) | Medium | Array, Stack, Sorting, Monotonic Stack | Kotlin |

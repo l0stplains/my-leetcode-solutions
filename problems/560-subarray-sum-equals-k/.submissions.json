@@ -1,0 +1,14 @@
+{
+  "slug": "subarray-sum-equals-k",
+  "submissions": [
+    {
+      "date_formatted": "2026-07-21 23:29:00",
+      "id": 2076089291,
+      "lang": "java",
+      "memory": "49.7MB",
+      "runtime": "29ms",
+      "status_display": "Accepted",
+      "timestamp": 1784651340
+    }
+  ]
+}

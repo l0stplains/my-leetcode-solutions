@@ -1,0 +1,83 @@
+{
+  "difficulty": "Medium",
+  "dislikes": 862,
+  "isPaidOnly": false,
+  "likes": 25480,
+  "questionFrontendId": "560",
+  "questionId": "560",
+  "similarQuestions": "[{\"title\": \"Two Sum\", \"titleSlug\": \"two-sum\", \"difficulty\": \"Easy\", \"translatedTitle\": null}, {\"title\": \"Continuous Subarray Sum\", \"titleSlug\": \"continuous-subarray-sum\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Subarray Product Less Than K\", \"titleSlug\": \"subarray-product-less-than-k\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Find Pivot Index\", \"titleSlug\": \"find-pivot-index\", \"difficulty\": \"Easy\", \"translatedTitle\": null}, {\"title\": \"Subarray Sums Divisible by K\", \"titleSlug\": \"subarray-sums-divisible-by-k\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Minimum Operations to Reduce X to Zero\", \"titleSlug\": \"minimum-operations-to-reduce-x-to-zero\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"K Radius Subarray Averages\", \"titleSlug\": \"k-radius-subarray-averages\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Maximum Sum Score of Array\", \"titleSlug\": \"maximum-sum-score-of-array\", \"difficulty\": \"Medium\", \"translatedTitle\": null}]",
+  "similar_parsed": [
+    {
+      "difficulty": "Easy",
+      "title": "Two Sum",
+      "titleSlug": "two-sum",
+      "translatedTitle": null
+    },
+    {
+      "difficulty": "Medium",
+      "title": "Continuous Subarray Sum",
+      "titleSlug": "continuous-subarray-sum",
+      "translatedTitle": null
+    },
+    {
+      "difficulty": "Medium",
+      "title": "Subarray Product Less Than K",
+      "titleSlug": "subarray-product-less-than-k",
+      "translatedTitle": null
+    },
+    {
+      "difficulty": "Easy",
+      "title": "Find Pivot Index",
+      "titleSlug": "find-pivot-index",
+      "translatedTitle": null
+    },
+    {
+      "difficulty": "Medium",
+      "title": "Subarray Sums Divisible by K",
+      "titleSlug": "subarray-sums-divisible-by-k",
+      "translatedTitle": null
+    },
+    {
+      "difficulty": "Medium",
+      "title": "Minimum Operations to Reduce X to Zero",
+      "titleSlug": "minimum-operations-to-reduce-x-to-zero",
+      "translatedTitle": null
+    },
+    {
+      "difficulty": "Medium",
+      "title": "K Radius Subarray Averages",
+      "titleSlug": "k-radius-subarray-averages",
+      "translatedTitle": null
+    },
+    {
+      "difficulty": "Medium",
+      "title": "Maximum Sum Score of Array",
+      "titleSlug": "maximum-sum-score-of-array",
+      "translatedTitle": null
+    }
+  ],
+  "stats": "{\"totalAccepted\": \"2.6M\", \"totalSubmission\": \"5.5M\", \"totalAcceptedRaw\": 2607431, \"totalSubmissionRaw\": 5456847, \"acRate\": \"47.8%\"}",
+  "stats_parsed": {
+    "acRate": "47.8%",
+    "totalAccepted": "2.6M",
+    "totalAcceptedRaw": 2607431,
+    "totalSubmission": "5.5M",
+    "totalSubmissionRaw": 5456847
+  },
+  "title": "Subarray Sum Equals K",
+  "titleSlug": "subarray-sum-equals-k",
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "Hash Table",
+      "slug": "hash-table"
+    },
+    {
+      "name": "Prefix Sum",
+      "slug": "prefix-sum"
+    }
+  ]
+}
