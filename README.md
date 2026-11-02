@@ -12,22 +12,25 @@ For information on how to use this repository for your own journey, please see t
 | # | Title | Difficulty | Tags | Languages |
 | - | ----- | ---------- | ---- | --------- |
 | 1 | [Two Sum](problems/1-two-sum) | Easy | Array, Hash Table | C++ |
-| 3 | [Longest Substring Without Repeating Characters](problems/3-longest-substring-without-repeating-characters) | Medium | Hash Table, String, Sliding Window | Kotlin |
+| 3 | [Longest Substring Without Repeating Characters](problems/3-longest-substring-without-repeating-characters) | Medium | Hash Table, String, Sliding Window | C++, Kotlin |
 | 9 | [Palindrome Number](problems/9-palindrome-number) | Easy | Math | C++ |
 | 11 | [Container With Most Water](problems/11-container-with-most-water) | Medium | Array, Two Pointers, Greedy | C++ |
 | 14 | [Longest Common Prefix](problems/14-longest-common-prefix) | Easy | Array, String, Trie | Kotlin |
 | 15 | [3Sum](problems/15-3sum) | Medium | Array, Two Pointers, Sorting | C++ |
 | 20 | [Valid Parentheses](problems/20-valid-parentheses) | Easy | String, Stack | C++, Kotlin |
 | 27 | [Remove Element](problems/27-remove-element) | Easy | Array, Two Pointers | Kotlin |
+| 33 | [Search in Rotated Sorted Array](problems/33-search-in-rotated-sorted-array) | Medium | Array, Binary Search | C++ |
 | 41 | [First Missing Positive](problems/41-first-missing-positive) | Hard | Array, Hash Table | Kotlin |
 | 46 | [Permutations](problems/46-permutations) | Medium | Array, Backtracking | C++ |
 | 49 | [Group Anagrams](problems/49-group-anagrams) | Medium | Array, Hash Table, String, Sorting | C++ |
 | 53 | [Maximum Subarray](problems/53-maximum-subarray) | Medium | Array, Divide and Conquer, Dynamic Programming | C++, Kotlin |
 | 55 | [Jump Game](problems/55-jump-game) | Medium | Array, Dynamic Programming, Greedy | Kotlin |
+| 56 | [Merge Intervals](problems/56-merge-intervals) | Medium | Array, Sorting, Quicksort | C++, Python |
 | 62 | [Unique Paths](problems/62-unique-paths) | Medium | Math, Dynamic Programming, Combinatorics | C++ |
 | 64 | [Minimum Path Sum](problems/64-minimum-path-sum) | Medium | Array, Dynamic Programming, Matrix | C++ |
 | 70 | [Climbing Stairs](problems/70-climbing-stairs) | Easy | Math, Dynamic Programming, Memoization | C++, Java |
 | 74 | [Search a 2D Matrix](problems/74-search-a-2d-matrix) | Medium | Array, Binary Search, Matrix | Kotlin |
+| 75 | [Sort Colors](problems/75-sort-colors) | Medium | Array, Two Pointers, Sorting, Quicksort, Bubble Sort | C++ |
 | 76 | [Minimum Window Substring](problems/76-minimum-window-substring) | Hard | Hash Table, String, Sliding Window | Kotlin |
 | 78 | [Subsets](problems/78-subsets) | Medium | Array, Backtracking, Bit Manipulation | C++ |
 | 79 | [Word Search](problems/79-word-search) | Medium | Array, String, Backtracking, Depth-First Search, Matrix | Go |
@@ -43,12 +46,14 @@ For information on how to use this repository for your own journey, please see t
 | 125 | [Valid Palindrome](problems/125-valid-palindrome) | Easy | Two Pointers, String | C++ |
 | 128 | [Longest Consecutive Sequence](problems/128-longest-consecutive-sequence) | Medium | Array, Hash Table, Union-Find | C++ |
 | 134 | [Gas Station](problems/134-gas-station) | Medium | Array, Greedy | Kotlin |
+| 146 | [LRU Cache](problems/146-lru-cache) | Medium | Hash Table, Linked List, Design, Doubly-Linked List | C++ |
 | 150 | [Evaluate Reverse Polish Notation](problems/150-evaluate-reverse-polish-notation) | Medium | Array, Math, Stack | Kotlin |
 | 155 | [Min Stack](problems/155-min-stack) | Medium | Stack, Design | Kotlin |
 | 167 | [Two Sum II - Input Array Is Sorted](problems/167-two-sum-ii-input-array-is-sorted) | Medium | Array, Two Pointers, Binary Search | C++ |
 | 169 | [Majority Element](problems/169-majority-element) | Easy | Array, Hash Table, Divide and Conquer, Sorting, Counting | Kotlin |
 | 198 | [House Robber](problems/198-house-robber) | Medium | Array, Dynamic Programming | Java |
 | 199 | [Binary Tree Right Side View](problems/199-binary-tree-right-side-view) | Medium | Tree, Depth-First Search, Breadth-First Search, Binary Tree | Kotlin |
+| 200 | [Number of Islands](problems/200-number-of-islands) | Medium | Array, Depth-First Search, Breadth-First Search, Union-Find, Matrix | C++ |
 | 215 | [Kth Largest Element in an Array](problems/215-kth-largest-element-in-an-array) | Medium | Array, Divide and Conquer, Sorting, Heap (Priority Queue), Quickselect | Kotlin |
 | 217 | [Contains Duplicate](problems/217-contains-duplicate) | Easy | Array, Hash Table, Sorting | C++ |
 | 226 | [Invert Binary Tree](problems/226-invert-binary-tree) | Easy | Tree, Depth-First Search, Breadth-First Search, Binary Tree | Kotlin |
@@ -66,9 +71,10 @@ For information on how to use this repository for your own journey, please see t
 | 424 | [Longest Repeating Character Replacement](problems/424-longest-repeating-character-replacement) | Medium | Hash Table, String, Sliding Window | C++ |
 | 427 | [Construct Quad Tree](problems/427-construct-quad-tree) | Medium | Array, Divide and Conquer, Tree, Matrix | Kotlin |
 | 450 | [Delete Node in a BST](problems/450-delete-node-in-a-bst) | Medium | Tree, Binary Search Tree, Binary Tree | Kotlin |
+| 463 | [Island Perimeter](problems/463-island-perimeter) | Easy | Array, Depth-First Search, Breadth-First Search, Matrix | Java |
 | 509 | [Fibonacci Number](problems/509-fibonacci-number) | Easy | Math, Dynamic Programming, Recursion, Memoization | C++ |
 | 543 | [Diameter of Binary Tree](problems/543-diameter-of-binary-tree) | Easy | Tree, Depth-First Search, Binary Tree | Kotlin |
-| 560 | [Subarray Sum Equals K](problems/560-subarray-sum-equals-k) | Medium | Array, Hash Table, Prefix Sum | Java |
+| 560 | [Subarray Sum Equals K](problems/560-subarray-sum-equals-k) | Medium | Array, Hash Table, Prefix Sum | C++, Java |
 | 567 | [Permutation in String](problems/567-permutation-in-string) | Medium | Hash Table, Two Pointers, String, Sliding Window | C++ |
 | 572 | [Subtree of Another Tree](problems/572-subtree-of-another-tree) | Easy | Tree, Depth-First Search, String Matching, Binary Tree, Hash Function | Kotlin |
 | 621 | [Task Scheduler](problems/621-task-scheduler) | Medium | Array, Hash Table, Greedy, Sorting, Heap (Priority Queue), +1 | Kotlin |
@@ -78,8 +84,9 @@ For information on how to use this repository for your own journey, please see t
 | 704 | [Binary Search](problems/704-binary-search) | Easy | Array, Binary Search | C++, Kotlin |
 | 705 | [Design HashSet](problems/705-design-hashset) | Easy | Array, Hash Table, Linked List, Design, Hash Function | Kotlin |
 | 706 | [Design HashMap](problems/706-design-hashmap) | Easy | Array, Hash Table, Linked List, Design, Hash Function | Kotlin |
-| 739 | [Daily Temperatures](problems/739-daily-temperatures) | Medium | Array, Stack, Monotonic Stack | Kotlin |
-| 746 | [Min Cost Climbing Stairs](problems/746-min-cost-climbing-stairs) | Easy | Array, Dynamic Programming | C++, Java |
+| 735 | [Asteroid Collision](problems/735-asteroid-collision) | Medium | Array, Stack, Simulation | C++ |
+| 739 | [Daily Temperatures](problems/739-daily-temperatures) | Medium | Array, Stack, Monotonic Stack | C++, Kotlin |
+| 746 | [Min Cost Climbing Stairs](problems/746-min-cost-climbing-stairs) | Easy | Array, Dynamic Programming | Java |
 | 763 | [Partition Labels](problems/763-partition-labels) | Medium | Hash Table, Two Pointers, String, Greedy | Kotlin |
 | 846 | [Hand of Straights](problems/846-hand-of-straights) | Medium | Array, Hash Table, Greedy, Sorting | Kotlin |
 | 853 | [Car Fleet](problems/853-car-fleet) | Medium | Array, Stack, Sorting, Monotonic Stack | Kotlin |

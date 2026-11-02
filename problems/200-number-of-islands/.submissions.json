@@ -1,0 +1,14 @@
+{
+  "slug": "number-of-islands",
+  "submissions": [
+    {
+      "date_formatted": "2026-11-01 10:04:46",
+      "id": 2186618296,
+      "lang": "cpp",
+      "memory": "23.5MB",
+      "runtime": "32ms",
+      "status_display": "Accepted",
+      "timestamp": 1793502286
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "difficulty": "Medium",
+  "dislikes": 791,
+  "isPaidOnly": false,
+  "likes": 22332,
+  "questionFrontendId": "75",
+  "questionId": "75",
+  "similarQuestions": "[{\"title\": \"Sort List\", \"titleSlug\": \"sort-list\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Wiggle Sort\", \"titleSlug\": \"wiggle-sort\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Wiggle Sort II\", \"titleSlug\": \"wiggle-sort-ii\", \"difficulty\": \"Medium\", \"translatedTitle\": null}]",
+  "similar_parsed": [
+    {
+      "difficulty": "Medium",
+      "title": "Sort List",
+      "titleSlug": "sort-list",
+      "translatedTitle": null
+    },
+    {
+      "difficulty": "Medium",
+      "title": "Wiggle Sort",
+      "titleSlug": "wiggle-sort",
+      "translatedTitle": null
+    },
+    {
+      "difficulty": "Medium",
+      "title": "Wiggle Sort II",
+      "titleSlug": "wiggle-sort-ii",
+      "translatedTitle": null
+    }
+  ],
+  "stats": "{\"totalAccepted\": \"4.2M\", \"totalSubmission\": \"6M\", \"totalAcceptedRaw\": 4228369, \"totalSubmissionRaw\": 6013880, \"acRate\": \"70.3%\"}",
+  "stats_parsed": {
+    "acRate": "70.3%",
+    "totalAccepted": "4.2M",
+    "totalAcceptedRaw": 4228369,
+    "totalSubmission": "6M",
+    "totalSubmissionRaw": 6013880
+  },
+  "title": "Sort Colors",
+  "titleSlug": "sort-colors",
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "Two Pointers",
+      "slug": "two-pointers"
+    },
+    {
+      "name": "Sorting",
+      "slug": "sorting"
+    },
+    {
+      "name": "Quicksort",
+      "slug": "quicksort"
+    },
+    {
+      "name": "Bubble Sort",
+      "slug": "bubble-sort"
+    }
+  ]
+}

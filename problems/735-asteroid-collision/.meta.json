@@ -1,0 +1,59 @@
+{
+  "difficulty": "Medium",
+  "dislikes": 1325,
+  "isPaidOnly": false,
+  "likes": 9762,
+  "questionFrontendId": "735",
+  "questionId": "735",
+  "similarQuestions": "[{\"title\": \"Can Place Flowers\", \"titleSlug\": \"can-place-flowers\", \"difficulty\": \"Easy\", \"translatedTitle\": null}, {\"title\": \"Destroying Asteroids\", \"titleSlug\": \"destroying-asteroids\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Count Collisions on a Road\", \"titleSlug\": \"count-collisions-on-a-road\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Robot Collisions\", \"titleSlug\": \"robot-collisions\", \"difficulty\": \"Hard\", \"translatedTitle\": null}]",
+  "similar_parsed": [
+    {
+      "difficulty": "Easy",
+      "title": "Can Place Flowers",
+      "titleSlug": "can-place-flowers",
+      "translatedTitle": null
+    },
+    {
+      "difficulty": "Medium",
+      "title": "Destroying Asteroids",
+      "titleSlug": "destroying-asteroids",
+      "translatedTitle": null
+    },
+    {
+      "difficulty": "Medium",
+      "title": "Count Collisions on a Road",
+      "titleSlug": "count-collisions-on-a-road",
+      "translatedTitle": null
+    },
+    {
+      "difficulty": "Hard",
+      "title": "Robot Collisions",
+      "titleSlug": "robot-collisions",
+      "translatedTitle": null
+    }
+  ],
+  "stats": "{\"totalAccepted\": \"1.2M\", \"totalSubmission\": \"2.4M\", \"totalAcceptedRaw\": 1166758, \"totalSubmissionRaw\": 2361177, \"acRate\": \"49.4%\"}",
+  "stats_parsed": {
+    "acRate": "49.4%",
+    "totalAccepted": "1.2M",
+    "totalAcceptedRaw": 1166758,
+    "totalSubmission": "2.4M",
+    "totalSubmissionRaw": 2361177
+  },
+  "title": "Asteroid Collision",
+  "titleSlug": "asteroid-collision",
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "Stack",
+      "slug": "stack"
+    },
+    {
+      "name": "Simulation",
+      "slug": "simulation"
+    }
+  ]
+}

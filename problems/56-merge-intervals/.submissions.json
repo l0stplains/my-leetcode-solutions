@@ -1,0 +1,23 @@
+{
+  "slug": "merge-intervals",
+  "submissions": [
+    {
+      "date_formatted": "2026-11-01 09:47:09",
+      "id": 2186594968,
+      "lang": "cpp",
+      "memory": "24.3MB",
+      "runtime": "8ms",
+      "status_display": "Accepted",
+      "timestamp": 1793501229
+    },
+    {
+      "date_formatted": "2026-08-01 20:51:05",
+      "id": 2090014529,
+      "lang": "python",
+      "memory": "16.8MB",
+      "runtime": "14ms",
+      "status_display": "Accepted",
+      "timestamp": 1785592265
+    }
+  ]
+}

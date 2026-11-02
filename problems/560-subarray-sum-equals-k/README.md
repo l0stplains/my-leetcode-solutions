@@ -17,10 +17,12 @@
 
 ## Solutions
 
+- **C++**: [subarray-sum-equals-k.cpp](./subarray-sum-equals-k.cpp)
 - **Java**: [subarray-sum-equals-k.java](./subarray-sum-equals-k.java)
 
 ## Accepted Submission History
 
 | Date | Language | Runtime | Memory |
 | ---- | -------- | ------- | ------ |
+| 2026-10-31 21:39:52 | C++ | 64ms | 50.9MB |
 | 2026-07-21 23:29:00 | Java | 29ms | 49.7MB |

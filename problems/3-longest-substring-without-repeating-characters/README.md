@@ -17,10 +17,12 @@
 
 ## Solutions
 
+- **C++**: [longest-substring-without-repeating-characters.cpp](./longest-substring-without-repeating-characters.cpp)
 - **Kotlin**: [longest-substring-without-repeating-characters.kt](./longest-substring-without-repeating-characters.kt)
 
 ## Accepted Submission History
 
 | Date | Language | Runtime | Memory |
 | ---- | -------- | ------- | ------ |
+| 2026-10-31 20:53:09 | C++ | 21ms | 17.7MB |
 | 2026-01-17 21:27:58 | Kotlin | 9ms | 46.4MB |

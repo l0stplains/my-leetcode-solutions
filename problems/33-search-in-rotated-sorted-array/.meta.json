@@ -1,0 +1,49 @@
+{
+  "difficulty": "Medium",
+  "dislikes": 1864,
+  "isPaidOnly": false,
+  "likes": 31088,
+  "questionFrontendId": "33",
+  "questionId": "33",
+  "similarQuestions": "[{\"title\": \"Search in Rotated Sorted Array II\", \"titleSlug\": \"search-in-rotated-sorted-array-ii\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Find Minimum in Rotated Sorted Array\", \"titleSlug\": \"find-minimum-in-rotated-sorted-array\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Pour Water Between Buckets to Make Water Levels Equal\", \"titleSlug\": \"pour-water-between-buckets-to-make-water-levels-equal\", \"difficulty\": \"Medium\", \"translatedTitle\": null}]",
+  "similar_parsed": [
+    {
+      "difficulty": "Medium",
+      "title": "Search in Rotated Sorted Array II",
+      "titleSlug": "search-in-rotated-sorted-array-ii",
+      "translatedTitle": null
+    },
+    {
+      "difficulty": "Medium",
+      "title": "Find Minimum in Rotated Sorted Array",
+      "titleSlug": "find-minimum-in-rotated-sorted-array",
+      "translatedTitle": null
+    },
+    {
+      "difficulty": "Medium",
+      "title": "Pour Water Between Buckets to Make Water Levels Equal",
+      "titleSlug": "pour-water-between-buckets-to-make-water-levels-equal",
+      "translatedTitle": null
+    }
+  ],
+  "stats": "{\"totalAccepted\": \"5M\", \"totalSubmission\": \"11M\", \"totalAcceptedRaw\": 5049860, \"totalSubmissionRaw\": 11015263, \"acRate\": \"45.8%\"}",
+  "stats_parsed": {
+    "acRate": "45.8%",
+    "totalAccepted": "5M",
+    "totalAcceptedRaw": 5049860,
+    "totalSubmission": "11M",
+    "totalSubmissionRaw": 11015263
+  },
+  "title": "Search in Rotated Sorted Array",
+  "titleSlug": "search-in-rotated-sorted-array",
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "Binary Search",
+      "slug": "binary-search"
+    }
+  ]
+}

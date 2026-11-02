@@ -1,0 +1,14 @@
+{
+  "slug": "search-in-rotated-sorted-array",
+  "submissions": [
+    {
+      "date_formatted": "2026-11-01 00:10:09",
+      "id": 2186364198,
+      "lang": "cpp",
+      "memory": "15.1MB",
+      "runtime": "0ms",
+      "status_display": "Accepted",
+      "timestamp": 1793466609
+    }
+  ]
+}

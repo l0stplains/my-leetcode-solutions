@@ -2,6 +2,15 @@
   "slug": "subarray-sum-equals-k",
   "submissions": [
     {
+      "date_formatted": "2026-10-31 21:39:52",
+      "id": 2186257886,
+      "lang": "cpp",
+      "memory": "50.9MB",
+      "runtime": "64ms",
+      "status_display": "Accepted",
+      "timestamp": 1793457592
+    },
+    {
       "date_formatted": "2026-07-21 23:29:00",
       "id": 2076089291,
       "lang": "java",

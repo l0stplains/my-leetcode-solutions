@@ -1,0 +1,115 @@
+{
+  "difficulty": "Medium",
+  "dislikes": 637,
+  "isPaidOnly": false,
+  "likes": 25546,
+  "questionFrontendId": "200",
+  "questionId": "200",
+  "similarQuestions": "[{\"title\": \"Surrounded Regions\", \"titleSlug\": \"surrounded-regions\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Walls and Gates\", \"titleSlug\": \"walls-and-gates\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Number of Islands II\", \"titleSlug\": \"number-of-islands-ii\", \"difficulty\": \"Hard\", \"translatedTitle\": null}, {\"title\": \"Number of Connected Components in an Undirected Graph\", \"titleSlug\": \"number-of-connected-components-in-an-undirected-graph\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Battleships in a Board\", \"titleSlug\": \"battleships-in-a-board\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Number of Distinct Islands\", \"titleSlug\": \"number-of-distinct-islands\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Max Area of Island\", \"titleSlug\": \"max-area-of-island\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Count Sub Islands\", \"titleSlug\": \"count-sub-islands\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Find All Groups of Farmland\", \"titleSlug\": \"find-all-groups-of-farmland\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Count Unreachable Pairs of Nodes in an Undirected Graph\", \"titleSlug\": \"count-unreachable-pairs-of-nodes-in-an-undirected-graph\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Maximum Number of Fish in a Grid\", \"titleSlug\": \"maximum-number-of-fish-in-a-grid\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Count Islands With Total Value Divisible by K\", \"titleSlug\": \"count-islands-with-total-value-divisible-by-k\", \"difficulty\": \"Medium\", \"translatedTitle\": null}]",
+  "similar_parsed": [
+    {
+      "difficulty": "Medium",
+      "title": "Surrounded Regions",
+      "titleSlug": "surrounded-regions",
+      "translatedTitle": null
+    },
+    {
+      "difficulty": "Medium",
+      "title": "Walls and Gates",
+      "titleSlug": "walls-and-gates",
+      "translatedTitle": null
+    },
+    {
+      "difficulty": "Hard",
+      "title": "Number of Islands II",
+      "titleSlug": "number-of-islands-ii",
+      "translatedTitle": null
+    },
+    {
+      "difficulty": "Medium",
+      "title": "Number of Connected Components in an Undirected Graph",
+      "titleSlug": "number-of-connected-components-in-an-undirected-graph",
+      "translatedTitle": null
+    },
+    {
+      "difficulty": "Medium",
+      "title": "Battleships in a Board",
+      "titleSlug": "battleships-in-a-board",
+      "translatedTitle": null
+    },
+    {
+      "difficulty": "Medium",
+      "title": "Number of Distinct Islands",
+      "titleSlug": "number-of-distinct-islands",
+      "translatedTitle": null
+    },
+    {
+      "difficulty": "Medium",
+      "title": "Max Area of Island",
+      "titleSlug": "max-area-of-island",
+      "translatedTitle": null
+    },
+    {
+      "difficulty": "Medium",
+      "title": "Count Sub Islands",
+      "titleSlug": "count-sub-islands",
+      "translatedTitle": null
+    },
+    {
+      "difficulty": "Medium",
+      "title": "Find All Groups of Farmland",
+      "titleSlug": "find-all-groups-of-farmland",
+      "translatedTitle": null
+    },
+    {
+      "difficulty": "Medium",
+      "title": "Count Unreachable Pairs of Nodes in an Undirected Graph",
+      "titleSlug": "count-unreachable-pairs-of-nodes-in-an-undirected-graph",
+      "translatedTitle": null
+    },
+    {
+      "difficulty": "Medium",
+      "title": "Maximum Number of Fish in a Grid",
+      "titleSlug": "maximum-number-of-fish-in-a-grid",
+      "translatedTitle": null
+    },
+    {
+      "difficulty": "Medium",
+      "title": "Count Islands With Total Value Divisible by K",
+      "titleSlug": "count-islands-with-total-value-divisible-by-k",
+      "translatedTitle": null
+    }
+  ],
+  "stats": "{\"totalAccepted\": \"4.6M\", \"totalSubmission\": \"7M\", \"totalAcceptedRaw\": 4570748, \"totalSubmissionRaw\": 6991596, \"acRate\": \"65.4%\"}",
+  "stats_parsed": {
+    "acRate": "65.4%",
+    "totalAccepted": "4.6M",
+    "totalAcceptedRaw": 4570748,
+    "totalSubmission": "7M",
+    "totalSubmissionRaw": 6991596
+  },
+  "title": "Number of Islands",
+  "titleSlug": "number-of-islands",
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "Depth-First Search",
+      "slug": "depth-first-search"
+    },
+    {
+      "name": "Breadth-First Search",
+      "slug": "breadth-first-search"
+    },
+    {
+      "name": "Union-Find",
+      "slug": "union-find"
+    },
+    {
+      "name": "Matrix",
+      "slug": "matrix"
+    }
+  ]
+}

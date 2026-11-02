@@ -1,0 +1,14 @@
+{
+  "slug": "island-perimeter",
+  "submissions": [
+    {
+      "date_formatted": "2026-07-24 15:49:21",
+      "id": 2079344014,
+      "lang": "java",
+      "memory": "47.3MB",
+      "runtime": "4ms",
+      "status_display": "Accepted",
+      "timestamp": 1784882961
+    }
+  ]
+}

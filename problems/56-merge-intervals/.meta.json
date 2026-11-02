@@ -1,0 +1,143 @@
+{
+  "difficulty": "Medium",
+  "dislikes": 925,
+  "isPaidOnly": false,
+  "likes": 25191,
+  "questionFrontendId": "56",
+  "questionId": "56",
+  "similarQuestions": "[{\"title\": \"Insert Interval\", \"titleSlug\": \"insert-interval\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Meeting Rooms\", \"titleSlug\": \"meeting-rooms\", \"difficulty\": \"Easy\", \"translatedTitle\": null}, {\"title\": \"Meeting Rooms II\", \"titleSlug\": \"meeting-rooms-ii\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Teemo Attacking\", \"titleSlug\": \"teemo-attacking\", \"difficulty\": \"Easy\", \"translatedTitle\": null}, {\"title\": \"Add Bold Tag in String\", \"titleSlug\": \"add-bold-tag-in-string\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Range Module\", \"titleSlug\": \"range-module\", \"difficulty\": \"Hard\", \"translatedTitle\": null}, {\"title\": \"Employee Free Time\", \"titleSlug\": \"employee-free-time\", \"difficulty\": \"Hard\", \"translatedTitle\": null}, {\"title\": \"Partition Labels\", \"titleSlug\": \"partition-labels\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Interval List Intersections\", \"titleSlug\": \"interval-list-intersections\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Amount of New Area Painted Each Day\", \"titleSlug\": \"amount-of-new-area-painted-each-day\", \"difficulty\": \"Hard\", \"translatedTitle\": null}, {\"title\": \"Longest Substring of One Repeating Character\", \"titleSlug\": \"longest-substring-of-one-repeating-character\", \"difficulty\": \"Hard\", \"translatedTitle\": null}, {\"title\": \"Count Integers in Intervals\", \"titleSlug\": \"count-integers-in-intervals\", \"difficulty\": \"Hard\", \"translatedTitle\": null}, {\"title\": \"Divide Intervals Into Minimum Number of Groups\", \"titleSlug\": \"divide-intervals-into-minimum-number-of-groups\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Determine if Two Events Have Conflict\", \"titleSlug\": \"determine-if-two-events-have-conflict\", \"difficulty\": \"Easy\", \"translatedTitle\": null}, {\"title\": \"Count Ways to Group Overlapping Ranges\", \"titleSlug\": \"count-ways-to-group-overlapping-ranges\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Points That Intersect With Cars\", \"titleSlug\": \"points-that-intersect-with-cars\", \"difficulty\": \"Easy\", \"translatedTitle\": null}, {\"title\": \"Count Days Without Meetings\", \"titleSlug\": \"count-days-without-meetings\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Minimize Connected Groups by Inserting Interval\", \"titleSlug\": \"minimize-connected-groups-by-inserting-interval\", \"difficulty\": \"Medium\", \"translatedTitle\": null}]",
+  "similar_parsed": [
+    {
+      "difficulty": "Medium",
+      "title": "Insert Interval",
+      "titleSlug": "insert-interval",
+      "translatedTitle": null
+    },
+    {
+      "difficulty": "Easy",
+      "title": "Meeting Rooms",
+      "titleSlug": "meeting-rooms",
+      "translatedTitle": null
+    },
+    {
+      "difficulty": "Medium",
+      "title": "Meeting Rooms II",
+      "titleSlug": "meeting-rooms-ii",
+      "translatedTitle": null
+    },
+    {
+      "difficulty": "Easy",
+      "title": "Teemo Attacking",
+      "titleSlug": "teemo-attacking",
+      "translatedTitle": null
+    },
+    {
+      "difficulty": "Medium",
+      "title": "Add Bold Tag in String",
+      "titleSlug": "add-bold-tag-in-string",
+      "translatedTitle": null
+    },
+    {
+      "difficulty": "Hard",
+      "title": "Range Module",
+      "titleSlug": "range-module",
+      "translatedTitle": null
+    },
+    {
+      "difficulty": "Hard",
+      "title": "Employee Free Time",
+      "titleSlug": "employee-free-time",
+      "translatedTitle": null
+    },
+    {
+      "difficulty": "Medium",
+      "title": "Partition Labels",
+      "titleSlug": "partition-labels",
+      "translatedTitle": null
+    },
+    {
+      "difficulty": "Medium",
+      "title": "Interval List Intersections",
+      "titleSlug": "interval-list-intersections",
+      "translatedTitle": null
+    },
+    {
+      "difficulty": "Hard",
+      "title": "Amount of New Area Painted Each Day",
+      "titleSlug": "amount-of-new-area-painted-each-day",
+      "translatedTitle": null
+    },
+    {
+      "difficulty": "Hard",
+      "title": "Longest Substring of One Repeating Character",
+      "titleSlug": "longest-substring-of-one-repeating-character",
+      "translatedTitle": null
+    },
+    {
+      "difficulty": "Hard",
+      "title": "Count Integers in Intervals",
+      "titleSlug": "count-integers-in-intervals",
+      "translatedTitle": null
+    },
+    {
+      "difficulty": "Medium",
+      "title": "Divide Intervals Into Minimum Number of Groups",
+      "titleSlug": "divide-intervals-into-minimum-number-of-groups",
+      "translatedTitle": null
+    },
+    {
+      "difficulty": "Easy",
+      "title": "Determine if Two Events Have Conflict",
+      "titleSlug": "determine-if-two-events-have-conflict",
+      "translatedTitle": null
+    },
+    {
+      "difficulty": "Medium",
+      "title": "Count Ways to Group Overlapping Ranges",
+      "titleSlug": "count-ways-to-group-overlapping-ranges",
+      "translatedTitle": null
+    },
+    {
+      "difficulty": "Easy",
+      "title": "Points That Intersect With Cars",
+      "titleSlug": "points-that-intersect-with-cars",
+      "translatedTitle": null
+    },
+    {
+      "difficulty": "Medium",
+      "title": "Count Days Without Meetings",
+      "titleSlug": "count-days-without-meetings",
+      "translatedTitle": null
+    },
+    {
+      "difficulty": "Medium",
+      "title": "Minimize Connected Groups by Inserting Interval",
+      "titleSlug": "minimize-connected-groups-by-inserting-interval",
+      "translatedTitle": null
+    }
+  ],
+  "stats": "{\"totalAccepted\": \"4.4M\", \"totalSubmission\": \"8.4M\", \"totalAcceptedRaw\": 4441713, \"totalSubmissionRaw\": 8367297, \"acRate\": \"53.1%\"}",
+  "stats_parsed": {
+    "acRate": "53.1%",
+    "totalAccepted": "4.4M",
+    "totalAcceptedRaw": 4441713,
+    "totalSubmission": "8.4M",
+    "totalSubmissionRaw": 8367297
+  },
+  "title": "Merge Intervals",
+  "titleSlug": "merge-intervals",
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "Sorting",
+      "slug": "sorting"
+    },
+    {
+      "name": "Quicksort",
+      "slug": "quicksort"
+    }
+  ]
+}

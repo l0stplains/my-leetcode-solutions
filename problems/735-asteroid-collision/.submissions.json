@@ -1,0 +1,14 @@
+{
+  "slug": "asteroid-collision",
+  "submissions": [
+    {
+      "date_formatted": "2026-08-29 13:04:32",
+      "id": 2123510840,
+      "lang": "cpp",
+      "memory": "22.2MB",
+      "runtime": "3ms",
+      "status_display": "Accepted",
+      "timestamp": 1787983472
+    }
+  ]
+}

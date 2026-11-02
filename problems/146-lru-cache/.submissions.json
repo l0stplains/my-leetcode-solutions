@@ -1,0 +1,14 @@
+{
+  "slug": "lru-cache",
+  "submissions": [
+    {
+      "date_formatted": "2026-10-31 23:23:51",
+      "id": 2186327940,
+      "lang": "cpp",
+      "memory": "47.8MB",
+      "runtime": "39ms",
+      "status_display": "Accepted",
+      "timestamp": 1793463831
+    }
+  ]
+}

@@ -2,6 +2,15 @@
   "slug": "longest-substring-without-repeating-characters",
   "submissions": [
     {
+      "date_formatted": "2026-10-31 20:53:09",
+      "id": 2186225965,
+      "lang": "cpp",
+      "memory": "17.7MB",
+      "runtime": "21ms",
+      "status_display": "Accepted",
+      "timestamp": 1793454789
+    },
+    {
       "date_formatted": "2026-01-17 21:27:58",
       "id": 1887821078,
       "lang": "kotlin",

@@ -1,0 +1,63 @@
+{
+  "difficulty": "Medium",
+  "dislikes": 1263,
+  "isPaidOnly": false,
+  "likes": 23607,
+  "questionFrontendId": "146",
+  "questionId": "146",
+  "similarQuestions": "[{\"title\": \"LFU Cache\", \"titleSlug\": \"lfu-cache\", \"difficulty\": \"Hard\", \"translatedTitle\": null}, {\"title\": \"Design In-Memory File System\", \"titleSlug\": \"design-in-memory-file-system\", \"difficulty\": \"Hard\", \"translatedTitle\": null}, {\"title\": \"Design Compressed String Iterator\", \"titleSlug\": \"design-compressed-string-iterator\", \"difficulty\": \"Easy\", \"translatedTitle\": null}, {\"title\": \"Design Most Recently Used Queue\", \"titleSlug\": \"design-most-recently-used-queue\", \"difficulty\": \"Medium\", \"translatedTitle\": null}]",
+  "similar_parsed": [
+    {
+      "difficulty": "Hard",
+      "title": "LFU Cache",
+      "titleSlug": "lfu-cache",
+      "translatedTitle": null
+    },
+    {
+      "difficulty": "Hard",
+      "title": "Design In-Memory File System",
+      "titleSlug": "design-in-memory-file-system",
+      "translatedTitle": null
+    },
+    {
+      "difficulty": "Easy",
+      "title": "Design Compressed String Iterator",
+      "titleSlug": "design-compressed-string-iterator",
+      "translatedTitle": null
+    },
+    {
+      "difficulty": "Medium",
+      "title": "Design Most Recently Used Queue",
+      "titleSlug": "design-most-recently-used-queue",
+      "translatedTitle": null
+    }
+  ],
+  "stats": "{\"totalAccepted\": \"2.8M\", \"totalSubmission\": \"5.9M\", \"totalAcceptedRaw\": 2834018, \"totalSubmissionRaw\": 5864197, \"acRate\": \"48.3%\"}",
+  "stats_parsed": {
+    "acRate": "48.3%",
+    "totalAccepted": "2.8M",
+    "totalAcceptedRaw": 2834018,
+    "totalSubmission": "5.9M",
+    "totalSubmissionRaw": 5864197
+  },
+  "title": "LRU Cache",
+  "titleSlug": "lru-cache",
+  "topicTags": [
+    {
+      "name": "Hash Table",
+      "slug": "hash-table"
+    },
+    {
+      "name": "Linked List",
+      "slug": "linked-list"
+    },
+    {
+      "name": "Design",
+      "slug": "design"
+    },
+    {
+      "name": "Doubly-Linked List",
+      "slug": "doubly-linked-list"
+    }
+  ]
+}
