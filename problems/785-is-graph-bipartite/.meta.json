@@ -1,0 +1,53 @@
+{
+  "difficulty": "Medium",
+  "dislikes": 422,
+  "isPaidOnly": false,
+  "likes": 9511,
+  "questionFrontendId": "785",
+  "questionId": "801",
+  "similarQuestions": "[{\"title\": \"Divide Nodes Into the Maximum Number of Groups\", \"titleSlug\": \"divide-nodes-into-the-maximum-number-of-groups\", \"difficulty\": \"Hard\", \"translatedTitle\": null}]",
+  "similar_parsed": [
+    {
+      "difficulty": "Hard",
+      "title": "Divide Nodes Into the Maximum Number of Groups",
+      "titleSlug": "divide-nodes-into-the-maximum-number-of-groups",
+      "translatedTitle": null
+    }
+  ],
+  "stats": "{\"totalAccepted\": \"977.4K\", \"totalSubmission\": \"1.6M\", \"totalAcceptedRaw\": 977405, \"totalSubmissionRaw\": 1625042, \"acRate\": \"60.1%\"}",
+  "stats_parsed": {
+    "acRate": "60.1%",
+    "totalAccepted": "977.4K",
+    "totalAcceptedRaw": 977405,
+    "totalSubmission": "1.6M",
+    "totalSubmissionRaw": 1625042
+  },
+  "title": "Is Graph Bipartite?",
+  "titleSlug": "is-graph-bipartite",
+  "topicTags": [
+    {
+      "name": "Depth-First Search",
+      "slug": "depth-first-search"
+    },
+    {
+      "name": "Breadth-First Search",
+      "slug": "breadth-first-search"
+    },
+    {
+      "name": "Union-Find",
+      "slug": "union-find"
+    },
+    {
+      "name": "Graph Theory",
+      "slug": "graph"
+    },
+    {
+      "name": "Graph Coloring",
+      "slug": "graph-coloring"
+    },
+    {
+      "name": "Bipartite Graph",
+      "slug": "bipartite-graph"
+    }
+  ]
+}

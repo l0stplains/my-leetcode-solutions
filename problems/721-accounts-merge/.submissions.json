@@ -1,0 +1,14 @@
+{
+  "slug": "accounts-merge",
+  "submissions": [
+    {
+      "date_formatted": "2026-11-15 13:33:48",
+      "id": 2196447764,
+      "lang": "cpp",
+      "memory": "80.1MB",
+      "runtime": "137ms",
+      "status_display": "Accepted",
+      "timestamp": 1794724428
+    }
+  ]
+}

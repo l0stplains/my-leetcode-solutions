@@ -1,0 +1,14 @@
+{
+  "slug": "reorder-routes-to-make-all-paths-lead-to-the-city-zero",
+  "submissions": [
+    {
+      "date_formatted": "2026-11-13 22:20:14",
+      "id": 2195369904,
+      "lang": "cpp",
+      "memory": "110MB",
+      "runtime": "120ms",
+      "status_display": "Accepted",
+      "timestamp": 1794583214
+    }
+  ]
+}

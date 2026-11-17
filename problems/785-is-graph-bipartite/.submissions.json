@@ -1,0 +1,14 @@
+{
+  "slug": "is-graph-bipartite",
+  "submissions": [
+    {
+      "date_formatted": "2026-11-15 12:47:56",
+      "id": 2196422902,
+      "lang": "cpp",
+      "memory": "18.8MB",
+      "runtime": "2ms",
+      "status_display": "Accepted",
+      "timestamp": 1794721676
+    }
+  ]
+}

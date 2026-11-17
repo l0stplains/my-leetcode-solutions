@@ -1,0 +1,73 @@
+{
+  "difficulty": "Medium",
+  "dislikes": 889,
+  "isPaidOnly": false,
+  "likes": 18457,
+  "questionFrontendId": "207",
+  "questionId": "207",
+  "similarQuestions": "[{\"title\": \"Course Schedule II\", \"titleSlug\": \"course-schedule-ii\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Graph Valid Tree\", \"titleSlug\": \"graph-valid-tree\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Minimum Height Trees\", \"titleSlug\": \"minimum-height-trees\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Course Schedule III\", \"titleSlug\": \"course-schedule-iii\", \"difficulty\": \"Hard\", \"translatedTitle\": null}, {\"title\": \"Build a Matrix With Conditions\", \"titleSlug\": \"build-a-matrix-with-conditions\", \"difficulty\": \"Hard\", \"translatedTitle\": null}]",
+  "similar_parsed": [
+    {
+      "difficulty": "Medium",
+      "title": "Course Schedule II",
+      "titleSlug": "course-schedule-ii",
+      "translatedTitle": null
+    },
+    {
+      "difficulty": "Medium",
+      "title": "Graph Valid Tree",
+      "titleSlug": "graph-valid-tree",
+      "translatedTitle": null
+    },
+    {
+      "difficulty": "Medium",
+      "title": "Minimum Height Trees",
+      "titleSlug": "minimum-height-trees",
+      "translatedTitle": null
+    },
+    {
+      "difficulty": "Hard",
+      "title": "Course Schedule III",
+      "titleSlug": "course-schedule-iii",
+      "translatedTitle": null
+    },
+    {
+      "difficulty": "Hard",
+      "title": "Build a Matrix With Conditions",
+      "titleSlug": "build-a-matrix-with-conditions",
+      "translatedTitle": null
+    }
+  ],
+  "stats": "{\"totalAccepted\": \"2.9M\", \"totalSubmission\": \"5.5M\", \"totalAcceptedRaw\": 2891485, \"totalSubmissionRaw\": 5504519, \"acRate\": \"52.5%\"}",
+  "stats_parsed": {
+    "acRate": "52.5%",
+    "totalAccepted": "2.9M",
+    "totalAcceptedRaw": 2891485,
+    "totalSubmission": "5.5M",
+    "totalSubmissionRaw": 5504519
+  },
+  "title": "Course Schedule",
+  "titleSlug": "course-schedule",
+  "topicTags": [
+    {
+      "name": "Depth-First Search",
+      "slug": "depth-first-search"
+    },
+    {
+      "name": "Breadth-First Search",
+      "slug": "breadth-first-search"
+    },
+    {
+      "name": "Graph Theory",
+      "slug": "graph"
+    },
+    {
+      "name": "Topological Sort",
+      "slug": "topological-sort"
+    },
+    {
+      "name": "Directed Acyclic Graph",
+      "slug": "directed-acyclic-graph"
+    }
+  ]
+}

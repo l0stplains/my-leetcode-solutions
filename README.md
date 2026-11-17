@@ -54,6 +54,7 @@ For information on how to use this repository for your own journey, please see t
 | 198 | [House Robber](problems/198-house-robber) | Medium | Array, Dynamic Programming | Java |
 | 199 | [Binary Tree Right Side View](problems/199-binary-tree-right-side-view) | Medium | Tree, Depth-First Search, Breadth-First Search, Binary Tree | Kotlin |
 | 200 | [Number of Islands](problems/200-number-of-islands) | Medium | Array, Depth-First Search, Breadth-First Search, Union-Find, Matrix | C++ |
+| 207 | [Course Schedule](problems/207-course-schedule) | Medium | Depth-First Search, Breadth-First Search, Graph Theory, Topological Sort, Directed Acyclic Graph | C++ |
 | 215 | [Kth Largest Element in an Array](problems/215-kth-largest-element-in-an-array) | Medium | Array, Divide and Conquer, Sorting, Heap (Priority Queue), Quickselect | Kotlin |
 | 217 | [Contains Duplicate](problems/217-contains-duplicate) | Easy | Array, Hash Table, Sorting | C++ |
 | 226 | [Invert Binary Tree](problems/226-invert-binary-tree) | Easy | Tree, Depth-First Search, Breadth-First Search, Binary Tree | Kotlin |
@@ -84,22 +85,27 @@ For information on how to use this repository for your own journey, please see t
 | 704 | [Binary Search](problems/704-binary-search) | Easy | Array, Binary Search | C++, Kotlin |
 | 705 | [Design HashSet](problems/705-design-hashset) | Easy | Array, Hash Table, Linked List, Design, Hash Function | Kotlin |
 | 706 | [Design HashMap](problems/706-design-hashmap) | Easy | Array, Hash Table, Linked List, Design, Hash Function | Kotlin |
+| 721 | [Accounts Merge](problems/721-accounts-merge) | Medium | Array, Hash Table, String, Depth-First Search, Breadth-First Search, +2 | C++ |
 | 735 | [Asteroid Collision](problems/735-asteroid-collision) | Medium | Array, Stack, Simulation | C++ |
 | 739 | [Daily Temperatures](problems/739-daily-temperatures) | Medium | Array, Stack, Monotonic Stack | C++, Kotlin |
 | 746 | [Min Cost Climbing Stairs](problems/746-min-cost-climbing-stairs) | Easy | Array, Dynamic Programming | Java |
 | 763 | [Partition Labels](problems/763-partition-labels) | Medium | Hash Table, Two Pointers, String, Greedy | Kotlin |
+| 785 | [Is Graph Bipartite?](problems/785-is-graph-bipartite) | Medium | Depth-First Search, Breadth-First Search, Union-Find, Graph Theory, Graph Coloring, +1 | C++ |
 | 846 | [Hand of Straights](problems/846-hand-of-straights) | Medium | Array, Hash Table, Greedy, Sorting | Kotlin |
 | 853 | [Car Fleet](problems/853-car-fleet) | Medium | Array, Stack, Sorting, Monotonic Stack | Kotlin |
 | 875 | [Koko Eating Bananas](problems/875-koko-eating-bananas) | Medium | Array, Binary Search | Kotlin |
 | 881 | [Boats to Save People](problems/881-boats-to-save-people) | Medium | Array, Two Pointers, Greedy, Sorting | Kotlin |
 | 973 | [K Closest Points to Origin](problems/973-k-closest-points-to-origin) | Medium | Array, Math, Divide and Conquer, Geometry, Sorting, +2 | Kotlin |
 | 981 | [Time Based Key-Value Store](problems/981-time-based-key-value-store) | Medium | Hash Table, String, Binary Search, Design | Kotlin |
+| 994 | [Rotting Oranges](problems/994-rotting-oranges) | Medium | Array, Breadth-First Search, Matrix | C++ |
 | 1011 | [Capacity To Ship Packages Within D Days](problems/1011-capacity-to-ship-packages-within-d-days) | Medium | Array, Binary Search | C++ |
 | 1046 | [Last Stone Weight](problems/1046-last-stone-weight) | Easy | Array, Heap (Priority Queue) | Kotlin |
 | 1325 | [Delete Leaves With a Given Value](problems/1325-delete-leaves-with-a-given-value) | Medium | Tree, Depth-First Search, Binary Tree | Kotlin |
 | 1342 | [Number of Steps to Reduce a Number to Zero](problems/1342-number-of-steps-to-reduce-a-number-to-zero) | Easy | Math, Bit Manipulation | C++ |
 | 1448 | [Count Good Nodes in Binary Tree](problems/1448-count-good-nodes-in-binary-tree) | Medium | Tree, Depth-First Search, Breadth-First Search, Binary Tree | Kotlin |
+| 1466 | [Reorder Routes to Make All Paths Lead to the City Zero](problems/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) | Medium | Depth-First Search, Breadth-First Search, Graph Theory | C++ |
 | 1480 | [Running Sum of 1d Array](problems/1480-running-sum-of-1d-array) | Easy | Array, Prefix Sum | C++ |
+| 1658 | [Minimum Operations to Reduce X to Zero](problems/1658-minimum-operations-to-reduce-x-to-zero) | Medium | Array, Hash Table, Binary Search, Sliding Window, Prefix Sum | C++ |
 | 1672 | [Richest Customer Wealth](problems/1672-richest-customer-wealth) | Easy | Array, Matrix | C++ |
 | 1899 | [Merge Triplets to Form Target Triplet](problems/1899-merge-triplets-to-form-target-triplet) | Medium | Array, Greedy | Kotlin |
 | 1929 | [Concatenation of Array](problems/1929-concatenation-of-array) | Easy | Array, Simulation | C++ |

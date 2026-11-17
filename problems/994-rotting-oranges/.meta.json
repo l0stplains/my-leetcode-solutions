@@ -1,0 +1,59 @@
+{
+  "difficulty": "Medium",
+  "dislikes": 499,
+  "isPaidOnly": false,
+  "likes": 15759,
+  "questionFrontendId": "994",
+  "questionId": "1036",
+  "similarQuestions": "[{\"title\": \"Walls and Gates\", \"titleSlug\": \"walls-and-gates\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Battleships in a Board\", \"titleSlug\": \"battleships-in-a-board\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Detonate the Maximum Bombs\", \"titleSlug\": \"detonate-the-maximum-bombs\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Escape the Spreading Fire\", \"titleSlug\": \"escape-the-spreading-fire\", \"difficulty\": \"Hard\", \"translatedTitle\": null}]",
+  "similar_parsed": [
+    {
+      "difficulty": "Medium",
+      "title": "Walls and Gates",
+      "titleSlug": "walls-and-gates",
+      "translatedTitle": null
+    },
+    {
+      "difficulty": "Medium",
+      "title": "Battleships in a Board",
+      "titleSlug": "battleships-in-a-board",
+      "translatedTitle": null
+    },
+    {
+      "difficulty": "Medium",
+      "title": "Detonate the Maximum Bombs",
+      "titleSlug": "detonate-the-maximum-bombs",
+      "translatedTitle": null
+    },
+    {
+      "difficulty": "Hard",
+      "title": "Escape the Spreading Fire",
+      "titleSlug": "escape-the-spreading-fire",
+      "translatedTitle": null
+    }
+  ],
+  "stats": "{\"totalAccepted\": \"1.9M\", \"totalSubmission\": \"3.2M\", \"totalAcceptedRaw\": 1916441, \"totalSubmissionRaw\": 3210745, \"acRate\": \"59.7%\"}",
+  "stats_parsed": {
+    "acRate": "59.7%",
+    "totalAccepted": "1.9M",
+    "totalAcceptedRaw": 1916441,
+    "totalSubmission": "3.2M",
+    "totalSubmissionRaw": 3210745
+  },
+  "title": "Rotting Oranges",
+  "titleSlug": "rotting-oranges",
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "Breadth-First Search",
+      "slug": "breadth-first-search"
+    },
+    {
+      "name": "Matrix",
+      "slug": "matrix"
+    }
+  ]
+}

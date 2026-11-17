@@ -1,0 +1,73 @@
+{
+  "difficulty": "Medium",
+  "dislikes": 141,
+  "isPaidOnly": false,
+  "likes": 6219,
+  "questionFrontendId": "1658",
+  "questionId": "1776",
+  "similarQuestions": "[{\"title\": \"Minimum Size Subarray Sum\", \"titleSlug\": \"minimum-size-subarray-sum\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Subarray Sum Equals K\", \"titleSlug\": \"subarray-sum-equals-k\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Minimum Operations to Convert Number\", \"titleSlug\": \"minimum-operations-to-convert-number\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Removing Minimum Number of Magic Beans\", \"titleSlug\": \"removing-minimum-number-of-magic-beans\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Minimum Operations to Make the Integer Zero\", \"titleSlug\": \"minimum-operations-to-make-the-integer-zero\", \"difficulty\": \"Medium\", \"translatedTitle\": null}]",
+  "similar_parsed": [
+    {
+      "difficulty": "Medium",
+      "title": "Minimum Size Subarray Sum",
+      "titleSlug": "minimum-size-subarray-sum",
+      "translatedTitle": null
+    },
+    {
+      "difficulty": "Medium",
+      "title": "Subarray Sum Equals K",
+      "titleSlug": "subarray-sum-equals-k",
+      "translatedTitle": null
+    },
+    {
+      "difficulty": "Medium",
+      "title": "Minimum Operations to Convert Number",
+      "titleSlug": "minimum-operations-to-convert-number",
+      "translatedTitle": null
+    },
+    {
+      "difficulty": "Medium",
+      "title": "Removing Minimum Number of Magic Beans",
+      "titleSlug": "removing-minimum-number-of-magic-beans",
+      "translatedTitle": null
+    },
+    {
+      "difficulty": "Medium",
+      "title": "Minimum Operations to Make the Integer Zero",
+      "titleSlug": "minimum-operations-to-make-the-integer-zero",
+      "translatedTitle": null
+    }
+  ],
+  "stats": "{\"totalAccepted\": \"348.5K\", \"totalSubmission\": \"772.6K\", \"totalAcceptedRaw\": 348518, \"totalSubmissionRaw\": 772639, \"acRate\": \"45.1%\"}",
+  "stats_parsed": {
+    "acRate": "45.1%",
+    "totalAccepted": "348.5K",
+    "totalAcceptedRaw": 348518,
+    "totalSubmission": "772.6K",
+    "totalSubmissionRaw": 772639
+  },
+  "title": "Minimum Operations to Reduce X to Zero",
+  "titleSlug": "minimum-operations-to-reduce-x-to-zero",
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "Hash Table",
+      "slug": "hash-table"
+    },
+    {
+      "name": "Binary Search",
+      "slug": "binary-search"
+    },
+    {
+      "name": "Sliding Window",
+      "slug": "sliding-window"
+    },
+    {
+      "name": "Prefix Sum",
+      "slug": "prefix-sum"
+    }
+  ]
+}

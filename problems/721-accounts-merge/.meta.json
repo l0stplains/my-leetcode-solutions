@@ -1,0 +1,69 @@
+{
+  "difficulty": "Medium",
+  "dislikes": 1346,
+  "isPaidOnly": false,
+  "likes": 7932,
+  "questionFrontendId": "721",
+  "questionId": "721",
+  "similarQuestions": "[{\"title\": \"Redundant Connection\", \"titleSlug\": \"redundant-connection\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Sentence Similarity\", \"titleSlug\": \"sentence-similarity\", \"difficulty\": \"Easy\", \"translatedTitle\": null}, {\"title\": \"Sentence Similarity II\", \"titleSlug\": \"sentence-similarity-ii\", \"difficulty\": \"Medium\", \"translatedTitle\": null}]",
+  "similar_parsed": [
+    {
+      "difficulty": "Medium",
+      "title": "Redundant Connection",
+      "titleSlug": "redundant-connection",
+      "translatedTitle": null
+    },
+    {
+      "difficulty": "Easy",
+      "title": "Sentence Similarity",
+      "titleSlug": "sentence-similarity",
+      "translatedTitle": null
+    },
+    {
+      "difficulty": "Medium",
+      "title": "Sentence Similarity II",
+      "titleSlug": "sentence-similarity-ii",
+      "translatedTitle": null
+    }
+  ],
+  "stats": "{\"totalAccepted\": \"691K\", \"totalSubmission\": \"1.1M\", \"totalAcceptedRaw\": 691040, \"totalSubmissionRaw\": 1109807, \"acRate\": \"62.3%\"}",
+  "stats_parsed": {
+    "acRate": "62.3%",
+    "totalAccepted": "691K",
+    "totalAcceptedRaw": 691040,
+    "totalSubmission": "1.1M",
+    "totalSubmissionRaw": 1109807
+  },
+  "title": "Accounts Merge",
+  "titleSlug": "accounts-merge",
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "Hash Table",
+      "slug": "hash-table"
+    },
+    {
+      "name": "String",
+      "slug": "string"
+    },
+    {
+      "name": "Depth-First Search",
+      "slug": "depth-first-search"
+    },
+    {
+      "name": "Breadth-First Search",
+      "slug": "breadth-first-search"
+    },
+    {
+      "name": "Union-Find",
+      "slug": "union-find"
+    },
+    {
+      "name": "Sorting",
+      "slug": "sorting"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "difficulty": "Medium",
+  "dislikes": 153,
+  "isPaidOnly": false,
+  "likes": 4733,
+  "questionFrontendId": "1466",
+  "questionId": "1576",
+  "similarQuestions": "[{\"title\": \"Minimum Edge Reversals So Every Node Is Reachable\", \"titleSlug\": \"minimum-edge-reversals-so-every-node-is-reachable\", \"difficulty\": \"Hard\", \"translatedTitle\": null}]",
+  "similar_parsed": [
+    {
+      "difficulty": "Hard",
+      "title": "Minimum Edge Reversals So Every Node Is Reachable",
+      "titleSlug": "minimum-edge-reversals-so-every-node-is-reachable",
+      "translatedTitle": null
+    }
+  ],
+  "stats": "{\"totalAccepted\": \"346.8K\", \"totalSubmission\": \"523.2K\", \"totalAcceptedRaw\": 346800, \"totalSubmissionRaw\": 523193, \"acRate\": \"66.3%\"}",
+  "stats_parsed": {
+    "acRate": "66.3%",
+    "totalAccepted": "346.8K",
+    "totalAcceptedRaw": 346800,
+    "totalSubmission": "523.2K",
+    "totalSubmissionRaw": 523193
+  },
+  "title": "Reorder Routes to Make All Paths Lead to the City Zero",
+  "titleSlug": "reorder-routes-to-make-all-paths-lead-to-the-city-zero",
+  "topicTags": [
+    {
+      "name": "Depth-First Search",
+      "slug": "depth-first-search"
+    },
+    {
+      "name": "Breadth-First Search",
+      "slug": "breadth-first-search"
+    },
+    {
+      "name": "Graph Theory",
+      "slug": "graph"
+    }
+  ]
+}

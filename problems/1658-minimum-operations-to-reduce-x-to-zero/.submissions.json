@@ -1,0 +1,14 @@
+{
+  "slug": "minimum-operations-to-reduce-x-to-zero",
+  "submissions": [
+    {
+      "date_formatted": "2026-11-15 16:02:43",
+      "id": 2196518779,
+      "lang": "cpp",
+      "memory": "111.4MB",
+      "runtime": "40ms",
+      "status_display": "Accepted",
+      "timestamp": 1794733363
+    }
+  ]
+}
